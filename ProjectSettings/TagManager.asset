@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Environment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Preview Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3305782587
+    locked: 0
+  - name: Collidable
+    uniqueID: 954771267
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 1007887883
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Preview Layer

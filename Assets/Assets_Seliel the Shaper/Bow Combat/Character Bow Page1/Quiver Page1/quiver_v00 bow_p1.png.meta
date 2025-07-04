@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: e1901422602d7c54db25a494d859fda7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7922066141132512291
+    second: char_a_pBOW1_7tlb_qv01_v01_0
+  - first:
+      213: 8167963225034532673
+    second: char_a_pBOW1_7tlb_qv01_v01_1
+  - first:
+      213: -7033249294049647764
+    second: char_a_pBOW1_7tlb_qv01_v01_2
+  - first:
+      213: 1036238831946180368
+    second: char_a_pBOW1_7tlb_qv01_v01_3
+  - first:
+      213: 8254173611427028553
+    second: char_a_pBOW1_7tlb_qv01_v01_4
+  - first:
+      213: -6632955144660939686
+    second: char_a_pBOW1_7tlb_qv01_v01_5
+  - first:
+      213: 7494629660957503921
+    second: char_a_pBOW1_7tlb_qv01_v01_6
+  - first:
+      213: -5050886154817694368
+    second: char_a_pBOW1_7tlb_qv01_v01_7
+  - first:
+      213: 6576144361900546810
+    second: char_a_pBOW1_7tlb_qv01_v01_8
+  - first:
+      213: 6378916890324706211
+    second: char_a_pBOW1_7tlb_qv01_v01_9
+  - first:
+      213: -4905334399503818883
+    second: char_a_pBOW1_7tlb_qv01_v01_10
+  - first:
+      213: -4463747512854794022
+    second: char_a_pBOW1_7tlb_qv01_v01_11
+  - first:
+      213: 4294770459381568613
+    second: char_a_pBOW1_7tlb_qv01_v01_12
+  - first:
+      213: -1416432299517909614
+    second: char_a_pBOW1_7tlb_qv01_v01_13
+  - first:
+      213: 6252877417328108238
+    second: char_a_pBOW1_7tlb_qv01_v01_14
+  - first:
+      213: -6027399124625780221
+    second: char_a_pBOW1_7tlb_qv01_v01_15
+  - first:
+      213: -4296620612177155184
+    second: char_a_pBOW1_7tlb_qv01_v01_16
+  - first:
+      213: -7534382265221614660
+    second: char_a_pBOW1_7tlb_qv01_v01_17
+  - first:
+      213: 3202934830032205830
+    second: char_a_pBOW1_7tlb_qv01_v01_18
+  - first:
+      213: 6131722934493604836
+    second: char_a_pBOW1_7tlb_qv01_v01_19
+  - first:
+      213: -5537314293014550321
+    second: char_a_pBOW1_7tlb_qv01_v01_20
+  - first:
+      213: 4474892262147058897
+    second: char_a_pBOW1_7tlb_qv01_v01_21
+  - first:
+      213: -3429450047371698859
+    second: char_a_pBOW1_7tlb_qv01_v01_22
+  - first:
+      213: 1770701330278867160
+    second: char_a_pBOW1_7tlb_qv01_v01_23
+  - first:
+      213: -6845333249296063633
+    second: char_a_pBOW1_7tlb_qv01_v01_24
+  - first:
+      213: -6908670237908795755
+    second: char_a_pBOW1_7tlb_qv01_v01_25
+  - first:
+      213: 379741391282231351
+    second: char_a_pBOW1_7tlb_qv01_v01_26
+  - first:
+      213: -3308179710603417424
+    second: char_a_pBOW1_7tlb_qv01_v01_27
+  - first:
+      213: -3370573340049422976
+    second: char_a_pBOW1_7tlb_qv01_v01_28
+  - first:
+      213: -6070186731074088199
+    second: char_a_pBOW1_7tlb_qv01_v01_29
+  - first:
+      213: 1363795845819740843
+    second: char_a_pBOW1_7tlb_qv01_v01_30
+  - first:
+      213: 6200021888809237372
+    second: char_a_pBOW1_7tlb_qv01_v01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3717ff0422d1170498bd66d09bb3d633
+      internalID: 1435266849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_down01
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd5d6cc9f759a4ebae1de175f22708
+      internalID: -682777481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4acacf9494cc644960e48d5c454119
+      internalID: 1270413758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowParry_down00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a50a915bdd81641a7c08830104e4ac
+      internalID: 1480351824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowDodge_down00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1ba15a18c6854e81c0c3d690fb408
+      internalID: -1093196883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_down00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca5937f8601c7e43b8c8dd37ead622d
+      internalID: -570030271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_down01
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1fec2354d5054c845ff77349ca7b8
+      internalID: -869475153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_down02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b2a414e356fa47b686334b4ae87b3
+      internalID: 1966127307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f16684f5b87741b198ef177a569a9
+      internalID: -1102591286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a265050178164744a130ccec5c4eed8
+      internalID: 748134200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b91ae0d1bb9ecf4ab732c8e3cf3b1ad
+      internalID: 1883229575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowParry_up00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cc1022b3293b749aa504a201aeea3e
+      internalID: 1300201719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowDodge_up00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476da5e6b21f96447aaed96e06f7bc77
+      internalID: 869052980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_up00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d589ea282b416d40a4ec8f3c3cc18fe
+      internalID: 194870222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_up01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31375b0971129274c9bed256679511a2
+      internalID: 1222291258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_up02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d6706b0b66ef40883ba977dc2b914
+      internalID: -842633583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_right00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cfa1bde47f4174b9ea2549e8cf14ed
+      internalID: 2076049800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4e656b8f57a14fb4797db42334359
+      internalID: -1768248294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46421f713e20f74e826a6b7f8809246
+      internalID: -1266069878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowParry_right00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790de3acfdfe02d4a9af8f2350c8fe4f
+      internalID: 557730531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowDodge_right00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03d9d50b7528641974b056657bdbe1
+      internalID: 1386577420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_right00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3799c074b34864a8b8abdc5d3c3e02
+      internalID: 313009653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_right01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b84f9be6f74794cb7853b39eeab290
+      internalID: 2117666439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_right02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80440c95d5e3f1498182c09aca5e0fa
+      internalID: 1241074428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd188ad4b7dfc04ea605673c1d8eeed
+      internalID: 827362638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0985bf4758d0c804a97236f5d1ee0320
+      internalID: -1187145774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowSheath_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac63f75f7ecddd43904f2257481da2e
+      internalID: 856894970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowParry_left00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d711ad07ea8e42a2ce7c725ac8466
+      internalID: -73151387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowDodge_left00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c294600785d942b7832022c1f8c15
+      internalID: 1319267401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_left00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3850337a2dfa046be0c8f7befb3200
+      internalID: 1243856663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_left01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06058f4946e78b24ea4df6d6e97b0383
+      internalID: 1615601100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quiver_v00_bowHurt_left02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5c4265c037f8479e31a8fc4a6bf00
+      internalID: 1832480100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 38fa86896c906334fbc696e0b76dc741
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      quiver_v00_bowDodge_down00: -1093196883
+      quiver_v00_bowDodge_left00: 1319267401
+      quiver_v00_bowDodge_right00: 1386577420
+      quiver_v00_bowDodge_up00: 869052980
+      quiver_v00_bowHurt_down00: -570030271
+      quiver_v00_bowHurt_down01: -869475153
+      quiver_v00_bowHurt_down02: 1966127307
+      quiver_v00_bowHurt_left00: 1243856663
+      quiver_v00_bowHurt_left01: 1615601100
+      quiver_v00_bowHurt_left02: 1832480100
+      quiver_v00_bowHurt_right00: 313009653
+      quiver_v00_bowHurt_right01: 2117666439
+      quiver_v00_bowHurt_right02: 1241074428
+      quiver_v00_bowHurt_up00: 194870222
+      quiver_v00_bowHurt_up01: 1222291258
+      quiver_v00_bowHurt_up02: -842633583
+      quiver_v00_bowParry_down00: 1480351824
+      quiver_v00_bowParry_left00: -73151387
+      quiver_v00_bowParry_right00: 557730531
+      quiver_v00_bowParry_up00: 1300201719
+      quiver_v00_bowSheath_down00: 1435266849
+      quiver_v00_bowSheath_down01: -682777481
+      quiver_v00_bowSheath_down02: 1270413758
+      quiver_v00_bowSheath_left00: 827362638
+      quiver_v00_bowSheath_left01: -1187145774
+      quiver_v00_bowSheath_left02: 856894970
+      quiver_v00_bowSheath_right00: 2076049800
+      quiver_v00_bowSheath_right01: -1768248294
+      quiver_v00_bowSheath_right02: -1266069878
+      quiver_v00_bowSheath_up00: -1102591286
+      quiver_v00_bowSheath_up01: 748134200
+      quiver_v00_bowSheath_up02: 1883229575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

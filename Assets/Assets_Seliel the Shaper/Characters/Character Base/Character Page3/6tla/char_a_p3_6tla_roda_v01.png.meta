@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1e13db2adc9ccf94aa60b2b94f3be064
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7807964802006415862
+    second: char_a_p3_6tla_roda_v01_0
+  - first:
+      213: -5945553882485774388
+    second: char_a_p3_6tla_roda_v01_1
+  - first:
+      213: -4825352276963742009
+    second: char_a_p3_6tla_roda_v01_2
+  - first:
+      213: -2969443551880878523
+    second: char_a_p3_6tla_roda_v01_3
+  - first:
+      213: 2665213958815126838
+    second: char_a_p3_6tla_roda_v01_4
+  - first:
+      213: 1760395103108001271
+    second: char_a_p3_6tla_roda_v01_5
+  - first:
+      213: 1888645896864826134
+    second: char_a_p3_6tla_roda_v01_6
+  - first:
+      213: -7897195772959436300
+    second: char_a_p3_6tla_roda_v01_7
+  - first:
+      213: 4705761979338138282
+    second: char_a_p3_6tla_roda_v01_8
+  - first:
+      213: 2855355510228022312
+    second: char_a_p3_6tla_roda_v01_9
+  - first:
+      213: 8785481627468924602
+    second: char_a_p3_6tla_roda_v01_10
+  - first:
+      213: -1240956784789702708
+    second: char_a_p3_6tla_roda_v01_11
+  - first:
+      213: -3146740117131225552
+    second: char_a_p3_6tla_roda_v01_12
+  - first:
+      213: 4023909878395829774
+    second: char_a_p3_6tla_roda_v01_13
+  - first:
+      213: 5432085853573356822
+    second: char_a_p3_6tla_roda_v01_14
+  - first:
+      213: 4155517739881017065
+    second: char_a_p3_6tla_roda_v01_15
+  - first:
+      213: 7860609430604430185
+    second: char_a_p3_6tla_roda_v01_16
+  - first:
+      213: -1673514352492417332
+    second: char_a_p3_6tla_roda_v01_17
+  - first:
+      213: 7735598247113744924
+    second: char_a_p3_6tla_roda_v01_18
+  - first:
+      213: 8531921587754172066
+    second: char_a_p3_6tla_roda_v01_19
+  - first:
+      213: -5573690752725764517
+    second: char_a_p3_6tla_roda_v01_20
+  - first:
+      213: 906792944472955594
+    second: char_a_p3_6tla_roda_v01_21
+  - first:
+      213: -8038432191876762551
+    second: char_a_p3_6tla_roda_v01_22
+  - first:
+      213: -8401139538518314783
+    second: char_a_p3_6tla_roda_v01_23
+  - first:
+      213: 8310096484751466063
+    second: char_a_p3_6tla_roda_v01_24
+  - first:
+      213: 3122017474601590138
+    second: char_a_p3_6tla_roda_v01_25
+  - first:
+      213: -8804732208758113339
+    second: char_a_p3_6tla_roda_v01_26
+  - first:
+      213: 454735317075399211
+    second: char_a_p3_6tla_roda_v01_27
+  - first:
+      213: -8729652452838449064
+    second: char_a_p3_6tla_roda_v01_28
+  - first:
+      213: 5831026951133111818
+    second: char_a_p3_6tla_roda_v01_29
+  - first:
+      213: -4631752287445117740
+    second: char_a_p3_6tla_roda_v01_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9785a7e967b5c60800000000000000
+      internalID: 7807964802006415862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 488
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7ad79ae362d7da0800000000000000
+      internalID: -5945553882485774388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 416
+        width: 14
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce247f7ba7e80db0800000000000000
+      internalID: -4825352276963742009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 416
+        width: 9
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e09582da6ac6d0800000000000000
+      internalID: -2969443551880878523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 416
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635969189fdbcf420800000000000000
+      internalID: 2665213958815126838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 483
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fde611f40e2e6810800000000000000
+      internalID: 1760395103108001271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 477
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613802dcf61d53a10800000000000000
+      internalID: 1888645896864826134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 415
+        width: 12
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1590f1946876290800000000000000
+      internalID: -7897195772959436300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 291
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa22df786993e4140800000000000000
+      internalID: 4705761979338138282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 295
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824789e45b240a720800000000000000
+      internalID: 2855355510228022312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 292
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab681022efc4ce970800000000000000
+      internalID: 8785481627468924602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 19
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7bffc016c37cee0800000000000000
+      internalID: -1240956784789702708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0361ced19888454d0800000000000000
+      internalID: -3146740117131225552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 287
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ef7fdf6bcc7d730800000000000000
+      internalID: 4023909878395829774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 289
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d1aabad45a26b40800000000000000
+      internalID: 5432085853573356822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee21771e5d5ba930800000000000000
+      internalID: 4155517739881017065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 233
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b334d31ae761d60800000000000000
+      internalID: 7860609430604430185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 206
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceeb25209b76c8e0800000000000000
+      internalID: -1673514352492417332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 208
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12695cee9d5a5b60800000000000000
+      internalID: 7735598247113744924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef291ea79776670800000000000000
+      internalID: 8531921587754172066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 144
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b6e38ac546a2b0800000000000000
+      internalID: -5573690752725764517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca142ce063959c00800000000000000
+      internalID: 906792944472955594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 155
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944fe1cc280c17090800000000000000
+      internalID: -8038432191876762551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07022d918296b80800000000000000
+      internalID: -8401139538518314783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e55de59b4635370800000000000000
+      internalID: 8310096484751466063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d903c1a52a35b20800000000000000
+      internalID: 3122017474601590138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb3882a4be4fc580800000000000000
+      internalID: -8804732208758113339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229a119c5b8f4600800000000000000
+      internalID: 454735317075399211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85062f7885b0ad680800000000000000
+      internalID: -8729652452838449064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 34
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a4023e18fbe050800000000000000
+      internalID: 5831026951133111818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_a_p3_6tla_roda_v01_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 27
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d41b3ba5d5b8bfb0800000000000000
+      internalID: -4631752287445117740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char_a_p3_6tla_roda_v01_0: 7807964802006415862
+      char_a_p3_6tla_roda_v01_1: -5945553882485774388
+      char_a_p3_6tla_roda_v01_10: 8785481627468924602
+      char_a_p3_6tla_roda_v01_11: -1240956784789702708
+      char_a_p3_6tla_roda_v01_12: -3146740117131225552
+      char_a_p3_6tla_roda_v01_13: 4023909878395829774
+      char_a_p3_6tla_roda_v01_14: 5432085853573356822
+      char_a_p3_6tla_roda_v01_15: 4155517739881017065
+      char_a_p3_6tla_roda_v01_16: 7860609430604430185
+      char_a_p3_6tla_roda_v01_17: -1673514352492417332
+      char_a_p3_6tla_roda_v01_18: 7735598247113744924
+      char_a_p3_6tla_roda_v01_19: 8531921587754172066
+      char_a_p3_6tla_roda_v01_2: -4825352276963742009
+      char_a_p3_6tla_roda_v01_20: -5573690752725764517
+      char_a_p3_6tla_roda_v01_21: 906792944472955594
+      char_a_p3_6tla_roda_v01_22: -8038432191876762551
+      char_a_p3_6tla_roda_v01_23: -8401139538518314783
+      char_a_p3_6tla_roda_v01_24: 8310096484751466063
+      char_a_p3_6tla_roda_v01_25: 3122017474601590138
+      char_a_p3_6tla_roda_v01_26: -8804732208758113339
+      char_a_p3_6tla_roda_v01_27: 454735317075399211
+      char_a_p3_6tla_roda_v01_28: -8729652452838449064
+      char_a_p3_6tla_roda_v01_29: 5831026951133111818
+      char_a_p3_6tla_roda_v01_3: -2969443551880878523
+      char_a_p3_6tla_roda_v01_30: -4631752287445117740
+      char_a_p3_6tla_roda_v01_4: 2665213958815126838
+      char_a_p3_6tla_roda_v01_5: 1760395103108001271
+      char_a_p3_6tla_roda_v01_6: 1888645896864826134
+      char_a_p3_6tla_roda_v01_7: -7897195772959436300
+      char_a_p3_6tla_roda_v01_8: 4705761979338138282
+      char_a_p3_6tla_roda_v01_9: 2855355510228022312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

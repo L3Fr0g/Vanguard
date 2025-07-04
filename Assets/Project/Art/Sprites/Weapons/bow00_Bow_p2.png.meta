@@ -1,0 +1,1293 @@
+fileFormatVersion: 2
+guid: 4d1f06410c30c4f41a666dca729d8fbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8923396810368302848
+    second: char_a_pBOW2_6tla_bo01_v01_0
+  - first:
+      213: 4757622285665454320
+    second: char_a_pBOW2_6tla_bo01_v01_1
+  - first:
+      213: 504722680951580055
+    second: char_a_pBOW2_6tla_bo01_v01_2
+  - first:
+      213: -5074091023934212886
+    second: char_a_pBOW2_6tla_bo01_v01_3
+  - first:
+      213: -5746527799227336769
+    second: char_a_pBOW2_6tla_bo01_v01_4
+  - first:
+      213: 8672840590079637796
+    second: char_a_pBOW2_6tla_bo01_v01_5
+  - first:
+      213: -6897123230310076636
+    second: char_a_pBOW2_6tla_bo01_v01_6
+  - first:
+      213: -2646684138056828866
+    second: char_a_pBOW2_6tla_bo01_v01_7
+  - first:
+      213: 5388950911291476720
+    second: char_a_pBOW2_6tla_bo01_v01_8
+  - first:
+      213: 9023460899204202082
+    second: char_a_pBOW2_6tla_bo01_v01_9
+  - first:
+      213: -365225914003536734
+    second: char_a_pBOW2_6tla_bo01_v01_10
+  - first:
+      213: 2178426384001309668
+    second: char_a_pBOW2_6tla_bo01_v01_11
+  - first:
+      213: 3541021565474737780
+    second: char_a_pBOW2_6tla_bo01_v01_12
+  - first:
+      213: -3639278292943258778
+    second: char_a_pBOW2_6tla_bo01_v01_13
+  - first:
+      213: -8026989853236851019
+    second: char_a_pBOW2_6tla_bo01_v01_14
+  - first:
+      213: -1694096233405129708
+    second: char_a_pBOW2_6tla_bo01_v01_15
+  - first:
+      213: -6152390730488107644
+    second: char_a_pBOW2_6tla_bo01_v01_16
+  - first:
+      213: 6499571412673373970
+    second: char_a_pBOW2_6tla_bo01_v01_17
+  - first:
+      213: 6192691126941926569
+    second: char_a_pBOW2_6tla_bo01_v01_18
+  - first:
+      213: -4061921508770901836
+    second: char_a_pBOW2_6tla_bo01_v01_19
+  - first:
+      213: -7758605254075128877
+    second: char_a_pBOW2_6tla_bo01_v01_20
+  - first:
+      213: -8255821589037468838
+    second: char_a_pBOW2_6tla_bo01_v01_21
+  - first:
+      213: 8546847999114562664
+    second: char_a_pBOW2_6tla_bo01_v01_22
+  - first:
+      213: 1716897430777588506
+    second: char_a_pBOW2_6tla_bo01_v01_23
+  - first:
+      213: -3358435579296671819
+    second: char_a_pBOW2_6tla_bo01_v01_24
+  - first:
+      213: 4491601625576343147
+    second: char_a_pBOW2_6tla_bo01_v01_25
+  - first:
+      213: -4251450117103651447
+    second: char_a_pBOW2_6tla_bo01_v01_26
+  - first:
+      213: -1946053591084057088
+    second: char_a_pBOW2_6tla_bo01_v01_27
+  - first:
+      213: 6275873741414513373
+    second: char_a_pBOW2_6tla_bo01_v01_28
+  - first:
+      213: -564476702771032129
+    second: char_a_pBOW2_6tla_bo01_v01_29
+  - first:
+      213: 3506974556221965860
+    second: char_a_pBOW2_6tla_bo01_v01_30
+  - first:
+      213: -8103222712861491264
+    second: char_a_pBOW2_6tla_bo01_v01_31
+  - first:
+      213: 3063089962195309825
+    second: char_a_pBOW2_6tla_bo01_v01_32
+  - first:
+      213: 8229955812700797764
+    second: char_a_pBOW2_6tla_bo01_v01_33
+  - first:
+      213: -2644016397022048134
+    second: char_a_pBOW2_6tla_bo01_v01_34
+  - first:
+      213: -5977548081264111333
+    second: char_a_pBOW2_6tla_bo01_v01_35
+  - first:
+      213: -7144499720001623520
+    second: char_a_pBOW2_6tla_bo01_v01_36
+  - first:
+      213: 7803980095767892373
+    second: char_a_pBOW2_6tla_bo01_v01_37
+  - first:
+      213: 6353479323354852680
+    second: char_a_pBOW2_6tla_bo01_v01_38
+  - first:
+      213: 4612380117048645283
+    second: char_a_pBOW2_6tla_bo01_v01_39
+  - first:
+      213: -235194484160835965
+    second: char_a_pBOW2_6tla_bo01_v01_40
+  - first:
+      213: 760224413143824682
+    second: char_a_pBOW2_6tla_bo01_v01_41
+  - first:
+      213: 8118375504576181054
+    second: char_a_pBOW2_6tla_bo01_v01_42
+  - first:
+      213: -280484324582665991
+    second: char_a_pBOW2_6tla_bo01_v01_43
+  - first:
+      213: -921296656163250240
+    second: char_a_pBOW2_6tla_bo01_v01_44
+  - first:
+      213: -4665898349411133698
+    second: char_a_pBOW2_6tla_bo01_v01_45
+  - first:
+      213: 3565573133710556044
+    second: char_a_pBOW2_6tla_bo01_v01_46
+  - first:
+      213: -8766982877893948156
+    second: char_a_pBOW2_6tla_bo01_v01_47
+  - first:
+      213: -5451064672002118752
+    second: char_a_pBOW2_6tla_bo01_v01_48
+  - first:
+      213: 3538394702898652759
+    second: char_a_pBOW2_6tla_bo01_v01_49
+  - first:
+      213: -4930923966204398680
+    second: char_a_pBOW2_6tla_bo01_v01_50
+  - first:
+      213: 4935503480936219145
+    second: char_a_pBOW2_6tla_bo01_v01_51
+  - first:
+      213: 8266903073648510988
+    second: char_a_pBOW2_6tla_bo01_v01_52
+  - first:
+      213: -904015040058388218
+    second: char_a_pBOW2_6tla_bo01_v01_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bow00_BowIdle_Down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a414d20fb4dd2048916a2cb07530368
+      internalID: -1124138356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72bde7a24695847b336175a6cc3a88
+      internalID: 1851050871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dda7d84b137fb1489e41cf65a83c71d
+      internalID: -1383692303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3247d9b3a440c4683dd95f0bbb9fbf
+      internalID: 238750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Down00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630faa62a3c8da49ae80bf1098c417c
+      internalID: 311788728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Down01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f7b1fdb01e904f9174d72d45d2e7f
+      internalID: 345943157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Down02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9da318a70a8cd4dabbd171f8755860
+      internalID: 2099775092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Down03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca7245e30de6841a1c9319e37bef85
+      internalID: -1790215054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a27f5d376e5310468a9e0c59e63086f
+      internalID: -650555202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dcef4874bd1f446938f9670d5aab02
+      internalID: 173386375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a2ed5724226f24d949043be4602280
+      internalID: 875418986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88f5e5b1bb0f7e46870b4d95b17a17a
+      internalID: 1803540406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Up00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af709c245beca4598237ffa65ad81d
+      internalID: 1442615745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Up01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebacdc6d15a82f4282badf240532b58
+      internalID: -1929273829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Up02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d914bddeab20ed478fa6033ae11ab0f
+      internalID: -1624905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Up03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef381698a4355754380e0793db6c8789
+      internalID: 296212494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6300bd552d590c4d907c0711d69fd11
+      internalID: -1860903706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32c57e12db63d94a9da16bd5b47fe3b
+      internalID: -1250472318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46daa49ae2e439469228377ca1b909a
+      internalID: 1525299620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a15acd58f6a3f4db2604bdf8313ebb
+      internalID: -2136052963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Right00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8be57f66ae4f04a90a1bb42c03f0a3
+      internalID: 1796243972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Right01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b46825ee7c68d74f88e2ea5a778f3cc
+      internalID: 248423811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Right02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38c8001450b3f488fcb90442425211
+      internalID: -2054571696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Right03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf05b81032ad394b90deedb49a7c2e0
+      internalID: 1729022727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd7e3826823c842a03c3c0554b93e9
+      internalID: 728201493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f4c74d477ac74a8cfd42027f527de
+      internalID: -109370306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc19844fd2473a49bdf2b4d27c57b38
+      internalID: 958920932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowIdle_Left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c5847aac94cc4fac7ce3eeb911266
+      internalID: 1333365084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Left00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ccdecceb4e7354d85baf257ed5e55a
+      internalID: -1862513103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Left01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c85f0ff55dc047bfe6d9a59e76d6b
+      internalID: 981408081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Left02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03760341172ef04ea8c940b46d5f4f6
+      internalID: 1679801964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowMove_Left03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fbc3f2e066e584b9b5c86b73f7e2fd
+      internalID: -746324695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowCrouch_Down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64209db05a20d1b45a756bfc38c67e58
+      internalID: -15740927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowRetreat_Down00
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235bd1552a0dd344af92e73997e0976
+      internalID: -260232776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowLunge_Down00
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a84e7d29025f646b88bdb18e2e4902
+      internalID: -701076106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowCrouch_Up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e58c76fc3afa46a6e8d367f8e39b9
+      internalID: -1821102831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowRetreat_Up00
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3eae1da56ceb245b1daaf655ad6dd6
+      internalID: 847345034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowLunge_Up00
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff82e60078215f429ab380ae48f3944
+      internalID: -1093779026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowCrouch_Right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd002ca370b491b46960a91b5f93867b
+      internalID: -775817328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowRetreat_Right00
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce8bd681ca3134d804cbea55969746
+      internalID: 1045639377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowLunge_Right00
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccb3deb101f994d82948503839a474
+      internalID: 168022306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowCrouch_Left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d7980a3c731914f8dc3f3e348e7742
+      internalID: 634430936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowRetreat_Left00
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43166b432a88c04ea3db352ae999888
+      internalID: -148840042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bow00_BowLunge_Left00
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707c9ff1b9b78445840fa16fdd493aa
+      internalID: 1340864499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d49ed2b5d50b304fb33318d64b842d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bow00_BowCrouch_Down00: -15740927
+      bow00_BowCrouch_Left00: 634430936
+      bow00_BowCrouch_Right00: -775817328
+      bow00_BowCrouch_Up00: -1821102831
+      bow00_BowIdle_Down00: -1124138356
+      bow00_BowIdle_Down01: 1851050871
+      bow00_BowIdle_Down02: -1383692303
+      bow00_BowIdle_Down03: 238750487
+      bow00_BowIdle_Left00: 728201493
+      bow00_BowIdle_Left01: -109370306
+      bow00_BowIdle_Left02: 958920932
+      bow00_BowIdle_Left03: 1333365084
+      bow00_BowIdle_Right00: -1860903706
+      bow00_BowIdle_Right01: -1250472318
+      bow00_BowIdle_Right02: 1525299620
+      bow00_BowIdle_Right03: -2136052963
+      bow00_BowIdle_Up00: -650555202
+      bow00_BowIdle_Up01: 173386375
+      bow00_BowIdle_Up02: 875418986
+      bow00_BowIdle_Up03: 1803540406
+      bow00_BowLunge_Down00: -701076106
+      bow00_BowLunge_Left00: 1340864499
+      bow00_BowLunge_Right00: 168022306
+      bow00_BowLunge_Up00: -1093779026
+      bow00_BowMove_Down00: 311788728
+      bow00_BowMove_Down01: 345943157
+      bow00_BowMove_Down02: 2099775092
+      bow00_BowMove_Down03: -1790215054
+      bow00_BowMove_Left00: -1862513103
+      bow00_BowMove_Left01: 981408081
+      bow00_BowMove_Left02: 1679801964
+      bow00_BowMove_Left03: -746324695
+      bow00_BowMove_Right00: 1796243972
+      bow00_BowMove_Right01: 248423811
+      bow00_BowMove_Right02: -2054571696
+      bow00_BowMove_Right03: 1729022727
+      bow00_BowMove_Up00: 1442615745
+      bow00_BowMove_Up01: -1929273829
+      bow00_BowMove_Up02: -1624905414
+      bow00_BowMove_Up03: 296212494
+      bow00_BowRetreat_Down00: -260232776
+      bow00_BowRetreat_Left00: -148840042
+      bow00_BowRetreat_Right00: 1045639377
+      bow00_BowRetreat_Up00: 847345034
+      bow_v00_BowIdle_Left0: 311788728
+      bow_v00_BowMove_Left0: -15740927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

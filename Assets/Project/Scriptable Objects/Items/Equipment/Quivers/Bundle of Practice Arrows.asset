@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fc7eb5054f8cb54ea3b45253ebf691b, type: 3}
+  m_Name: Bundle of Practice Arrows
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemDescription: 
+  icon: {fileID: 2783843586776455131, guid: 21c0302b1db713642b8aa42c97f31f79, type: 3}
+  prefab: {fileID: 6847411566944884934, guid: 0c58b3de2b248b749992f6958254c7b8, type: 3}
+  rarity: 1
+  itemLevel: 10
+  isStackable: 0
+  maxStackSize: 1
+  equippableBy: 03000000
+  strength: 0
+  intellect: 0
+  agility: 0
+  minPhysicalDamage: 0
+  maxPhysicalDamage: 0
+  projectilePrefab: {fileID: 5876513082595049504, guid: 290a54bf6fcc53641aaa9d52469e2dcd, type: 3}
+  critHitChance: 10
+  minMagicDamage: 0
+  maxMagicDamage: 0
+  armor: 3
+  magicResistance: 0
+  armorPenetration: 0
+  magicPenetration: 0

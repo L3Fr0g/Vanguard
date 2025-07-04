@@ -1,0 +1,1780 @@
+fileFormatVersion: 2
+guid: 8da06dd3d024f7e49b3176b19bb94da3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2235491083440859123
+    second: char_a_pBOW3_0bas_humn_v00_0
+  - first:
+      213: -8719296015424322577
+    second: char_a_pBOW3_0bas_humn_v00_1
+  - first:
+      213: -1772667990271612568
+    second: char_a_pBOW3_0bas_humn_v00_2
+  - first:
+      213: 5264989234088843165
+    second: char_a_pBOW3_0bas_humn_v00_3
+  - first:
+      213: -8756088883035199395
+    second: char_a_pBOW3_0bas_humn_v00_4
+  - first:
+      213: -5881947267536132776
+    second: char_a_pBOW3_0bas_humn_v00_5
+  - first:
+      213: 4540012824283823889
+    second: char_a_pBOW3_0bas_humn_v00_6
+  - first:
+      213: 4694451258019900943
+    second: char_a_pBOW3_0bas_humn_v00_7
+  - first:
+      213: -7041307346478142120
+    second: char_a_pBOW3_0bas_humn_v00_8
+  - first:
+      213: -8921122514121861187
+    second: char_a_pBOW3_0bas_humn_v00_9
+  - first:
+      213: 3697997617651576158
+    second: char_a_pBOW3_0bas_humn_v00_10
+  - first:
+      213: 8641347851308075004
+    second: char_a_pBOW3_0bas_humn_v00_11
+  - first:
+      213: -4074727049540263178
+    second: char_a_pBOW3_0bas_humn_v00_12
+  - first:
+      213: 4461729335855166190
+    second: char_a_pBOW3_0bas_humn_v00_13
+  - first:
+      213: 5956821459274699141
+    second: char_a_pBOW3_0bas_humn_v00_14
+  - first:
+      213: -5542026496780409747
+    second: char_a_pBOW3_0bas_humn_v00_15
+  - first:
+      213: -881572764526034172
+    second: char_a_pBOW3_0bas_humn_v00_16
+  - first:
+      213: -2170939010026622669
+    second: char_a_pBOW3_0bas_humn_v00_17
+  - first:
+      213: 1449682152785031131
+    second: char_a_pBOW3_0bas_humn_v00_18
+  - first:
+      213: 3813074024788926019
+    second: char_a_pBOW3_0bas_humn_v00_19
+  - first:
+      213: 2462420874697625264
+    second: char_a_pBOW3_0bas_humn_v00_20
+  - first:
+      213: -5185000529042178985
+    second: char_a_pBOW3_0bas_humn_v00_21
+  - first:
+      213: -18771812375745412
+    second: char_a_pBOW3_0bas_humn_v00_22
+  - first:
+      213: -2412261894331382490
+    second: char_a_pBOW3_0bas_humn_v00_23
+  - first:
+      213: -2387791856767774188
+    second: char_a_pBOW3_0bas_humn_v00_24
+  - first:
+      213: -4192841108205693273
+    second: char_a_pBOW3_0bas_humn_v00_25
+  - first:
+      213: 7775469606573475728
+    second: char_a_pBOW3_0bas_humn_v00_26
+  - first:
+      213: 4134362584838718384
+    second: char_a_pBOW3_0bas_humn_v00_27
+  - first:
+      213: 7174158694614333081
+    second: char_a_pBOW3_0bas_humn_v00_28
+  - first:
+      213: 2687868749892836978
+    second: char_a_pBOW3_0bas_humn_v00_29
+  - first:
+      213: -6410228733172062898
+    second: char_a_pBOW3_0bas_humn_v00_30
+  - first:
+      213: -8934814306278433466
+    second: char_a_pBOW3_0bas_humn_v00_31
+  - first:
+      213: 8715845769544407556
+    second: char_a_pBOW3_0bas_humn_v00_32
+  - first:
+      213: 3680205566127845924
+    second: char_a_pBOW3_0bas_humn_v00_33
+  - first:
+      213: 1658577044743570249
+    second: char_a_pBOW3_0bas_humn_v00_34
+  - first:
+      213: 7806215070821001072
+    second: char_a_pBOW3_0bas_humn_v00_35
+  - first:
+      213: 4306970619923933829
+    second: char_a_pBOW3_0bas_humn_v00_36
+  - first:
+      213: -891367661925906914
+    second: char_a_pBOW3_0bas_humn_v00_37
+  - first:
+      213: -6241626082710391933
+    second: char_a_pBOW3_0bas_humn_v00_38
+  - first:
+      213: 779408285260412367
+    second: char_a_pBOW3_0bas_humn_v00_39
+  - first:
+      213: 2352459957334923400
+    second: char_a_pBOW3_0bas_humn_v00_40
+  - first:
+      213: -6526214217054705820
+    second: char_a_pBOW3_0bas_humn_v00_41
+  - first:
+      213: -3427768120775066353
+    second: char_a_pBOW3_0bas_humn_v00_42
+  - first:
+      213: -910912999296408580
+    second: char_a_pBOW3_0bas_humn_v00_43
+  - first:
+      213: -7519088691328474993
+    second: char_a_pBOW3_0bas_humn_v00_44
+  - first:
+      213: 2112579314558956936
+    second: char_a_pBOW3_0bas_humn_v00_45
+  - first:
+      213: -4973197881396246287
+    second: char_a_pBOW3_0bas_humn_v00_46
+  - first:
+      213: 1546325317464202009
+    second: char_a_pBOW3_0bas_humn_v00_47
+  - first:
+      213: -2341335656340376619
+    second: char_a_pBOW3_0bas_humn_v00_48
+  - first:
+      213: -5627239862551763202
+    second: char_a_pBOW3_0bas_humn_v00_49
+  - first:
+      213: -61980733844167793
+    second: char_a_pBOW3_0bas_humn_v00_50
+  - first:
+      213: 3587610833322951062
+    second: char_a_pBOW3_0bas_humn_v00_51
+  - first:
+      213: 767324024674278112
+    second: char_a_pBOW3_0bas_humn_v00_52
+  - first:
+      213: -7439261434268496563
+    second: char_a_pBOW3_0bas_humn_v00_53
+  - first:
+      213: -1614324037456300450
+    second: char_a_pBOW3_0bas_humn_v00_54
+  - first:
+      213: -2849752474585413958
+    second: char_a_pBOW3_0bas_humn_v00_55
+  - first:
+      213: -7023507940781930870
+    second: char_a_pBOW3_0bas_humn_v00_56
+  - first:
+      213: -543395897520837875
+    second: char_a_pBOW3_0bas_humn_v00_57
+  - first:
+      213: -426823495880195199
+    second: char_a_pBOW3_0bas_humn_v00_58
+  - first:
+      213: 5324502576997948606
+    second: char_a_pBOW3_0bas_humn_v00_59
+  - first:
+      213: 5677696556955777263
+    second: char_a_pBOW3_0bas_humn_v00_60
+  - first:
+      213: 5288439989710504353
+    second: char_a_pBOW3_0bas_humn_v00_61
+  - first:
+      213: 1658228962175756798
+    second: char_a_pBOW3_0bas_humn_v00_62
+  - first:
+      213: 7451897126850591160
+    second: char_a_pBOW3_0bas_humn_v00_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a07b8107cd7d498164cc9a1fdf418
+      internalID: 1357264741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c6e7200f61dcf4b871e5d2ad0d8202
+      internalID: -1240375052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7dac35c703b314ca2bcf064234c2b6
+      internalID: -1766719222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961df1885d524b4e992feda553ae9d6
+      internalID: -152350452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Down04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377afe55eb172474586844d467b16278
+      internalID: 114467558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Down00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d492e1ad926d7b4d847be1f62fbd7d7
+      internalID: -1220860092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Down01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079a16c9f68a4e46a608af7124d5a35
+      internalID: -2016127841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Down02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b69796eb9db54c8bf1f4f177aa897
+      internalID: -2009516124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b6db4cf70e2d44bf5fc003a76d662
+      internalID: -116982376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957231c1ae9f5e44d97f489affe04b6f
+      internalID: -1320084519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498905bd4c54df4086c4350195944a9
+      internalID: -980501443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366570ee19213034cb15c6829adfd7e4
+      internalID: 362223763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Up04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc01d53c523303d4b8d7659eebafb410
+      internalID: -350885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Up00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8222229671eafc40801a26521262e1b
+      internalID: -1552745489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Up01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21184cb6d24845147b2f6e67900144d3
+      internalID: -143634891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Up02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12378902df364814cb9011ccd2f0b050
+      internalID: 165233937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf8d5c9b04cd4544bb97ff14fea048b
+      internalID: -283241949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa3254c5ef1ce489d36766c23697eb
+      internalID: -1061379838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1bd7f619af6cd4998bf1ea32c33864
+      internalID: -1892294889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d4d1a081b02a4e89cdc2d1b034f0d
+      internalID: -1908277767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Right04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad18795d862d047bf37b4a4b7472e3
+      internalID: -316857859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Right00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6336dac855c804caa9e23027ca4767
+      internalID: 1201138030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Right01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c6d84be92eff449af81518bfa1d2e
+      internalID: 1837081764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Right02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e6486f61310da4ca8d115e9515e6ad
+      internalID: -988239604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18236cb22b16de4ab5ce7fc7af9c309
+      internalID: 89593009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ca2b1a5ac9364b800999a5ab76eea
+      internalID: 292050739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5341f65970bc9dd4a8e8e9df2cc4672f
+      internalID: -1699420570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518cc05a99e4c4f4a8913df62cb5c575
+      internalID: -473358664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Draw_Left04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76899779cf34c74eac906c4950bf925
+      internalID: -1505495233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Left00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3be725c9f92ad4b85b35c2372a80ba
+      internalID: -1796732267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Left01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34383641975e5b74fadea485df27c138
+      internalID: 589400552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction2Release_Left02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35c817ba0787cb49926c99de603ae44
+      internalID: 1999257592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00faa28d8f9a8b7478b787cf7f06d2bf
+      internalID: -2086177308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a426caa2e8c435459b0fde5d7170b81
+      internalID: 309114194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3dabe266d6f74cbb5d58129ba39bb
+      internalID: -29887321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291887feb107244c80b72ff6e564139
+      internalID: 1796889083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Down04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ee1833407cc74188d3b816e1fe466
+      internalID: -1680646787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Down00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86aca06aefd90748bea19dda924ce43
+      internalID: 864466730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Down01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6184422189a8e9d46a657eb86419aa89
+      internalID: -644466930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Down02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0644e87e6f1788b4babb4d5383c44cf9
+      internalID: 1755850889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3aaf4e10694b643bf1a28e542253cc
+      internalID: -904976973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8994ea3619d7d4e9e5d981b1e91fd5
+      internalID: -1398575150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2117005f0171094f93c503c473d2e4e
+      internalID: 582481318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec549253bcc11344922033ef508657e
+      internalID: 1711102806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Up04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d1fa07213401b4cb573f18541e7884
+      internalID: -1331962070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Up00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72d9fa17d36d149a19bbb6e389e25b
+      internalID: -1479120167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Up01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64922a4b748414f4f9481161510a7ad7
+      internalID: 1215277367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Up02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac4e33c8a054f419f4dfbd28f02630
+      internalID: 1694291765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84aefd15e4d55041b791086e2a615b9
+      internalID: -2064536295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084dad673aa6e64fbe717dcf8d7a4f9
+      internalID: -795629601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d60bfbd0ab8d349a4ab4095477eb0e
+      internalID: 1871195794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dd3b339ec366647bf2e07fc6cd0bcb
+      internalID: -290114325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Right04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39aa96b39ee824cb78c7277da708fc
+      internalID: 1818213206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Right00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f8a593ae766944b2bdab876bae786
+      internalID: 703363690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Right01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a44951ca686648af69bbe5f84764a
+      internalID: -853580149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Right02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f11efcad398764497f2a3c85dea96d
+      internalID: 742756546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871bdf9fc7f2ab54abab61649f44ca91
+      internalID: 1670948399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434e5a23e4ef814a8fef6b12c8fb8d5
+      internalID: 1664349763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f027f9c592c97429f84f8e2d3744f3
+      internalID: -1013909358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543cfc1bec135748bc5d271afebb340
+      internalID: -1828605954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Draw_Left04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8d47d020d92b43983eefb36d107bf
+      internalID: 977129232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Left00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec3aff4a6f07d647b61768241af45b9
+      internalID: -419333322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Left01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6eea531f48f1a4681d697645273732
+      internalID: -1223680884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_BowAction1Release_Left02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5584eb9bc323d14a9e0bca6a5b2f9e3
+      internalID: 1163192288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0bb60dde10d44124f8f43a06ecc25b2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char00_BowAction1Draw_Down01: 309114194
+      char00_BowAction1Draw_Down02: -29887321
+      char00_BowAction1Draw_Down03: 1796889083
+      char00_BowAction1Draw_Down04: -1680646787
+      char00_BowAction1Draw_Left00: 1670948399
+      char00_BowAction1Draw_Left01: 1664349763
+      char00_BowAction1Draw_Left02: -1013909358
+      char00_BowAction1Draw_Left03: -1828605954
+      char00_BowAction1Draw_Left04: 977129232
+      char00_BowAction1Draw_Right00: -2064536295
+      char00_BowAction1Draw_Right01: -795629601
+      char00_BowAction1Draw_Right02: 1871195794
+      char00_BowAction1Draw_Right03: -290114325
+      char00_BowAction1Draw_Right04: 1818213206
+      char00_BowAction1Draw_Up00: -904976973
+      char00_BowAction1Draw_Up01: -1398575150
+      char00_BowAction1Draw_Up02: 582481318
+      char00_BowAction1Draw_Up03: 1711102806
+      char00_BowAction1Draw_Up04: -1331962070
+      char00_BowAction1Release_Down00: 864466730
+      char00_BowAction1Release_Down01: -644466930
+      char00_BowAction1Release_Down02: 1755850889
+      char00_BowAction1Release_Left00: -419333322
+      char00_BowAction1Release_Left01: -1223680884
+      char00_BowAction1Release_Left02: 1163192288
+      char00_BowAction1Release_Right00: 703363690
+      char00_BowAction1Release_Right01: -853580149
+      char00_BowAction1Release_Right02: 742756546
+      char00_BowAction1Release_Up00: -1479120167
+      char00_BowAction1Release_Up01: 1215277367
+      char00_BowAction1Release_Up02: 1694291765
+      char00_BowAction2Draw_Down00: 1357264741
+      char00_BowAction2Draw_Down01: -1240375052
+      char00_BowAction2Draw_Down02: -1766719222
+      char00_BowAction2Draw_Down03: -152350452
+      char00_BowAction2Draw_Down04: 114467558
+      char00_BowAction2Draw_Left00: 89593009
+      char00_BowAction2Draw_Left01: 292050739
+      char00_BowAction2Draw_Left02: -1699420570
+      char00_BowAction2Draw_Left03: -473358664
+      char00_BowAction2Draw_Left04: -1505495233
+      char00_BowAction2Draw_Right00: -283241949
+      char00_BowAction2Draw_Right01: -1061379838
+      char00_BowAction2Draw_Right02: -1892294889
+      char00_BowAction2Draw_Right03: -1908277767
+      char00_BowAction2Draw_Right04: -316857859
+      char00_BowAction2Draw_Up00: -116982376
+      char00_BowAction2Draw_Up01: -1320084519
+      char00_BowAction2Draw_Up02: -980501443
+      char00_BowAction2Draw_Up03: 362223763
+      char00_BowAction2Draw_Up04: -350885089
+      char00_BowAction2Release_Down00: -1220860092
+      char00_BowAction2Release_Down01: -2016127841
+      char00_BowAction2Release_Down02: -2009516124
+      char00_BowAction2Release_Left00: -1796732267
+      char00_BowAction2Release_Left01: 589400552
+      char00_BowAction2Release_Left02: 1999257592
+      char00_BowAction2Release_Right00: 1201138030
+      char00_BowAction2Release_Right01: 1837081764
+      char00_BowAction2Release_Right02: -988239604
+      char00_BowAction2Release_Up00: -1552745489
+      char00_BowAction2Release_Up01: -143634891
+      char00_BowAction2Release_Up02: 165233937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

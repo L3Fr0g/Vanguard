@@ -1,0 +1,1360 @@
+fileFormatVersion: 2
+guid: ed231e27628d89e4db54203d814f720d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 266529739547005294
+    second: char_a_pPOL2_6tla_sp01_v01_0
+  - first:
+      213: -6766429941408686859
+    second: char_a_pPOL2_6tla_sp01_v01_1
+  - first:
+      213: -2590336167280125506
+    second: char_a_pPOL2_6tla_sp01_v01_2
+  - first:
+      213: -4697101436671950158
+    second: char_a_pPOL2_6tla_sp01_v01_3
+  - first:
+      213: 6404206386164675332
+    second: char_a_pPOL2_6tla_sp01_v01_4
+  - first:
+      213: 6704798313511214351
+    second: char_a_pPOL2_6tla_sp01_v01_5
+  - first:
+      213: -729322804041360664
+    second: char_a_pPOL2_6tla_sp01_v01_6
+  - first:
+      213: -3976969247961079723
+    second: char_a_pPOL2_6tla_sp01_v01_7
+  - first:
+      213: -2168976333199053409
+    second: char_a_pPOL2_6tla_sp01_v01_8
+  - first:
+      213: -3379261584085661699
+    second: char_a_pPOL2_6tla_sp01_v01_9
+  - first:
+      213: -722757781147647574
+    second: char_a_pPOL2_6tla_sp01_v01_10
+  - first:
+      213: 64102493343764489
+    second: char_a_pPOL2_6tla_sp01_v01_11
+  - first:
+      213: 555303698747926291
+    second: char_a_pPOL2_6tla_sp01_v01_12
+  - first:
+      213: -6615933220952227147
+    second: char_a_pPOL2_6tla_sp01_v01_13
+  - first:
+      213: -8312324059540949257
+    second: char_a_pPOL2_6tla_sp01_v01_14
+  - first:
+      213: 8209507664292964945
+    second: char_a_pPOL2_6tla_sp01_v01_15
+  - first:
+      213: -2238862207115477072
+    second: char_a_pPOL2_6tla_sp01_v01_16
+  - first:
+      213: 387547259076506136
+    second: char_a_pPOL2_6tla_sp01_v01_17
+  - first:
+      213: -6879879130545059498
+    second: char_a_pPOL2_6tla_sp01_v01_18
+  - first:
+      213: 1184454629242096664
+    second: char_a_pPOL2_6tla_sp01_v01_19
+  - first:
+      213: -3425814166913134962
+    second: char_a_pPOL2_6tla_sp01_v01_20
+  - first:
+      213: 7794721166684864975
+    second: char_a_pPOL2_6tla_sp01_v01_21
+  - first:
+      213: -8284391133593042214
+    second: char_a_pPOL2_6tla_sp01_v01_22
+  - first:
+      213: -3719106404796882250
+    second: char_a_pPOL2_6tla_sp01_v01_23
+  - first:
+      213: 3995614075006077964
+    second: char_a_pPOL2_6tla_sp01_v01_24
+  - first:
+      213: 7286321093310514402
+    second: char_a_pPOL2_6tla_sp01_v01_25
+  - first:
+      213: -1750110892274600122
+    second: char_a_pPOL2_6tla_sp01_v01_26
+  - first:
+      213: 8392493244919135626
+    second: char_a_pPOL2_6tla_sp01_v01_27
+  - first:
+      213: 5487896383749361920
+    second: char_a_pPOL2_6tla_sp01_v01_28
+  - first:
+      213: 5982026450014689426
+    second: char_a_pPOL2_6tla_sp01_v01_29
+  - first:
+      213: -8889556470972345692
+    second: char_a_pPOL2_6tla_sp01_v01_30
+  - first:
+      213: 3168496306275105884
+    second: char_a_pPOL2_6tla_sp01_v01_31
+  - first:
+      213: -6240929874881685762
+    second: char_a_pPOL2_6tla_sp01_v01_32
+  - first:
+      213: -1030072523477853301
+    second: char_a_pPOL2_6tla_sp01_v01_33
+  - first:
+      213: -7555568891186996582
+    second: char_a_pPOL2_6tla_sp01_v01_34
+  - first:
+      213: 1400025934553824441
+    second: char_a_pPOL2_6tla_sp01_v01_35
+  - first:
+      213: 3053586835402541229
+    second: char_a_pPOL2_6tla_sp01_v01_36
+  - first:
+      213: 531465802866487659
+    second: char_a_pPOL2_6tla_sp01_v01_37
+  - first:
+      213: 4608852528335698275
+    second: char_a_pPOL2_6tla_sp01_v01_38
+  - first:
+      213: 1370410435228917714
+    second: char_a_pPOL2_6tla_sp01_v01_39
+  - first:
+      213: -196647024216570627
+    second: char_a_pPOL2_6tla_sp01_v01_40
+  - first:
+      213: 7996652705941738351
+    second: char_a_pPOL2_6tla_sp01_v01_41
+  - first:
+      213: 6687967509151868387
+    second: char_a_pPOL2_6tla_sp01_v01_42
+  - first:
+      213: 8204040292928569075
+    second: char_a_pPOL2_6tla_sp01_v01_43
+  - first:
+      213: -297404050033954111
+    second: char_a_pPOL2_6tla_sp01_v01_44
+  - first:
+      213: -2097840517741731325
+    second: char_a_pPOL2_6tla_sp01_v01_45
+  - first:
+      213: 2404371844513764971
+    second: char_a_pPOL2_6tla_sp01_v01_46
+  - first:
+      213: -84086946684497459
+    second: char_a_pPOL2_6tla_sp01_v01_47
+  - first:
+      213: 2082320568809606444
+    second: char_a_pPOL2_6tla_sp01_v01_48
+  - first:
+      213: 9052661040359311129
+    second: char_a_pPOL2_6tla_sp01_v01_49
+  - first:
+      213: -7293295029009971716
+    second: char_a_pPOL2_6tla_sp01_v01_50
+  - first:
+      213: -8388008743906075192
+    second: char_a_pPOL2_6tla_sp01_v01_51
+  - first:
+      213: 8003071138928453270
+    second: char_a_pPOL2_6tla_sp01_v01_52
+  - first:
+      213: -4110260973940164164
+    second: char_a_pPOL2_6tla_sp01_v01_53
+  - first:
+      213: -7874896811243777749
+    second: char_a_pPOL2_6tla_sp01_v01_54
+  - first:
+      213: -5732456299338699531
+    second: char_a_pPOL2_6tla_sp01_v01_55
+  - first:
+      213: 8858171738971739223
+    second: char_a_pPOL2_6tla_sp01_v01_56
+  - first:
+      213: -1496501763386182709
+    second: char_a_pPOL2_6tla_sp01_v01_57
+  - first:
+      213: -6776227552228242586
+    second: char_a_pPOL2_6tla_sp01_v01_58
+  - first:
+      213: 2282507152347691222
+    second: char_a_pPOL2_6tla_sp01_v01_59
+  - first:
+      213: -1772139080865169727
+    second: char_a_pPOL2_6tla_sp01_v01_60
+  - first:
+      213: -9105956308362207792
+    second: char_a_pPOL2_6tla_sp01_v01_61
+  - first:
+      213: -646195106140769930
+    second: char_a_pPOL2_6tla_sp01_v01_62
+  - first:
+      213: -1351433630968939342
+    second: char_a_pPOL2_6tla_sp01_v01_63
+  - first:
+      213: -4695265600760888506
+    second: char_a_pPOL2_6tla_sp01_v01_64
+  - first:
+      213: -6092895958279216569
+    second: char_a_pPOL2_6tla_sp01_v01_65
+  - first:
+      213: -706803516216891677
+    second: char_a_pPOL2_6tla_sp01_v01_66
+  - first:
+      213: -3028158617425399654
+    second: char_a_pPOL2_6tla_sp01_v01_67
+  - first:
+      213: -1353517883429316999
+    second: char_a_pPOL2_6tla_sp01_v01_68
+  - first:
+      213: -2645654560040787542
+    second: char_a_pPOL2_6tla_sp01_v01_69
+  - first:
+      213: -3849178320747121808
+    second: char_a_pPOL2_6tla_sp01_v01_70
+  - first:
+      213: -3906643531219322912
+    second: char_a_pPOL2_6tla_sp01_v01_71
+  - first:
+      213: 6469401120029035966
+    second: char_a_pPOL2_6tla_sp01_v01_72
+  - first:
+      213: -1154603956116039314
+    second: char_a_pPOL2_6tla_sp01_v01_73
+  - first:
+      213: -5211326380165701724
+    second: char_a_pPOL2_6tla_sp01_v01_74
+  - first:
+      213: 4835598970756879616
+    second: char_a_pPOL2_6tla_sp01_v01_75
+  - first:
+      213: 5280056778087441665
+    second: char_a_pPOL2_6tla_sp01_v01_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: polearm00_idle_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172214af3d39674488172debd457d564
+      internalID: -1977456053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d009c09fd1d87a48929eadc6c67eacf
+      internalID: 1036382145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06206bd23c886774bb46bb7482cfab98
+      internalID: -45663516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194aab66cfc6305459c4b2a449f38b40
+      internalID: 1723099084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_down00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608fe2fb897c644ba599ee671f21db2
+      internalID: 1626700501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_down01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ed68ca558500489d8eeda81e48b9b
+      internalID: -1380844902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_down02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e7e2b52387b64791fd3b4e6eceb30
+      internalID: 1827948260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_down03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04ea16c0e4b4c4bafce03c56fce0e3
+      internalID: -409846704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9c130b73270f146bb56fc1dd745571
+      internalID: -975873041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b2ae82fba88640bd939ca1aa458b4
+      internalID: -1898270510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b17d1552121764eb77bb477e1c331b
+      internalID: 2137552164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8353e8828ef3458846ab2c024d127
+      internalID: -2060209270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_up00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fc7ae851bc5154f880307e1abe160d
+      internalID: -1671167177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_up01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05942e5accd11b0438ce1060bc5fe366
+      internalID: -81617496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_up02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba367a85a5a5e4dbadbfc9735af130
+      internalID: 77922102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_up03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa716f7381ee97f40b25a5ba37d7372b
+      internalID: 1521045417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504eccc0774387349a1161cfa84836d6
+      internalID: 123789985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea01af031770434cb405f80ebb132c4
+      internalID: 1986599208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67dd7f50751e2648a2be8458a660dc6
+      internalID: -1627873151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae620459523dfa34ebaac13dd922aa0f
+      internalID: -1364185860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_right00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b842741ce7cf24b4da70aae6dec81552
+      internalID: 1785945917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_right01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177312cc1170d72459744d705d400ed8
+      internalID: -1714021184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_right02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97864cf8d15c02646851c0e48cf16ef2
+      internalID: 1914790286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_right03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d071b2a631d842a5be92d0941522f
+      internalID: -428822490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdefc869f636474c8b741e7f3aa1c10
+      internalID: 2032349800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8b653308d32042bdfe206ba5b3143
+      internalID: -698276231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b909915717b73478b0145bbd556f4e
+      internalID: -781012957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_idle_left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4964e9207fad54db3a3f528c5e4f5a
+      internalID: 1014561778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_left00
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83915e1a03dfe214f85a275e181c1f92
+      internalID: -1018257510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_left01
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14fc358be6d8f41b40f2f1bcb5848f
+      internalID: -858017175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_left02
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76042fd6c8b81a44838d93be5f7f9f8
+      internalID: -514176246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_move_left03
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b512d5e4bdb746a1ec6f8e188abf4
+      internalID: -425898962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_crouch_down
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf0d21f031c9a54099c3e2ed387d504
+      internalID: -1038837178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_retreat_down
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cc4ca1d3e0ebe49865e0cdaefced36
+      internalID: -1423492668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_lunge_down
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041f1f41494679040956850e145d41dc
+      internalID: 334221829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_crouch_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd518bb6b32204da03a53e54501312
+      internalID: 396460184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_retreat_up
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05dff802e0564045993688b14f03ac6
+      internalID: 56115504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_lunge_up
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3993e19a42ba4e90752a3419d7327
+      internalID: 854063308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_crouch_right
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc5fdf4b8f50c4fb54a07896864e53
+      internalID: 735104269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_retreat_right
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcfa11dbc87e4144a6c8867664e9410
+      internalID: -560128154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_lunge_right
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df9b2de27619848a2e6b57604f24c7
+      internalID: 135778620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_crouch_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5df1293484c6d4baa6abd8b41a05e1
+      internalID: -375769579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_retreat_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364bb3f77caec7c4693af79356e4ae62
+      internalID: -194733381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_lunge_left
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c24f4868c8326e4e930d11b49af3d85
+      internalID: 1909436109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8d92112e11e14f443ac55f0633d2744b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      polearm00_crouch_down: -1038837178
+      polearm00_crouch_left: -375769579
+      polearm00_crouch_right: 735104269
+      polearm00_crouch_up: 396460184
+      polearm00_idle_down00: -1977456053
+      polearm00_idle_down01: 1036382145
+      polearm00_idle_down02: -45663516
+      polearm00_idle_down03: 1723099084
+      polearm00_idle_left00: 2032349800
+      polearm00_idle_left01: -698276231
+      polearm00_idle_left02: -781012957
+      polearm00_idle_left03: 1014561778
+      polearm00_idle_right00: 123789985
+      polearm00_idle_right01: 1986599208
+      polearm00_idle_right02: -1627873151
+      polearm00_idle_right03: -1364185860
+      polearm00_idle_up00: -975873041
+      polearm00_idle_up01: -1898270510
+      polearm00_idle_up02: 2137552164
+      polearm00_idle_up03: -2060209270
+      polearm00_lunge_down: 334221829
+      polearm00_lunge_left: 1909436109
+      polearm00_lunge_right: 135778620
+      polearm00_lunge_up: 854063308
+      polearm00_move_down00: 1626700501
+      polearm00_move_down01: -1380844902
+      polearm00_move_down02: 1827948260
+      polearm00_move_down03: -409846704
+      polearm00_move_left00: -1018257510
+      polearm00_move_left01: -858017175
+      polearm00_move_left02: -514176246
+      polearm00_move_left03: -425898962
+      polearm00_move_right00: 1785945917
+      polearm00_move_right01: -1714021184
+      polearm00_move_right02: 1914790286
+      polearm00_move_right03: -428822490
+      polearm00_move_up00: -1671167177
+      polearm00_move_up01: -81617496
+      polearm00_move_up02: 77922102
+      polearm00_move_up03: 1521045417
+      polearm00_retreat_down: -1423492668
+      polearm00_retreat_left: -194733381
+      polearm00_retreat_right: -560128154
+      polearm00_retreat_up: 56115504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5238d35fd2efa724a95e2720b84525ac, type: 3}
+  m_Name: Sparring Spear
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemDescription: 
+  icon: {fileID: 21300000, guid: 07cb2a9bd81ff5848b08177fcad851d4, type: 2}
+  prefab: {fileID: 6847411566944884934, guid: ef461e47e3ae1534b8ee4b1bffb155e1, type: 3}
+  rarity: 1
+  itemLevel: 1
+  isStackable: 0
+  maxStackSize: 1
+  equippableBy: 04000000
+  strength: 0
+  intellect: 0
+  agility: 0
+  range: 2
+  attackSpeed: 1
+  minPhysicalDamage: 0
+  maxPhysicalDamage: 0
+  minMagicDamage: 0
+  maxMagicDamage: 0
+  critHitChance: 0
+  armorPenetration: 0
+  magicPenetration: 0

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 70633ea0d66e9ed4f932c1b3baf2edd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5960720806370014952
+    second: char_a_pPOL3_0bas_humn_v00_0
+  - first:
+      213: -4227146568555585309
+    second: char_a_pPOL3_0bas_humn_v00_1
+  - first:
+      213: 348697274461658295
+    second: char_a_pPOL3_0bas_humn_v00_2
+  - first:
+      213: -2931401357474452487
+    second: char_a_pPOL3_0bas_humn_v00_3
+  - first:
+      213: -6105280494863884834
+    second: char_a_pPOL3_0bas_humn_v00_4
+  - first:
+      213: 2856304199103393591
+    second: char_a_pPOL3_0bas_humn_v00_5
+  - first:
+      213: -2724889017195845407
+    second: char_a_pPOL3_0bas_humn_v00_6
+  - first:
+      213: -2530050916065932801
+    second: char_a_pPOL3_0bas_humn_v00_7
+  - first:
+      213: 1201425163148619247
+    second: char_a_pPOL3_0bas_humn_v00_8
+  - first:
+      213: -2659107266228235648
+    second: char_a_pPOL3_0bas_humn_v00_9
+  - first:
+      213: 8533767045753432826
+    second: char_a_pPOL3_0bas_humn_v00_10
+  - first:
+      213: -1664910926150775077
+    second: char_a_pPOL3_0bas_humn_v00_11
+  - first:
+      213: 8897812518270306574
+    second: char_a_pPOL3_0bas_humn_v00_12
+  - first:
+      213: 5553427159151544389
+    second: char_a_pPOL3_0bas_humn_v00_13
+  - first:
+      213: 6200378724957819225
+    second: char_a_pPOL3_0bas_humn_v00_14
+  - first:
+      213: -1146102373798214700
+    second: char_a_pPOL3_0bas_humn_v00_15
+  - first:
+      213: -876429071645560282
+    second: char_a_pPOL3_0bas_humn_v00_16
+  - first:
+      213: -3156789273101965346
+    second: char_a_pPOL3_0bas_humn_v00_17
+  - first:
+      213: 8246744350205141244
+    second: char_a_pPOL3_0bas_humn_v00_18
+  - first:
+      213: 3379285347878182337
+    second: char_a_pPOL3_0bas_humn_v00_19
+  - first:
+      213: 650929211094904729
+    second: char_a_pPOL3_0bas_humn_v00_20
+  - first:
+      213: 5452373945859823783
+    second: char_a_pPOL3_0bas_humn_v00_21
+  - first:
+      213: 1263679206160395034
+    second: char_a_pPOL3_0bas_humn_v00_22
+  - first:
+      213: -2673177146449998488
+    second: char_a_pPOL3_0bas_humn_v00_23
+  - first:
+      213: -8088332745327369247
+    second: char_a_pPOL3_0bas_humn_v00_24
+  - first:
+      213: 6331749651645984865
+    second: char_a_pPOL3_0bas_humn_v00_25
+  - first:
+      213: -7636518905537372647
+    second: char_a_pPOL3_0bas_humn_v00_26
+  - first:
+      213: -7628371442531930080
+    second: char_a_pPOL3_0bas_humn_v00_27
+  - first:
+      213: -1231689613056924090
+    second: char_a_pPOL3_0bas_humn_v00_28
+  - first:
+      213: 4504844768981080003
+    second: char_a_pPOL3_0bas_humn_v00_29
+  - first:
+      213: 1485303068985316238
+    second: char_a_pPOL3_0bas_humn_v00_30
+  - first:
+      213: -4599459869232891290
+    second: char_a_pPOL3_0bas_humn_v00_31
+  - first:
+      213: 1773963778221006363
+    second: char_a_pPOL3_0bas_humn_v00_32
+  - first:
+      213: -485654897451119810
+    second: char_a_pPOL3_0bas_humn_v00_33
+  - first:
+      213: 2690401522314744164
+    second: char_a_pPOL3_0bas_humn_v00_34
+  - first:
+      213: 8075776418600410446
+    second: char_a_pPOL3_0bas_humn_v00_35
+  - first:
+      213: 4818986251869945997
+    second: char_a_pPOL3_0bas_humn_v00_36
+  - first:
+      213: -2995550993799672120
+    second: char_a_pPOL3_0bas_humn_v00_37
+  - first:
+      213: -272109136049327770
+    second: char_a_pPOL3_0bas_humn_v00_38
+  - first:
+      213: 7488909649183805509
+    second: char_a_pPOL3_0bas_humn_v00_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char00_polearmSlash_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15515ffc1315eb54092005dd975303ce
+      internalID: 1285792325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5683a1ee68d2428c5fb84d2c0e1b6
+      internalID: 564517420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f98e5cf5a51d154e85c9c0330e159c6
+      internalID: 470841444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfea1713e293b994ba05849579977162
+      internalID: 1091174711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad121a6ce31fbd49a65ccb8a25f289e
+      internalID: -638907044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c774193fc2f2b4abb919b04c431869
+      internalID: 660845072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4cea44d85bc334282a062219e07e97
+      internalID: 425996006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65938f2895a2b3143ba52d53df29d87c
+      internalID: -1567857739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219ff812623b05488b75163e2172942
+      internalID: -1497951365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd959055a7317847be25b9ecc2a425d
+      internalID: -1509430064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0cfc968495de4bb858803e6b13b84
+      internalID: 1242360778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e916715cda78f49b70e8b3ad4ec9d5
+      internalID: -567131517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17640162e3cd980418c8ed98e32f5390
+      internalID: 230547920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56708e94c57204a9ed4744c0225811
+      internalID: 1713460947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0eac6500f44140a98c1714f0f1a26
+      internalID: -1494209301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmSlash_left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd61df7c42b9c43881827604137d6d
+      internalID: -1476896849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64fece8b2542641b1a0fe6312589bd
+      internalID: -76959294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd0b986cad80904788d5b8ac5218e21
+      internalID: -951668540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363292825fd7ca64280405e41e76969a
+      internalID: -1166073015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_down00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902242874ecab7945a5514133d5491f3
+      internalID: -1929025205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_down01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b2a11acafc7784fb9ddc1b9a8812b6
+      internalID: 887310460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_down02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8e99d67ac99c478b61a912d0a0079
+      internalID: -1109009838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb05ee4c5832774490cae4b75c0b547
+      internalID: 245310424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909be2a4516cca4b83456503dda3ffe
+      internalID: 687652405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18edf90b91ec3d24fa5cebbfae9817c9
+      internalID: 1817367237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_up00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea16dcff77c6dc4b9405bf3fa5e8228
+      internalID: 60877074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_up01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4573bc9e4a814fbd1bae024aedec6
+      internalID: 1247772378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_up02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4cfa80af054a148be1e4fae870073d
+      internalID: -1812130433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c0ff65af645374083d13f9f334a4d8
+      internalID: -1977722147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8aad58069ab9e439c55912b06df583
+      internalID: -1273736173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abee6e6d682a8e14c8feba0a21e9f6fa
+      internalID: -661431590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_right00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf82998242fea4286ddf45c95b9578
+      internalID: -324089623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_right01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abe73d9de98234a8cbd0e288676d73
+      internalID: -267447801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_right02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8709c0305e406b04986895fede521d21
+      internalID: 667926397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_left0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1631640c0108a40b25d8df15a879fe
+      internalID: 274186230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca1661e90add1040a247744931176a4
+      internalID: -1044860388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust00_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4d679eaf8b3244b8b03afb4a917e22
+      internalID: -177431318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_left00
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde58ea31adee34a8cc717652d8eece
+      internalID: 1147505034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_left01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50302170ebd436641a83159378db5acd
+      internalID: -1504384083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char00_polearmThrust01_left02
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563e5de2dfee914c9621d9c319587dd
+      internalID: 38599463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1681094d192dccc4c8ade2fa107e0d1a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char00_polearmSlash_down00: 1285792325
+      char00_polearmSlash_down01: 564517420
+      char00_polearmSlash_down02: 470841444
+      char00_polearmSlash_down03: 1091174711
+      char00_polearmSlash_left00: 230547920
+      char00_polearmSlash_left01: 1713460947
+      char00_polearmSlash_left02: -1494209301
+      char00_polearmSlash_left03: -1476896849
+      char00_polearmSlash_right00: -1497951365
+      char00_polearmSlash_right01: -1509430064
+      char00_polearmSlash_right02: 1242360778
+      char00_polearmSlash_right03: -567131517
+      char00_polearmSlash_up00: -638907044
+      char00_polearmSlash_up01: 660845072
+      char00_polearmSlash_up02: 425996006
+      char00_polearmSlash_up03: -1567857739
+      char00_polearmThrust00_down00: -76959294
+      char00_polearmThrust00_down01: -951668540
+      char00_polearmThrust00_down02: -1166073015
+      char00_polearmThrust00_left0: 274186230
+      char00_polearmThrust00_left01: -1044860388
+      char00_polearmThrust00_left02: -177431318
+      char00_polearmThrust00_right00: -1977722147
+      char00_polearmThrust00_right01: -1273736173
+      char00_polearmThrust00_right02: -661431590
+      char00_polearmThrust00_up00: 245310424
+      char00_polearmThrust00_up01: 687652405
+      char00_polearmThrust00_up02: 1817367237
+      char00_polearmThrust01_down00: -1929025205
+      char00_polearmThrust01_down01: 887310460
+      char00_polearmThrust01_down02: -1109009838
+      char00_polearmThrust01_left00: 1147505034
+      char00_polearmThrust01_left01: -1504384083
+      char00_polearmThrust01_left02: 38599463
+      char00_polearmThrust01_right00: -324089623
+      char00_polearmThrust01_right01: -267447801
+      char00_polearmThrust01_right02: 667926397
+      char00_polearmThrust01_up00: 60877074
+      char00_polearmThrust01_up01: 1247772378
+      char00_polearmThrust01_up02: -1812130433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d44a881d9a73a4d8e998402997bd2b, type: 3}
+  m_Name: Small Pouch
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5657180839802414477, guid: 1ab02dfe0dbc6274ba734ba015f40608, type: 3}
+  itemName: Small Pouch
+  itemLevel: 1
+  itemType: 14
+  modifiers: []
+  isTwoHanded: 0
+  inventoryCapacityBonus: 5
+  useableAbilities: []
+  itemDescription: A bag that increases your maximum inventory slots
+  icon: {fileID: 8529321563372831706, guid: 48a9611a528c7af42af23d9b74e0dfc7, type: 3}
+  itemID: 2
+  isStackable: 0
+  maxStackSize: 0

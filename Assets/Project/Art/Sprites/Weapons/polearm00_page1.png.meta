@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 602d5c359b3ce3549a335fb27e59a390
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2415319311294198480
+    second: char_a_pPOL1_6tla_sp01_v01_0
+  - first:
+      213: 6858182373511862810
+    second: char_a_pPOL1_6tla_sp01_v01_1
+  - first:
+      213: -3347232999682062872
+    second: char_a_pPOL1_6tla_sp01_v01_2
+  - first:
+      213: 8695209990037844208
+    second: char_a_pPOL1_6tla_sp01_v01_3
+  - first:
+      213: -578394443791819796
+    second: char_a_pPOL1_6tla_sp01_v01_4
+  - first:
+      213: -39967904956442524
+    second: char_a_pPOL1_6tla_sp01_v01_5
+  - first:
+      213: 2041772628077499879
+    second: char_a_pPOL1_6tla_sp01_v01_6
+  - first:
+      213: -4794942634111968534
+    second: char_a_pPOL1_6tla_sp01_v01_7
+  - first:
+      213: 7193352457563944610
+    second: char_a_pPOL1_6tla_sp01_v01_8
+  - first:
+      213: -4001768039908506766
+    second: char_a_pPOL1_6tla_sp01_v01_9
+  - first:
+      213: 3135127753076107307
+    second: char_a_pPOL1_6tla_sp01_v01_10
+  - first:
+      213: 9094064021005163830
+    second: char_a_pPOL1_6tla_sp01_v01_11
+  - first:
+      213: 105932201566979329
+    second: char_a_pPOL1_6tla_sp01_v01_12
+  - first:
+      213: -7474612199671893092
+    second: char_a_pPOL1_6tla_sp01_v01_13
+  - first:
+      213: -535019299045137781
+    second: char_a_pPOL1_6tla_sp01_v01_14
+  - first:
+      213: -6375186037253185934
+    second: char_a_pPOL1_6tla_sp01_v01_15
+  - first:
+      213: -5047474419753086155
+    second: char_a_pPOL1_6tla_sp01_v01_16
+  - first:
+      213: -9039844908739497357
+    second: char_a_pPOL1_6tla_sp01_v01_17
+  - first:
+      213: 2837662775254210853
+    second: char_a_pPOL1_6tla_sp01_v01_18
+  - first:
+      213: -8189147718819875672
+    second: char_a_pPOL1_6tla_sp01_v01_19
+  - first:
+      213: -3472986326388045991
+    second: char_a_pPOL1_6tla_sp01_v01_20
+  - first:
+      213: -2174253739958490067
+    second: char_a_pPOL1_6tla_sp01_v01_21
+  - first:
+      213: -5747563994151731012
+    second: char_a_pPOL1_6tla_sp01_v01_22
+  - first:
+      213: -9213720123483627277
+    second: char_a_pPOL1_6tla_sp01_v01_23
+  - first:
+      213: 8940843519320570734
+    second: char_a_pPOL1_6tla_sp01_v01_24
+  - first:
+      213: 5763405963547527203
+    second: char_a_pPOL1_6tla_sp01_v01_25
+  - first:
+      213: -8805272094377570482
+    second: char_a_pPOL1_6tla_sp01_v01_26
+  - first:
+      213: 3343737660523436098
+    second: char_a_pPOL1_6tla_sp01_v01_27
+  - first:
+      213: -6501929666032805035
+    second: char_a_pPOL1_6tla_sp01_v01_28
+  - first:
+      213: -6250515466890459727
+    second: char_a_pPOL1_6tla_sp01_v01_29
+  - first:
+      213: 767863680761931333
+    second: char_a_pPOL1_6tla_sp01_v01_30
+  - first:
+      213: -3914996015780183863
+    second: char_a_pPOL1_6tla_sp01_v01_31
+  - first:
+      213: 8270347900795750616
+    second: char_a_pPOL1_6tla_sp01_v01_32
+  - first:
+      213: 5183239351111757061
+    second: char_a_pPOL1_6tla_sp01_v01_33
+  - first:
+      213: 7556872214769837462
+    second: char_a_pPOL1_6tla_sp01_v01_34
+  - first:
+      213: 9090160315568153039
+    second: char_a_pPOL1_6tla_sp01_v01_35
+  - first:
+      213: 5664477955541052777
+    second: char_a_pPOL1_6tla_sp01_v01_36
+  - first:
+      213: -8082666460486340093
+    second: char_a_pPOL1_6tla_sp01_v01_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: polearm00_sheath_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9912be0b4ce4174580bbb2aae134b8a
+      internalID: 339901927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952ab69e1f972e4e9fefe00f4fd1c0b
+      internalID: 317233454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae3740f754dfe45938bea36c8fe107
+      internalID: -388071659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_parry_down
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d010a9da00b344bb4f01b1b8f4784
+      internalID: 1892138459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dodge_down
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b538633a00c440843fe95335ddd51
+      internalID: 1759845160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_hurt_down
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03bd8dcf5cbd5e4fa137cc38140f786
+      internalID: 1337067135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_down0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e5b9b349e23f4c9f7b83d13ee0a8b
+      internalID: 1228910568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_down01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c661d66f003d45af63fd08e1df5bd
+      internalID: -1538322219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_up00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c164001239d564ebb9aab46ae15b7a
+      internalID: -2116380322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd7b37775236d40b6d3b7eb0c0913c
+      internalID: -1595518468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51077879156464baab61fa72245fa2
+      internalID: -595328516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_parry_up
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc95330ecc960c4887abdf2db24de9e
+      internalID: -1915810063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dodge_up
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef57f2ea1ae961a4b8aed67009acfdd0
+      internalID: -630788672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_hurt_up
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29915fc144c35418d451c025f313da
+      internalID: 385291257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_up00
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3497c3a4b2c7f4bb7315683e6045c8
+      internalID: 1363346219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_up01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f31f0ca7b161b4caa399c833a86f65
+      internalID: 1759279532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047c6c8c94a327c4e85af300dc36aaf9
+      internalID: 1228435826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53c0aab0d3b5341880aa1ede1bc90c
+      internalID: 115701582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b68ad87bde2454498678b94c708f98
+      internalID: -1023839876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_parry_right
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6422c4d3e4a9e40881b616c27f0fb1
+      internalID: -1199595729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dodge_right
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d0b9120529c643ab48f83ade3c7ad
+      internalID: 1823964555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_hurt_right
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680e4e7031d54a4884b9b3500ca18b7
+      internalID: 774694933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_right00
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7446320d29d5d954d9992b01958fc541
+      internalID: -259492463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_right01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fa6442d819b1b4ab0c76dc0fc311fe
+      internalID: -1414615645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242e25b4507a5241ac0057c864b7942
+      internalID: 1179232148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd409ff1249461b4894d01c9854c504b
+      internalID: 415727598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_sheath_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cfe2182218437488d2fadd1d423bf9
+      internalID: -1257936817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_parry_left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131f404efca3b3442bf94f3a74209aed
+      internalID: -585302881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dodge_left
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c7c6a267a96e4d9eb6d1fced7dbbf
+      internalID: -1989687653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_hurt_left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30a6a48f02cf24a8055e9070553aa9
+      internalID: -1705621908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_left00
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468de65e3fd6cf48b9a2c7f4917cdd5
+      internalID: 2138536058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polearm00_dead_left01
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a2d2f1cfbc95418b2dc39ad6ef31e
+      internalID: -2012646004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6f82d148dba2024d868467242bdaae5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      polearm00_dead_down0: 1228910568
+      polearm00_dead_down01: -1538322219
+      polearm00_dead_left00: 2138536058
+      polearm00_dead_left01: -2012646004
+      polearm00_dead_right00: -259492463
+      polearm00_dead_right01: -1414615645
+      polearm00_dead_up00: 1363346219
+      polearm00_dead_up01: 1759279532
+      polearm00_dodge_down: 1759845160
+      polearm00_dodge_left: -1989687653
+      polearm00_dodge_right: 1823964555
+      polearm00_dodge_up: -630788672
+      polearm00_hurt_down: 1337067135
+      polearm00_hurt_left: -1705621908
+      polearm00_hurt_right: 774694933
+      polearm00_hurt_up: 385291257
+      polearm00_parry_down: 1892138459
+      polearm00_parry_left: -585302881
+      polearm00_parry_right: -1199595729
+      polearm00_parry_up: -1915810063
+      polearm00_sheath_down00: 339901927
+      polearm00_sheath_down01: 317233454
+      polearm00_sheath_down02: -388071659
+      polearm00_sheath_left00: 1179232148
+      polearm00_sheath_left01: 415727598
+      polearm00_sheath_left02: -1257936817
+      polearm00_sheath_right00: 1228435826
+      polearm00_sheath_right01: 115701582
+      polearm00_sheath_right02: -1023839876
+      polearm00_sheath_up00: -2116380322
+      polearm00_sheath_up01: -1595518468
+      polearm00_sheath_up02: -595328516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
