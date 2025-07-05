@@ -61,7 +61,7 @@ namespace CharacterNamespace
             switch (ability.castType)
             {
                 case CastType.Instant:
-                    Cast(ability);
+                    activeCastCoroutine = StartCoroutine(PerformInstantCast(ability));
                     break;
                 case CastType.CastTime:
                     activeCastCoroutine = StartCoroutine(PerformCastWithDelay(ability));
@@ -83,6 +83,16 @@ namespace CharacterNamespace
                 isCasting = false;
                 Debug.Log("<color=orange>Cast Cancelled by Player!</color>");
             }
+        }
+
+        private IEnumerator PerformInstantCast(Ability ability)
+        {
+            isCasting = true;
+            animationController.SetActionBool("action1", true);
+
+            yield return new WaitForSeconds(0.1f);
+
+            Cast(ability);
         }
 
         private IEnumerator PerformCastWithDelay(Ability ability)
@@ -177,7 +187,7 @@ namespace CharacterNamespace
                 float damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
                 float range = 0f;
                 var mainHandSlot = playerEquipment.equippedItems[PlayerEquipment.EquipmentSlot.MainHand];
-                if (mainHandSlot?.itemData is WeaponData weapon) //the mainhand slot can only ever be a weapon or null
+                if (mainHandSlot?.itemData is WeaponData weapon) 
                 {
                     range = weapon.range;
                 }
