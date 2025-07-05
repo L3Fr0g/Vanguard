@@ -148,9 +148,19 @@ namespace InventoryNamespace
             return null;
         }
 
+        public MeleeHitboxController GetEquippedMeleeHitbox()
+        {
+            if (mainHandSlot != null && mainHandSlot.childCount > 0)
+            {
+                Transform weapoVisual = mainHandSlot.GetChild(0);
+                return weapoVisual.GetComponentInChildren<MeleeHitboxController>();
+            }
+            return null;
+        }
+
         private void HandleEquipEffects(ItemData item) { if (item is WeaponData weapon) { animationController.SetWeaponType(weapon); SpawnWeaponVisual(weapon); } }
         private void HandleUnequipEffects(ItemData item) { if (item is WeaponData) { animationController.SetWeaponType(null); ClearWeaponVisual(); } }
-        private void SpawnWeaponVisual(WeaponData weapon) { ClearWeaponVisual(); if (weapon.prefab != null && mainHandSlot != null) { GameObject weaponGO = Instantiate(weapon.prefab, mainHandSlot); animationController.SetWeaponAnimator(weaponGO.GetComponent<Animator>()); } }
+        private void SpawnWeaponVisual(WeaponData weapon) { ClearWeaponVisual(); if (weapon.equippedPrefab != null && mainHandSlot != null) { GameObject weaponGO = Instantiate(weapon.equippedPrefab, mainHandSlot); animationController.SetWeaponAnimator(weaponGO.GetComponent<Animator>()); } }
         private void ClearWeaponVisual() { if (mainHandSlot != null) { foreach (Transform child in mainHandSlot) Destroy(child.gameObject); } animationController.ClearWeaponAnimator(); }
 
         private EquipmentSlot? GetSlotForItem(ItemData item)

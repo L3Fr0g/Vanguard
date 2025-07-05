@@ -133,8 +133,19 @@ namespace CharacterNamespace
             animationController.SetActionBool("action1", false);
             abilityCooldowns[ability] = Time.time + ability.cooldown;
 
-            GameObject projectileToSpawn = playerEquipment.GetEquippedProjectilePrefab() ?? ability.abilityPrefab;
+            if (ability.abilityPrefab != null)
+            {
+                HandleProjectileCast(ability);
+            }
+            else
+            {
+                HandleMeleeCast(ability);
+            }
+        }
 
+        private void HandleProjectileCast(Ability ability)
+        {
+            GameObject projectileToSpawn = playerEquipment.GetEquippedProjectilePrefab() ?? ability.abilityPrefab;
             if (projectileToSpawn != null && projectileSpawnPoint != null)
             {
                 float angle = Mathf.Atan2(currentAimDirection.y, currentAimDirection.x) * Mathf.Rad2Deg;
@@ -154,6 +165,30 @@ namespace CharacterNamespace
                     controller.Initialize(damage, range);
                     Debug.Log($"Calculated Damage: {damage}");
                 }
+            }
+        }
+
+        private void HandleMeleeCast(Ability ability)
+        {
+            MeleeHitboxController hitbox = playerEquipment.GetEquippedMeleeHitbox();
+
+            if (hitbox != null)
+            {
+                float damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
+                float range = 0f;
+                var mainHandSlot = playerEquipment.equippedItems[PlayerEquipment.EquipmentSlot.MainHand];
+                if (mainHandSlot?.itemData is WeaponData weapon) //the mainhand slot can only ever be a weapon or null
+                {
+                    range = weapon.range;
+                }
+
+                if (range <= 0) range = 1.5f;
+
+                hitbox.PerformAttack(damage, currentAimDirection, range);
+            }
+            else
+            {
+                Debug.LogWarning($"Tried to perform melee attack '{ability.abilityName}', but no MeleeHitboxController was found on the weapon!");
             }
         }
 
