@@ -1,12 +1,13 @@
 using UnityEngine;
 using InventoryNamespace;
+using System.Collections.Generic;
 
 namespace AnimationNamespace
 {
     public class AnimationController : MonoBehaviour
     {
         private Animator playerAnimator;
-        private Animator MHAnimator; // Main-Hand Animator
+        private Dictionary<PlayerEquipment.EquipmentSlot, Animator> equipmentAnimators = new Dictionary<PlayerEquipment.EquipmentSlot, Animator>();
 
         void Awake()
         {
@@ -32,41 +33,51 @@ namespace AnimationNamespace
                 playerAnimator.SetFloat("mousePosY", lookDirection.y);
             }
 
-            if (MHAnimator != null)
+            foreach (var equipmentAnimator in equipmentAnimators.Values)
             {
-                MHAnimator.SetBool("isUnsheathed", isUnsheathed);
-                MHAnimator.SetFloat("moveX", moveDirection.x);
-                MHAnimator.SetFloat("moveY", moveDirection.y);
-                if (isUnsheathed)
+                if (equipmentAnimator != null)
                 {
-                    MHAnimator.SetFloat("mousePosY", lookDirection.y);
-                    MHAnimator.SetFloat("mousePosX", lookDirection.x);
+                    equipmentAnimator.SetBool("isUnsheathed", isUnsheathed);
+                    equipmentAnimator.SetFloat("moveX", moveDirection.x);
+                    equipmentAnimator.SetFloat("moveY", moveDirection.y);
+                    if (isUnsheathed)
+                    {
+                        equipmentAnimator.SetFloat("mousePosY", lookDirection.y);
+                        equipmentAnimator.SetFloat("mousePosX", lookDirection.x);
+                    }
                 }
             }
         }
 
         public void SetActionBool(string actionName, bool value)
         {
-            if (playerAnimator == null) return;
-            playerAnimator.SetBool(actionName, value);
-            if (MHAnimator != null)
+            if (playerAnimator != null) playerAnimator.SetBool(actionName, value);
+            foreach (var equipmentAnimator in equipmentAnimators.Values)
             {
-                MHAnimator.SetBool(actionName, value);
+                if (equipmentAnimator != null) equipmentAnimator.SetBool(actionName, value);
             }
         }
 
         public void PlayCancelAnimation()
         {
-            if (playerAnimator == null) return;
-            playerAnimator.SetTrigger("cancelAction");
-            if (MHAnimator != null)
+            if (playerAnimator != null) playerAnimator.SetTrigger("cancelAction");
+            foreach (var equipmentAnimator in equipmentAnimators.Values)
             {
-                MHAnimator.SetTrigger("cancelAction");
+                if(equipmentAnimator != null) equipmentAnimator.SetTrigger("cancelAction");
             }
         }
 
-        public void SetWeaponAnimator(Animator weaponAnimator) => MHAnimator = weaponAnimator;
-        public void ClearWeaponAnimator() => MHAnimator = null;
+        public void SetEquipmentAnimator(PlayerEquipment.EquipmentSlot slot, Animator animator)
+        {
+            equipmentAnimators[slot] = animator;
+        }
+        public void ClearEquipmentAnimator(PlayerEquipment.EquipmentSlot slot)
+        {
+            if (equipmentAnimators.ContainsKey(slot))
+            {
+                equipmentAnimators.Remove(slot);
+            }
+        }
 
         public void SetWeaponType(WeaponData weaponData)
         {

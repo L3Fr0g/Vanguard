@@ -180,7 +180,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -229,969 +229,969 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_0
+      name: quiver00_idle_down00
       rect:
         serializedVersion: 2
-        x: 30
-        y: 479
-        width: 14
-        height: 13
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2467eb9f71a3ba510800000000000000
-      internalID: 1561405570462676546
+      spriteID: 3fda00eaf41e3544b9eab2b6d23c2770
+      internalID: 1224889450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_1
+      name: quiver00_idle_down01
       rect:
         serializedVersion: 2
-        x: 95
-        y: 479
-        width: 14
-        height: 13
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 22d2d4d67c44e95f0800000000000000
-      internalID: -748084864773968606
+      spriteID: 4e3ac681d3513c448929717ae42e1894
+      internalID: 223207911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_2
+      name: quiver00_idle_down02
       rect:
         serializedVersion: 2
-        x: 159
-        y: 478
-        width: 14
-        height: 13
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2936c68793a7df60800000000000000
-      internalID: 8059089929399318828
+      spriteID: d2e9e5e06c2fb6f4a88bbdbaf5c6e9b1
+      internalID: 2101725162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_3
+      name: quiver00_idle_down03
       rect:
         serializedVersion: 2
-        x: 222
-        y: 478
-        width: 14
-        height: 13
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32b78fe26517d53e0800000000000000
-      internalID: -2063368439296656605
+      spriteID: 86e7d9824d6128e48959557dafde8326
+      internalID: 772521758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_4
+      name: quiver00_move_down00
       rect:
         serializedVersion: 2
-        x: 285
-        y: 480
-        width: 14
-        height: 13
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c38856ad946a55ff0800000000000000
-      internalID: -47949384890611652
+      spriteID: 4eb9f04901cf846448277071006ea333
+      internalID: -1125709200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_5
+      name: quiver00_move_down01
       rect:
         serializedVersion: 2
-        x: 348
-        y: 479
-        width: 14
-        height: 13
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e758ae8e6c33bfe0800000000000000
-      internalID: -1174528632276101151
+      spriteID: 7549f338fcc70cd4ba7b6e1b3d9ba325
+      internalID: -580458720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_6
+      name: quiver00_move_down02
       rect:
         serializedVersion: 2
-        x: 412
-        y: 478
-        width: 14
-        height: 13
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24a1eb11668f05270800000000000000
-      internalID: 8237356835728661058
+      spriteID: 847e80f416afa7242a8eda004a667142
+      internalID: 1153228815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_7
+      name: quiver00_move_down03
       rect:
         serializedVersion: 2
-        x: 477
-        y: 477
-        width: 14
-        height: 13
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eab12cc13b17267f0800000000000000
-      internalID: -620808784528139346
+      spriteID: 61e02bcdbc1f6f747bdbe50085c8225b
+      internalID: 441111286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_8
+      name: quiver00_idle_up00
       rect:
         serializedVersion: 2
-        x: 22
-        y: 411
-        width: 14
-        height: 13
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef5c6e97cf3216ab0800000000000000
-      internalID: -5016688942630124034
+      spriteID: 0f059b521a6eb9d4685eb222c237f984
+      internalID: 1453273907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_9
+      name: quiver00_idle_up01
       rect:
         serializedVersion: 2
-        x: 87
-        y: 411
-        width: 14
-        height: 13
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3378a5ec09948d170800000000000000
-      internalID: 8203387607541516083
+      spriteID: 1e2f05c270c61324bb65fee5cd3ed823
+      internalID: 809099225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_10
+      name: quiver00_idle_up02
       rect:
         serializedVersion: 2
-        x: 151
-        y: 410
-        width: 14
-        height: 13
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4dce1e844a3b535b0800000000000000
-      internalID: -5389203860900156204
+      spriteID: a38caed21e98160499a3e6182f2cbe3e
+      internalID: 1075275492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_11
+      name: quiver00_idle_up03
       rect:
         serializedVersion: 2
-        x: 214
-        y: 410
-        width: 14
-        height: 13
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 63b0a77863ab4bc10800000000000000
-      internalID: 2068482872233823030
+      spriteID: 3d624b3262bd85a41b3aedf33b300b7b
+      internalID: -979343537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_12
+      name: quiver00_move_up00
       rect:
         serializedVersion: 2
-        x: 278
-        y: 412
-        width: 14
-        height: 13
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4892c28393fdd4ff0800000000000000
-      internalID: -50138583982659196
+      spriteID: 04ce90d7ad890d747adf34a1ca09ee3a
+      internalID: -963048995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_13
+      name: quiver00_move_up01
       rect:
         serializedVersion: 2
-        x: 342
-        y: 411
-        width: 14
-        height: 13
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1cdfec625f1e39450800000000000000
-      internalID: 6094463163796749761
+      spriteID: 5127056efba010a4fb35c03d11c74f4d
+      internalID: 104575300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_14
+      name: quiver00_move_up02
       rect:
         serializedVersion: 2
-        x: 407
-        y: 411
-        width: 14
-        height: 13
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ccd158241b13db40800000000000000
-      internalID: 5463740546320293062
+      spriteID: 1dbdbf2ed2e33dc419a5114e3e2dd9ec
+      internalID: -356207858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_15
+      name: quiver00_move_up03
       rect:
         serializedVersion: 2
-        x: 471
-        y: 412
-        width: 14
-        height: 13
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3a2e4d8f4520af3d0800000000000000
-      internalID: -3172220423553883485
+      spriteID: 8be5a65e1079f2c43bbf0a766a9e70d9
+      internalID: -759643496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_16
+      name: quiver00_idle_right00
       rect:
         serializedVersion: 2
-        x: 18
-        y: 349
-        width: 14
-        height: 13
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08aa5a417c388b450800000000000000
-      internalID: 6104774185968839296
+      spriteID: ef6f21b6e034734468c8ee1df00fe94a
+      internalID: 1666421753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_17
+      name: quiver00_idle_right01
       rect:
         serializedVersion: 2
-        x: 82
-        y: 349
-        width: 14
-        height: 13
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1b5728a98e2edd9a0800000000000000
-      internalID: -6206555222794144335
+      spriteID: 9d9fc78c3024e98468910f09bca1d945
+      internalID: 573639779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_18
+      name: quiver00_idle_right02
       rect:
         serializedVersion: 2
-        x: 146
-        y: 348
-        width: 14
-        height: 13
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5873a321011a39150800000000000000
-      internalID: 5878219029045983109
+      spriteID: 9e0c816cb4a24dd42b938981883ab4d7
+      internalID: -49090772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_19
+      name: quiver00_idle_right03
       rect:
         serializedVersion: 2
-        x: 210
-        y: 348
-        width: 14
-        height: 13
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dac5fb8517f7fe2f0800000000000000
-      internalID: -941393672300176211
+      spriteID: d869b44ebbcc85c4c96c94854aee4de0
+      internalID: -1862519462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_20
+      name: quiver00_move_right00
       rect:
         serializedVersion: 2
-        x: 275
-        y: 349
-        width: 14
-        height: 13
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f3c248c0bf45ef2e0800000000000000
-      internalID: -2090139739829818305
+      spriteID: 1045e7cca69e495429137006143196ad
+      internalID: 1880649300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_21
+      name: quiver00_move_right01
       rect:
         serializedVersion: 2
-        x: 339
-        y: 348
-        width: 14
-        height: 13
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 251057f1781165970800000000000000
-      internalID: 8743194998632415570
+      spriteID: 4766b178b26d770448ed57f5f758a8bb
+      internalID: -1270710748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_22
+      name: quiver00_move_right02
       rect:
         serializedVersion: 2
-        x: 404
-        y: 349
-        width: 14
-        height: 13
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e5012cd8c99661cd0800000000000000
-      internalID: -2587764814763650978
+      spriteID: 391a2b9644d24f343b7a5cf2ef300715
+      internalID: -1799639254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_23
+      name: quiver00_move_right03
       rect:
         serializedVersion: 2
-        x: 469
-        y: 349
-        width: 14
-        height: 13
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d5c4a11b58440a50800000000000000
-      internalID: 6486388919295591890
+      spriteID: e41ef365a6f231d45acff1ddb9513294
+      internalID: -1659313746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_24
+      name: quiver00_idle_left00
       rect:
         serializedVersion: 2
-        x: 32
-        y: 285
-        width: 14
-        height: 13
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f95a529f8173bcce0800000000000000
-      internalID: -1383951880087558753
+      spriteID: ac4f9aee2b712b14db1aacc4373fb1c6
+      internalID: -1149847846
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_25
+      name: quiver00_idle_left01
       rect:
         serializedVersion: 2
-        x: 96
-        y: 285
-        width: 14
-        height: 13
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5f76e621af1963dd0800000000000000
-      internalID: -2506655639348025355
+      spriteID: c556b0cc28f051341a43b6f2dc452501
+      internalID: 1165222598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_26
+      name: quiver00_idle_left02
       rect:
         serializedVersion: 2
-        x: 160
-        y: 284
-        width: 14
-        height: 13
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d0de455164ec9f20800000000000000
-      internalID: 3430868122843664599
+      spriteID: 29db53a7b8dd25041b93f4d4b166d310
+      internalID: -1520925769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_27
+      name: quiver00_idle_left03
       rect:
         serializedVersion: 2
-        x: 224
-        y: 284
-        width: 14
-        height: 13
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fe4aac682c24a6440800000000000000
-      internalID: 4929826145362945263
+      spriteID: f1807db604c0a804e955f5d10ab6928b
+      internalID: 91535157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_28
+      name: quiver00_move_left00
       rect:
         serializedVersion: 2
-        x: 287
-        y: 285
-        width: 14
-        height: 13
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7ca8d15381b39fe60800000000000000
-      internalID: 7996487588529408711
+      spriteID: 83c34f671c231774e99545a80c52ffc9
+      internalID: -780429857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_29
+      name: quiver00_move_left01
       rect:
         serializedVersion: 2
-        x: 351
-        y: 284
-        width: 14
-        height: 13
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 461256311e6708920800000000000000
-      internalID: 2990520861639123300
+      spriteID: ec216a38bb8627642b2bc3989c044351
+      internalID: -321083946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_30
+      name: quiver00_move_left02
       rect:
         serializedVersion: 2
-        x: 414
-        y: 285
-        width: 14
-        height: 13
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 71c2d1f63147f4f90800000000000000
-      internalID: -6967222471701484521
+      spriteID: a957f3ee20084a540b8a55304940b0cf
+      internalID: 1183403572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_31
+      name: quiver00_move_left03
       rect:
         serializedVersion: 2
-        x: 477
-        y: 285
-        width: 14
-        height: 13
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 434d2fc5115d03760800000000000000
-      internalID: 7435677255339267124
+      spriteID: 0b3516df09ad3f04bae5c3cd908c2e08
+      internalID: -2055511226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_32
+      name: quiver00_crouch_down
       rect:
         serializedVersion: 2
-        x: 29
-        y: 221
-        width: 12
-        height: 16
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 327049fdadee86e30800000000000000
-      internalID: 4497106851750741795
+      spriteID: fc23237664bd1dd4ca57abd09558a9a1
+      internalID: 721717008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_33
+      name: quiver00_retreat_down
       rect:
         serializedVersion: 2
-        x: 93
-        y: 226
-        width: 14
-        height: 13
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12214812224851830800000000000000
-      internalID: 4041281522760946209
+      spriteID: 92cfe5db6bd81de458293fd29e81a8c7
+      internalID: 887542323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_34
+      name: quiver00_lunge_down
       rect:
         serializedVersion: 2
-        x: 154
-        y: 228
-        width: 16
-        height: 10
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a500b0349b3ccc540800000000000000
-      internalID: 5029610084327161946
+      spriteID: bcbc01d0b2de2524890309bc0e2fa383
+      internalID: -1246535300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_35
+      name: quiver00_crouch_up
       rect:
         serializedVersion: 2
-        x: 20
-        y: 154
-        width: 16
-        height: 12
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 127a4ec3606c44a20800000000000000
-      internalID: 3045776978103019297
+      spriteID: bdcda0c0229aca14e85aa81f8a26e572
+      internalID: 23018115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_36
+      name: quiver00_retreat_up
       rect:
         serializedVersion: 2
-        x: 83
-        y: 152
-        width: 16
-        height: 10
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: acd89e3c01be4a900800000000000000
-      internalID: 694938699760766410
+      spriteID: 4b2e9c831df06a74aa2729e9b7fdff18
+      internalID: -316884124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_37
+      name: quiver00_lunge_up
       rect:
         serializedVersion: 2
-        x: 150
-        y: 160
-        width: 14
-        height: 13
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b877227c6221da150800000000000000
-      internalID: 5885380245802088331
+      spriteID: db35b1a73cd60dd4bb0483c1d9754f1a
+      internalID: 313106056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_38
+      name: quiver00_crouch_right
       rect:
         serializedVersion: 2
-        x: 18
-        y: 89
-        width: 12
-        height: 16
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3159214919be2d180800000000000000
-      internalID: -9091945687220579053
+      spriteID: c84d135889281074981bbee202f3c16e
+      internalID: -942224455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_39
+      name: quiver00_retreat_right
       rect:
         serializedVersion: 2
-        x: 78
-        y: 99
-        width: 16
-        height: 12
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9986ada987a82b290800000000000000
-      internalID: -7876080547718862695
+      spriteID: 0dd70509b1554bf4488fdfdcfc79d7ff
+      internalID: 1165678016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_40
+      name: quiver00_lunge_right
       rect:
         serializedVersion: 2
-        x: 148
-        y: 96
-        width: 12
-        height: 16
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 892cb5248a6e5d640800000000000000
-      internalID: 5104239363036529304
+      spriteID: debb9e3fad0169c4fb6844edd14e1545
+      internalID: 1012664437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_41
+      name: quiver00_crouch_left
       rect:
         serializedVersion: 2
-        x: 34
-        y: 25
-        width: 12
-        height: 16
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc2f7b4e679437230800000000000000
-      internalID: 3635330099210351309
+      spriteID: 7937687954075234d9563d5391cd44b0
+      internalID: 835139350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_42
+      name: quiver00_retreat_left
       rect:
         serializedVersion: 2
-        x: 98
-        y: 35
-        width: 16
-        height: 12
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f2090772e2108600800000000000000
-      internalID: 468395125115519735
+      spriteID: 96eb3ebca1369d6469cf427a80a4dbe2
+      internalID: -1731671783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW2_7tlb_qv01_v01_43
+      name: quiver00_lunge_left
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
-        width: 12
-        height: 16
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 52719fd462f951800800000000000000
-      internalID: 582546713680090917
+      spriteID: 0bb9d5285582cde4db95b8b02a929997
+      internalID: 1443847182
       vertices: []
       indices: 
       edges: []
@@ -1200,7 +1200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ebe98821f7a7c9d40a8d85026235c223
     internalID: 0
     vertices: []
     indices: 
@@ -1210,50 +1210,50 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      char_a_pBOW2_7tlb_qv01_v01_0: 1561405570462676546
-      char_a_pBOW2_7tlb_qv01_v01_1: -748084864773968606
-      char_a_pBOW2_7tlb_qv01_v01_10: -5389203860900156204
-      char_a_pBOW2_7tlb_qv01_v01_11: 2068482872233823030
-      char_a_pBOW2_7tlb_qv01_v01_12: -50138583982659196
-      char_a_pBOW2_7tlb_qv01_v01_13: 6094463163796749761
-      char_a_pBOW2_7tlb_qv01_v01_14: 5463740546320293062
-      char_a_pBOW2_7tlb_qv01_v01_15: -3172220423553883485
-      char_a_pBOW2_7tlb_qv01_v01_16: 6104774185968839296
-      char_a_pBOW2_7tlb_qv01_v01_17: -6206555222794144335
-      char_a_pBOW2_7tlb_qv01_v01_18: 5878219029045983109
-      char_a_pBOW2_7tlb_qv01_v01_19: -941393672300176211
-      char_a_pBOW2_7tlb_qv01_v01_2: 8059089929399318828
-      char_a_pBOW2_7tlb_qv01_v01_20: -2090139739829818305
-      char_a_pBOW2_7tlb_qv01_v01_21: 8743194998632415570
-      char_a_pBOW2_7tlb_qv01_v01_22: -2587764814763650978
-      char_a_pBOW2_7tlb_qv01_v01_23: 6486388919295591890
-      char_a_pBOW2_7tlb_qv01_v01_24: -1383951880087558753
-      char_a_pBOW2_7tlb_qv01_v01_25: -2506655639348025355
-      char_a_pBOW2_7tlb_qv01_v01_26: 3430868122843664599
-      char_a_pBOW2_7tlb_qv01_v01_27: 4929826145362945263
-      char_a_pBOW2_7tlb_qv01_v01_28: 7996487588529408711
-      char_a_pBOW2_7tlb_qv01_v01_29: 2990520861639123300
-      char_a_pBOW2_7tlb_qv01_v01_3: -2063368439296656605
-      char_a_pBOW2_7tlb_qv01_v01_30: -6967222471701484521
-      char_a_pBOW2_7tlb_qv01_v01_31: 7435677255339267124
-      char_a_pBOW2_7tlb_qv01_v01_32: 4497106851750741795
-      char_a_pBOW2_7tlb_qv01_v01_33: 4041281522760946209
-      char_a_pBOW2_7tlb_qv01_v01_34: 5029610084327161946
-      char_a_pBOW2_7tlb_qv01_v01_35: 3045776978103019297
-      char_a_pBOW2_7tlb_qv01_v01_36: 694938699760766410
-      char_a_pBOW2_7tlb_qv01_v01_37: 5885380245802088331
-      char_a_pBOW2_7tlb_qv01_v01_38: -9091945687220579053
-      char_a_pBOW2_7tlb_qv01_v01_39: -7876080547718862695
-      char_a_pBOW2_7tlb_qv01_v01_4: -47949384890611652
-      char_a_pBOW2_7tlb_qv01_v01_40: 5104239363036529304
-      char_a_pBOW2_7tlb_qv01_v01_41: 3635330099210351309
-      char_a_pBOW2_7tlb_qv01_v01_42: 468395125115519735
-      char_a_pBOW2_7tlb_qv01_v01_43: 582546713680090917
-      char_a_pBOW2_7tlb_qv01_v01_5: -1174528632276101151
-      char_a_pBOW2_7tlb_qv01_v01_6: 8237356835728661058
-      char_a_pBOW2_7tlb_qv01_v01_7: -620808784528139346
-      char_a_pBOW2_7tlb_qv01_v01_8: -5016688942630124034
-      char_a_pBOW2_7tlb_qv01_v01_9: 8203387607541516083
+      quiver00_crouch_down: 721717008
+      quiver00_crouch_left: 835139350
+      quiver00_crouch_right: -942224455
+      quiver00_crouch_up: 23018115
+      quiver00_idle_down00: 1224889450
+      quiver00_idle_down01: 223207911
+      quiver00_idle_down02: 2101725162
+      quiver00_idle_down03: 772521758
+      quiver00_idle_left00: -1149847846
+      quiver00_idle_left01: 1165222598
+      quiver00_idle_left02: -1520925769
+      quiver00_idle_left03: 91535157
+      quiver00_idle_right00: 1666421753
+      quiver00_idle_right01: 573639779
+      quiver00_idle_right02: -49090772
+      quiver00_idle_right03: -1862519462
+      quiver00_idle_up00: 1453273907
+      quiver00_idle_up01: 809099225
+      quiver00_idle_up02: 1075275492
+      quiver00_idle_up03: -979343537
+      quiver00_lunge_down: -1246535300
+      quiver00_lunge_left: 1443847182
+      quiver00_lunge_right: 1012664437
+      quiver00_lunge_up: 313106056
+      quiver00_move_down00: -1125709200
+      quiver00_move_down01: -580458720
+      quiver00_move_down02: 1153228815
+      quiver00_move_down03: 441111286
+      quiver00_move_left00: -780429857
+      quiver00_move_left01: -321083946
+      quiver00_move_left02: 1183403572
+      quiver00_move_left03: -2055511226
+      quiver00_move_right00: 1880649300
+      quiver00_move_right01: -1270710748
+      quiver00_move_right02: -1799639254
+      quiver00_move_right03: -1659313746
+      quiver00_move_up00: -963048995
+      quiver00_move_up01: 104575300
+      quiver00_move_up02: -356207858
+      quiver00_move_up03: -759643496
+      quiver00_retreat_down: 887542323
+      quiver00_retreat_left: -1731671783
+      quiver00_retreat_right: 1165678016
+      quiver00_retreat_up: -316884124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

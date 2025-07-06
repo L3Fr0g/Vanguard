@@ -193,7 +193,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_down00
+      name: quiver00_sheath_down00
       rect:
         serializedVersion: 2
         x: 0
@@ -215,10 +215,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_down01
+      name: quiver00_sheath_down01
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 448
         width: 64
         height: 64
@@ -237,7 +237,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_down02
+      name: quiver00_sheath_down02
       rect:
         serializedVersion: 2
         x: 128
@@ -259,7 +259,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowParry_down00
+      name: quiver00_parry_down
       rect:
         serializedVersion: 2
         x: 192
@@ -281,7 +281,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowDodge_down00
+      name: quiver00_dodge_down
       rect:
         serializedVersion: 2
         x: 256
@@ -303,7 +303,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_down00
+      name: quiver00_hurt_down
       rect:
         serializedVersion: 2
         x: 320
@@ -325,10 +325,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_down01
+      name: quiver00_dead_down00
       rect:
         serializedVersion: 2
-        x: 385
+        x: 384
         y: 448
         width: 64
         height: 64
@@ -347,7 +347,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_down02
+      name: quiver00_dead_down01
       rect:
         serializedVersion: 2
         x: 448
@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_up00
+      name: quiver00_sheath_up00
       rect:
         serializedVersion: 2
         x: 0
@@ -391,7 +391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_up01
+      name: quiver00_sheath_up01
       rect:
         serializedVersion: 2
         x: 64
@@ -413,7 +413,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_up02
+      name: quiver00_sheath_up02
       rect:
         serializedVersion: 2
         x: 128
@@ -435,7 +435,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowParry_up00
+      name: quiver00_parry_up
       rect:
         serializedVersion: 2
         x: 192
@@ -457,7 +457,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowDodge_up00
+      name: quiver00_dodge_up
       rect:
         serializedVersion: 2
         x: 256
@@ -479,7 +479,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_up00
+      name: quiver00_hurt_up
       rect:
         serializedVersion: 2
         x: 320
@@ -501,7 +501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_up01
+      name: quiver00_dead_up00
       rect:
         serializedVersion: 2
         x: 384
@@ -523,7 +523,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_up02
+      name: quiver00_dead_up01
       rect:
         serializedVersion: 2
         x: 448
@@ -545,10 +545,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_right00
+      name: quiver00_sheath_right00
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 320
         width: 64
         height: 64
@@ -567,7 +567,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_right01
+      name: quiver00_sheath_right01
       rect:
         serializedVersion: 2
         x: 64
@@ -589,7 +589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_right02
+      name: quiver00_sheath_right02
       rect:
         serializedVersion: 2
         x: 128
@@ -611,7 +611,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowParry_right00
+      name: quiver00_parry_right
       rect:
         serializedVersion: 2
         x: 192
@@ -633,7 +633,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowDodge_right00
+      name: quiver00_dodge_right
       rect:
         serializedVersion: 2
         x: 256
@@ -655,7 +655,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_right00
+      name: quiver00_hurt_right
       rect:
         serializedVersion: 2
         x: 320
@@ -677,11 +677,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_right01
+      name: quiver00_dead_right00
       rect:
         serializedVersion: 2
         x: 384
-        y: 319
+        y: 320
         width: 64
         height: 64
       alignment: 0
@@ -699,7 +699,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_right02
+      name: quiver00_dead_right01
       rect:
         serializedVersion: 2
         x: 448
@@ -721,7 +721,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_left00
+      name: quiver00_sheath_left00
       rect:
         serializedVersion: 2
         x: 0
@@ -743,7 +743,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_left01
+      name: quiver00_sheath_left01
       rect:
         serializedVersion: 2
         x: 64
@@ -765,7 +765,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowSheath_left02
+      name: quiver00_sheath_left02
       rect:
         serializedVersion: 2
         x: 128
@@ -787,7 +787,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowParry_left00
+      name: quiver00_parry_left
       rect:
         serializedVersion: 2
         x: 192
@@ -809,7 +809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowDodge_left00
+      name: quiver00_dodge_left
       rect:
         serializedVersion: 2
         x: 256
@@ -831,7 +831,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_left00
+      name: quiver00_hurt_left
       rect:
         serializedVersion: 2
         x: 320
@@ -853,7 +853,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_left01
+      name: quiver00_dead_left00
       rect:
         serializedVersion: 2
         x: 384
@@ -875,7 +875,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: quiver_v00_bowHurt_left02
+      name: quiver00_dead_left01
       rect:
         serializedVersion: 2
         x: 448
@@ -910,38 +910,37 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      quiver_v00_bowDodge_down00: -1093196883
-      quiver_v00_bowDodge_left00: 1319267401
-      quiver_v00_bowDodge_right00: 1386577420
-      quiver_v00_bowDodge_up00: 869052980
-      quiver_v00_bowHurt_down00: -570030271
-      quiver_v00_bowHurt_down01: -869475153
-      quiver_v00_bowHurt_down02: 1966127307
-      quiver_v00_bowHurt_left00: 1243856663
-      quiver_v00_bowHurt_left01: 1615601100
-      quiver_v00_bowHurt_left02: 1832480100
-      quiver_v00_bowHurt_right00: 313009653
-      quiver_v00_bowHurt_right01: 2117666439
-      quiver_v00_bowHurt_right02: 1241074428
-      quiver_v00_bowHurt_up00: 194870222
-      quiver_v00_bowHurt_up01: 1222291258
-      quiver_v00_bowHurt_up02: -842633583
-      quiver_v00_bowParry_down00: 1480351824
-      quiver_v00_bowParry_left00: -73151387
-      quiver_v00_bowParry_right00: 557730531
-      quiver_v00_bowParry_up00: 1300201719
-      quiver_v00_bowSheath_down00: 1435266849
-      quiver_v00_bowSheath_down01: -682777481
-      quiver_v00_bowSheath_down02: 1270413758
-      quiver_v00_bowSheath_left00: 827362638
-      quiver_v00_bowSheath_left01: -1187145774
-      quiver_v00_bowSheath_left02: 856894970
-      quiver_v00_bowSheath_right00: 2076049800
-      quiver_v00_bowSheath_right01: -1768248294
-      quiver_v00_bowSheath_right02: -1266069878
-      quiver_v00_bowSheath_up00: -1102591286
-      quiver_v00_bowSheath_up01: 748134200
-      quiver_v00_bowSheath_up02: 1883229575
+      quiver00_dead_down00: -869475153
+      quiver00_dead_down01: 1966127307
+      quiver00_dead_left00: 1615601100
+      quiver00_dead_left01: 1832480100
+      quiver00_dead_right00: 2117666439
+      quiver00_dead_right01: 1241074428
+      quiver00_dead_up00: 1222291258
+      quiver00_dead_up01: -842633583
+      quiver00_dodge_down: -1093196883
+      quiver00_dodge_left: 1319267401
+      quiver00_dodge_right: 1386577420
+      quiver00_dodge_up: 869052980
+      quiver00_hurt_down: -570030271
+      quiver00_hurt_left: 1243856663
+      quiver00_hurt_right: 313009653
+      quiver00_hurt_up: 194870222
+      quiver00_parry_left: -73151387
+      quiver00_parry_right: 557730531
+      quiver00_parry_up: 1300201719
+      quiver00_sheath_down00: 1435266849
+      quiver00_sheath_down01: -682777481
+      quiver00_sheath_down02: 1270413758
+      quiver00_sheath_left00: 827362638
+      quiver00_sheath_left01: -1187145774
+      quiver00_sheath_left02: 856894970
+      quiver00_sheath_right00: 2076049800
+      quiver00_sheath_right01: -1768248294
+      quiver00_sheath_right02: -1266069878
+      quiver00_sheath_up00: -1102591286
+      quiver00_sheath_up01: 748134200
+      quiver00_sheath_up02: 1883229575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

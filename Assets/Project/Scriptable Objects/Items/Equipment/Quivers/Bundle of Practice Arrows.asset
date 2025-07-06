@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fc7eb5054f8cb54ea3b45253ebf691b, type: 3}
   m_Name: Bundle of Practice Arrows
   m_EditorClassIdentifier: 
-  itemName: 
+  pickupPrefab: {fileID: 6847411566944884934, guid: 95488f03a3f8f844ea19339742103dba, type: 3}
+  equippedPrefab: {fileID: 6847411566944884934, guid: 0c58b3de2b248b749992f6958254c7b8, type: 3}
+  itemName: Bundle of Practice Arrows
   itemDescription: 
   icon: {fileID: 2783843586776455131, guid: 21c0302b1db713642b8aa42c97f31f79, type: 3}
-  prefab: {fileID: 6847411566944884934, guid: 0c58b3de2b248b749992f6958254c7b8, type: 3}
   rarity: 1
   itemLevel: 10
   isStackable: 0

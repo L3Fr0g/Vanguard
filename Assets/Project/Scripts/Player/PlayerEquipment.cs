@@ -13,12 +13,15 @@ namespace InventoryNamespace
         [Header("Equipment Slots")]
         [SerializeField] private Transform mainHandSlot;
         [SerializeField] private Transform offHandSlot;
+        [SerializeField] private Transform headSlot;
+        [SerializeField] private Transform chestSlot;
 
         [Header("Component References")]
         [SerializeField] public PlayerInventorySystem playerInventorySystem;
         private PlayerStats playerStats;
         private AnimationController animationController;
         private PlayerAbilityManager playerAbilityManager;
+        private PlayerController playerController;
 
         public Dictionary<EquipmentSlot, InventorySlot> equippedItems = new Dictionary<EquipmentSlot, InventorySlot>();
 
@@ -40,6 +43,7 @@ namespace InventoryNamespace
             playerStats = GetComponent<PlayerStats>();
             animationController = GetComponent<AnimationController>();
             playerAbilityManager = GetComponent<PlayerAbilityManager>();
+            playerController = GetComponent<PlayerController>();
 
             foreach (EquipmentSlot slot in System.Enum.GetValues(typeof(EquipmentSlot)))
             {
@@ -86,12 +90,12 @@ namespace InventoryNamespace
 
             InventorySlot currentlyEquippedItem = equippedItems[targetSlot];
 
-            HandleUnequipEffects(currentlyEquippedItem?.itemData);
+            HandleUnequipEffects(currentlyEquippedItem?.itemData, targetSlot);
 
             equippedItems[targetSlot] = playerInventorySystem.inventorySystem.slots[sourceInventoryIndex];
             playerInventorySystem.inventorySystem.slots[sourceInventoryIndex] = currentlyEquippedItem;
 
-            HandleEquipEffects(itemToEquip);
+            HandleEquipEffects(itemToEquip, targetSlot);
 
             playerStats.RecalculateStats();
 
@@ -117,19 +121,27 @@ namespace InventoryNamespace
         private void UnequipItem(EquipmentSlot slotToUnequip, int targetInventoryIndex)
         {
             if (!equippedItems.ContainsKey(slotToUnequip) || equippedItems[slotToUnequip] == null || equippedItems[slotToUnequip].IsEmpty()) return;
-
             InventorySlot itemToUnequip = equippedItems[slotToUnequip];
-
             playerInventorySystem.inventorySystem.slots[targetInventoryIndex] = itemToUnequip;
             equippedItems[slotToUnequip] = null;
 
-            HandleUnequipEffects(itemToUnequip.itemData);
+            HandleUnequipEffects(itemToUnequip.itemData, slotToUnequip);
             playerStats.RecalculateStats();
 
             InventoryPanelManager.Instance?.RefreshInventoryUI();
             EquipmentPanelManager.Instance?.RefreshAllSlots();
+        }
 
-            Debug.Log($"Unequipped {itemToUnequip.itemData.name}.");
+        private Transform GetTransformForSlot(EquipmentSlot slot)
+        {
+            switch(slot)
+            {
+                case EquipmentSlot.MainHand: return mainHandSlot;
+                case EquipmentSlot.OffHand: return offHandSlot;
+                case EquipmentSlot.Head: return headSlot;
+                case EquipmentSlot.Chest: return chestSlot;
+                default: return null;
+            }
         }
 
         public bool IsWeaponEquipped()
@@ -158,10 +170,49 @@ namespace InventoryNamespace
             return null;
         }
 
-        private void HandleEquipEffects(ItemData item) { if (item is WeaponData weapon) { animationController.SetWeaponType(weapon); SpawnWeaponVisual(weapon); } }
-        private void HandleUnequipEffects(ItemData item) { if (item is WeaponData) { animationController.SetWeaponType(null); ClearWeaponVisual(); } }
-        private void SpawnWeaponVisual(WeaponData weapon) { ClearWeaponVisual(); if (weapon.equippedPrefab != null && mainHandSlot != null) { GameObject weaponGO = Instantiate(weapon.equippedPrefab, mainHandSlot); animationController.SetWeaponAnimator(weaponGO.GetComponent<Animator>()); } }
-        private void ClearWeaponVisual() { if (mainHandSlot != null) { foreach (Transform child in mainHandSlot) Destroy(child.gameObject); } animationController.ClearWeaponAnimator(); }
+        private void HandleEquipEffects(ItemData item, EquipmentSlot slot) 
+        {
+            if (item == null || item.equippedPrefab == null) return;
+
+            Transform parentSlot = GetTransformForSlot(slot);
+            if (parentSlot == null) return;
+
+            foreach (Transform child in parentSlot) Destroy(child.gameObject);
+
+            GameObject itemVisual = Instantiate(item.equippedPrefab, parentSlot);
+
+            if (itemVisual.TryGetComponent<Animator>(out var animator))
+            { 
+                animationController.SetEquipmentAnimator(slot, animator);
+            } 
+
+            if (item is WeaponData weapon)
+            {
+                animationController.SetWeaponType(weapon);
+            }
+        }
+
+
+        private void HandleUnequipEffects(ItemData item, EquipmentSlot slot) 
+        { 
+            if (item == null) return;
+
+            Transform parentSlot = GetTransformForSlot(slot);
+            if (parentSlot != null)
+            {
+                foreach (Transform child in parentSlot) Destroy(child.gameObject);
+            }
+
+            animationController.ClearEquipmentAnimator(slot);
+
+            if (item is WeaponData) 
+            { 
+                animationController.SetWeaponType(null); 
+            } 
+        }
+
+        /*private void SpawnWeaponVisual(WeaponData weapon) { ClearWeaponVisual(); if (weapon.equippedPrefab != null && mainHandSlot != null) { GameObject weaponGO = Instantiate(weapon.equippedPrefab, mainHandSlot); animationController.SetWeaponAnimator(weaponGO.GetComponent<Animator>()); } }
+        private void ClearWeaponVisual() { if (mainHandSlot != null) { foreach (Transform child in mainHandSlot) Destroy(child.gameObject); } animationController.ClearWeaponAnimator(); }*/
 
         private EquipmentSlot? GetSlotForItem(ItemData item)
         {

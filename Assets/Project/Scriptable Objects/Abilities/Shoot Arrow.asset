@@ -15,6 +15,7 @@ MonoBehaviour:
   abilityName: Shoot Arrow
   abilityDescription: 
   abilityType: 0
+  attackType: 1
   castType: 2
   cooldown: 0
   castDuration: 0

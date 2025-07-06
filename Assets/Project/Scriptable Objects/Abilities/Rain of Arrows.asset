@@ -15,6 +15,7 @@ MonoBehaviour:
   abilityName: Rain of Arrows
   abilityDescription: 
   abilityType: 0
+  attackType: 1
   castType: 0
   cooldown: 30
   castDuration: 0

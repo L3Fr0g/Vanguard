@@ -143,19 +143,32 @@ namespace CharacterNamespace
             animationController.SetActionBool("action1", false);
             abilityCooldowns[ability] = Time.time + ability.cooldown;
 
-            if (ability.abilityPrefab != null)
+            switch (ability.attackType)
             {
-                HandleProjectileCast(ability);
-            }
-            else
-            {
-                HandleMeleeCast(ability);
+                case AttackType.Ranged:
+                    HandleProjectileCast(ability);
+                    break;
+                case AttackType.Melee:
+                    HandleMeleeCast(ability);
+                    break;
             }
         }
 
         private void HandleProjectileCast(Ability ability)
         {
-            GameObject projectileToSpawn = playerEquipment.GetEquippedProjectilePrefab() ?? ability.abilityPrefab;
+            GameObject projectileToSpawn = playerEquipment.GetEquippedProjectilePrefab();
+
+            if (projectileToSpawn == null)
+            {
+                projectileToSpawn = ability.abilityPrefab;
+            }
+
+            if (projectileToSpawn == null)
+            {
+                Debug.LogWarning($"Ranged attack '{ability.abilityName} failed. No projectile available");
+                return;
+            }
+
             if (projectileToSpawn != null && projectileSpawnPoint != null)
             {
                 float angle = Mathf.Atan2(currentAimDirection.y, currentAimDirection.x) * Mathf.Rad2Deg;

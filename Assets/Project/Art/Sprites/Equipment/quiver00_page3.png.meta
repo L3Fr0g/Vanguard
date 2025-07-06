@@ -240,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -289,1409 +289,1409 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_0
+      name: quiver00_shootUp_down00
       rect:
         serializedVersion: 2
-        x: 29
-        y: 480
-        width: 14
-        height: 13
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: daf65a9f4fcf64750800000000000000
-      internalID: 6288992058760064941
+      spriteID: 3e24ee15e37bfef4bb571f77dfba1eed
+      internalID: 165615547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_1
+      name: quiver00_shootUp_down01
       rect:
         serializedVersion: 2
-        x: 94
-        y: 478
-        width: 14
-        height: 13
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e78d0e9e722139660800000000000000
-      internalID: 7391271376081967230
+      spriteID: 28d678c74d217ed4c920f7a9aef39bea
+      internalID: -1108760184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_2
+      name: quiver00_shootUp_down02
       rect:
         serializedVersion: 2
-        x: 158
-        y: 478
-        width: 14
-        height: 13
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cb72b65982e25b2d0800000000000000
-      internalID: -3263651603119659076
+      spriteID: 739570cb0ebea0f489a7bf25c6d478b6
+      internalID: 569879207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_3
+      name: quiver00_shootUp_down03
       rect:
         serializedVersion: 2
-        x: 221
-        y: 479
-        width: 14
-        height: 13
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15ff7539e2e444b00800000000000000
-      internalID: 811859794781011793
+      spriteID: e3fc7a200e8e51b4fb2c0291b3a85e32
+      internalID: -57698234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_4
+      name: quiver00_shootUp_down04
       rect:
         serializedVersion: 2
-        x: 284
-        y: 480
-        width: 14
-        height: 13
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9cca25a41aa3605d0800000000000000
-      internalID: -3096723229359559479
+      spriteID: 78350b0d999489c4f94a6632d41aa563
+      internalID: -1043823284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_5
+      name: quiver00_shootUp_down05
       rect:
         serializedVersion: 2
-        x: 349
-        y: 479
-        width: 14
-        height: 13
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: edba118ddc17f9540800000000000000
-      internalID: 5016853638821293022
+      spriteID: 8834f504361d54949a3e708bd1f1153d
+      internalID: -1608836621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_6
+      name: quiver00_shootUp_down06
       rect:
         serializedVersion: 2
-        x: 413
-        y: 479
-        width: 14
-        height: 13
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: db6ccd27458db9940800000000000000
-      internalID: 5304070843374814909
+      spriteID: 1b13df16b01920d40aece0f72d00c2d8
+      internalID: -69182700
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_7
+      name: quiver00_shootUp_down07
       rect:
         serializedVersion: 2
-        x: 477
-        y: 479
-        width: 14
-        height: 13
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0a94cd5c4f017a140800000000000000
-      internalID: 4730768577053608352
+      spriteID: c50c4929fd3141144b4bc552a7d2d0bc
+      internalID: 2052562557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_8
+      name: quiver00_shootUp_up00
       rect:
         serializedVersion: 2
-        x: 28
-        y: 413
-        width: 10
-        height: 16
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3432dc6f791d5ad20800000000000000
-      internalID: 3289265553474921283
+      spriteID: 2be4c6c50bfc8ec4491d4b97df326f1d
+      internalID: 1136473939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_9
+      name: quiver00_shootUp_up01
       rect:
         serializedVersion: 2
-        x: 86
-        y: 409
-        width: 14
-        height: 13
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e14327d676d2b5650800000000000000
-      internalID: 6222617232383554590
+      spriteID: 6dbdf8ce999ab1648a8abddbe9ad4e8e
+      internalID: -1330072567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_10
+      name: quiver00_shootUp_up02
       rect:
         serializedVersion: 2
-        x: 150
-        y: 409
-        width: 14
-        height: 13
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1c2c2039e9718d9c0800000000000000
-      internalID: -3902343107277831487
+      spriteID: 614de119bc273e04a8a2c636d4616430
+      internalID: -7343662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_11
+      name: quiver00_shootUp_up03
       rect:
         serializedVersion: 2
-        x: 214
-        y: 412
-        width: 14
-        height: 13
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 008c4758d68451820800000000000000
-      internalID: 2888294371255699456
+      spriteID: 1874801e2e876c3488ab19917c87af03
+      internalID: -699643544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_12
+      name: quiver00_shootUp_up04
       rect:
         serializedVersion: 2
-        x: 279
-        y: 413
-        width: 14
-        height: 13
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0f6a595dee66b480800000000000000
-      internalID: -8883791249256321266
+      spriteID: e08a5b8de0ace2e428249838b0fadb29
+      internalID: -105399527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_13
+      name: quiver00_shootUp_up05
       rect:
         serializedVersion: 2
-        x: 344
-        y: 412
-        width: 14
-        height: 13
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d021f06dc1bbb970800000000000000
-      internalID: 8771800194887000281
+      spriteID: 382ea5d7595254245991802021753f17
+      internalID: 303966337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_14
+      name: quiver00_shootUp_up06
       rect:
         serializedVersion: 2
-        x: 408
-        y: 412
-        width: 14
-        height: 13
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b604e7af67a845ea0800000000000000
-      internalID: -5884926569453043605
+      spriteID: 29be907807954ca4cb02f6170c28b431
+      internalID: -1561795626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_15
+      name: quiver00_shootUp_up07
       rect:
         serializedVersion: 2
-        x: 472
-        y: 412
-        width: 14
-        height: 13
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9113b62945b9d9f60800000000000000
-      internalID: 8042755297089630489
+      spriteID: 5c06efe515b1e874ea6136f9fa09c2fa
+      internalID: -578315639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_16
+      name: quiver00_shootUp_right00
       rect:
         serializedVersion: 2
-        x: 18
-        y: 350
-        width: 14
-        height: 13
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2bc017a6239363590800000000000000
-      internalID: -7694900024618971982
+      spriteID: e0200606fe69b2d48bf50693cbde6c56
+      internalID: 2013296805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_17
+      name: quiver00_shootUp_right01
       rect:
         serializedVersion: 2
-        x: 83
-        y: 347
-        width: 14
-        height: 13
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 591b10dbc7c3493d0800000000000000
-      internalID: -3200866928708963947
+      spriteID: c92cf217e64621242a07d9c02a2a3bb1
+      internalID: -1964400518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_18
+      name: quiver00_shootUp_right02
       rect:
         serializedVersion: 2
-        x: 147
-        y: 347
-        width: 14
-        height: 13
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ddd6b747ed36133a0800000000000000
-      internalID: -6687454164580340259
+      spriteID: f2149e34f11d28e45b4c0e360d0e73ac
+      internalID: 1229685109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_19
+      name: quiver00_shootUp_right03
       rect:
         serializedVersion: 2
-        x: 210
-        y: 348
-        width: 14
-        height: 13
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 900568941f6228640800000000000000
-      internalID: 5080666147389853705
+      spriteID: 9adbac3cc82a174478929cbd77a4c615
+      internalID: 2103985581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_20
+      name: quiver00_shootUp_right04
       rect:
         serializedVersion: 2
-        x: 273
-        y: 348
-        width: 14
-        height: 13
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 033bae9f18639d0f0800000000000000
-      internalID: -1091781502789045456
+      spriteID: aefddabebb70d5a42a52684e55a19f0c
+      internalID: 373890478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_21
+      name: quiver00_shootUp_right05
       rect:
         serializedVersion: 2
-        x: 337
-        y: 349
-        width: 14
-        height: 13
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 053fd6b782e7b1fa0800000000000000
-      internalID: -5828926580366380208
+      spriteID: a42f16a2df0a84343a81546172a32321
+      internalID: -1934208009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_22
+      name: quiver00_shootUp_right06
       rect:
         serializedVersion: 2
-        x: 401
-        y: 349
-        width: 14
-        height: 13
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f2cc20417e83a4a0800000000000000
-      internalID: -6583261613226409225
+      spriteID: f5415d34f846fd240808fd2a7a1618cb
+      internalID: 967091995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_23
+      name: quiver00_shootUp_right07
       rect:
         serializedVersion: 2
-        x: 465
-        y: 349
-        width: 14
-        height: 13
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 27b275f2332627db0800000000000000
-      internalID: -4795662681219060878
+      spriteID: 08596e12fc1d5bb42a7dad0cb9a60fa4
+      internalID: -92853066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_24
+      name: quiver00_shootUp_left00
       rect:
         serializedVersion: 2
-        x: 32
-        y: 286
-        width: 14
-        height: 13
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3e5a19f65d9a82fa0800000000000000
-      internalID: -5825219383838792221
+      spriteID: c03ccc3906e816b4d876366baee2d84e
+      internalID: 1544866855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_25
+      name: quiver00_shootUp_left01
       rect:
         serializedVersion: 2
-        x: 95
-        y: 283
-        width: 14
-        height: 13
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 62b698a6538a6cdc0800000000000000
-      internalID: -3619020303171491034
+      spriteID: 48fb37a2611384544b0a80128916a912
+      internalID: 116496558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_26
+      name: quiver00_shootUp_left02
       rect:
         serializedVersion: 2
-        x: 159
-        y: 283
-        width: 14
-        height: 13
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75d23b75f35b36550800000000000000
-      internalID: 6152960799577156951
+      spriteID: df75a7edcb1dcee44bc85356567078a7
+      internalID: -726056076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_27
+      name: quiver00_shootUp_left03
       rect:
         serializedVersion: 2
-        x: 224
-        y: 284
-        width: 14
-        height: 13
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f90e483c957e43070800000000000000
-      internalID: 8085341603755253919
+      spriteID: e7bed7af4ae1e2841a4369522776e156
+      internalID: 1483738573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_28
+      name: quiver00_shootUp_left04
       rect:
         serializedVersion: 2
-        x: 289
-        y: 284
-        width: 14
-        height: 13
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 665c227d6aef37570800000000000000
-      internalID: 8463388117286700390
+      spriteID: 64d3aac0a12b5c34eae9c3d81ada24d9
+      internalID: -1396622717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_29
+      name: quiver00_shootUp_left05
       rect:
         serializedVersion: 2
-        x: 353
-        y: 285
-        width: 14
-        height: 13
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f74c191954fdae9c0800000000000000
-      internalID: -3897057037647756161
+      spriteID: 4cdafe34ea1472743acce2b6e49a105d
+      internalID: 564657843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_30
+      name: quiver00_shootUp_left06
       rect:
         serializedVersion: 2
-        x: 417
-        y: 285
-        width: 14
-        height: 13
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 15287288fd67561c0800000000000000
-      internalID: -4511068749307608495
+      spriteID: 2922a94304ca6cf428ae1153112a3330
+      internalID: -915425999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_31
+      name: quiver00_shootUp_left07
       rect:
         serializedVersion: 2
-        x: 481
-        y: 285
-        width: 14
-        height: 13
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 113f167d90d678d70800000000000000
-      internalID: 9045318265632584465
+      spriteID: ecc98b446307d814999d957434fa3793
+      internalID: -820264762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_32
+      name: quiver00_shootStraight_down00
       rect:
         serializedVersion: 2
-        x: 29
-        y: 224
-        width: 14
-        height: 13
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 93124340c4a8d6a10800000000000000
-      internalID: 1904330276540260665
+      spriteID: 7f8ab288c6ccf434ca4cc8d9a56c1800
+      internalID: 888472561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_33
+      name: quiver00_shootStraight_down01
       rect:
         serializedVersion: 2
-        x: 94
-        y: 222
-        width: 14
-        height: 13
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 297d75b47e3af3300800000000000000
-      internalID: 234085919443376018
+      spriteID: 88517318dad31214ea658fd0b41f3c24
+      internalID: -561759448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_34
+      name: quiver00_shootStraight_down02
       rect:
         serializedVersion: 2
-        x: 158
-        y: 222
-        width: 14
-        height: 13
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 122217399c538d300800000000000000
-      internalID: 277030516961649185
+      spriteID: 1a07222c7da5de142ac2468377f5ae28
+      internalID: 814639143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_35
+      name: quiver00_shootStraight_down03
       rect:
         serializedVersion: 2
-        x: 221
-        y: 223
-        width: 14
-        height: 13
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3d3625d2bf756be20800000000000000
-      internalID: 3365974507814806483
+      spriteID: b285ad6118c0cd9448f407e202948260
+      internalID: 437964426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_36
+      name: quiver00_shootStraight_down04
       rect:
         serializedVersion: 2
-        x: 285
-        y: 223
-        width: 14
-        height: 13
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: db96ec5d4f90122a0800000000000000
-      internalID: -6764114218170029635
+      spriteID: 40203b721b5451c448d533f6eac24cfb
+      internalID: -1648257233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_37
+      name: quiver00_shootStraight_down05
       rect:
         serializedVersion: 2
-        x: 348
-        y: 223
-        width: 14
-        height: 13
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 102c0aacc069bf8a0800000000000000
-      internalID: -6270253074499976703
+      spriteID: 32ff71cf7fb57be40bf8638cf89c8014
+      internalID: -68583985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_38
+      name: quiver00_shootStraight_down06
       rect:
         serializedVersion: 2
-        x: 412
-        y: 223
-        width: 14
-        height: 13
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6341c011ce409fa20800000000000000
-      internalID: 3096511630738723894
+      spriteID: a70ce48cd545c634cacccaf9868db79c
+      internalID: 347102891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_39
+      name: quiver00_shootStraight_down07
       rect:
         serializedVersion: 2
-        x: 476
-        y: 223
-        width: 14
-        height: 13
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd9a6825baf95a720800000000000000
-      internalID: 2856865096809228763
+      spriteID: 6041ad4cd0b0a584cb096e3b102383f4
+      internalID: -1182278626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_40
+      name: quiver00_shootStraight_up00
       rect:
         serializedVersion: 2
-        x: 28
-        y: 157
-        width: 10
-        height: 16
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e2773ac111a962160800000000000000
-      internalID: 7000452069079611182
+      spriteID: bdfe9a7344895f240b8af5a348a07947
+      internalID: -1466753177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_41
+      name: quiver00_shootStraight_up01
       rect:
         serializedVersion: 2
-        x: 86
-        y: 153
-        width: 14
-        height: 13
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a234d02884c5fde0800000000000000
-      internalID: -1299916828481146202
+      spriteID: b47c9929a49fa3847890015457bdbcfd
+      internalID: -1779870725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_42
+      name: quiver00_shootStraight_up02
       rect:
         serializedVersion: 2
-        x: 150
-        y: 153
-        width: 14
-        height: 13
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bec3d9bc4fb6b1800800000000000000
-      internalID: 584179275806883051
+      spriteID: 8491a1f3feb6ba74db962b27ea6cae08
+      internalID: -1641918528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_43
+      name: quiver00_shootStraight_up03
       rect:
         serializedVersion: 2
-        x: 214
-        y: 156
-        width: 14
-        height: 13
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6896b9fc6805bd2e0800000000000000
-      internalID: -2099996261299295866
+      spriteID: 60cf0692d27291a4082c8873319bb483
+      internalID: -1427730744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_44
+      name: quiver00_shootStraight_up04
       rect:
         serializedVersion: 2
-        x: 278
-        y: 155
-        width: 14
-        height: 13
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 10ead47651cc1e650800000000000000
-      internalID: 6260509349321223681
+      spriteID: 1b0c26603f632904eaea54a247a94bc1
+      internalID: 1825483724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_45
+      name: quiver00_shootStraight_up05
       rect:
         serializedVersion: 2
-        x: 344
-        y: 155
-        width: 14
-        height: 13
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bdb4a444b57ac9d60800000000000000
-      internalID: 7898371856930589659
+      spriteID: fa366b7657f8ce94988c94ab93a532fe
+      internalID: 1985189650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_46
+      name: quiver00_shootStraight_up06
       rect:
         serializedVersion: 2
-        x: 408
-        y: 155
-        width: 14
-        height: 13
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d41048b2e8fd2360800000000000000
-      internalID: 7146641836344349913
+      spriteID: ddbe1198ddec7d543b4d03bb5065d25c
+      internalID: 513490686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_47
+      name: quiver00_shootStraight_up07
       rect:
         serializedVersion: 2
-        x: 472
-        y: 155
-        width: 14
-        height: 13
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1cd410f5aec83bf70800000000000000
-      internalID: 9201853401892212161
+      spriteID: 482000adcaddffc4fa8e8037c000b565
+      internalID: 956483111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_48
+      name: quiver00_shootStraight_right00
       rect:
         serializedVersion: 2
-        x: 18
-        y: 94
-        width: 14
-        height: 13
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8361eaad023c04130800000000000000
-      internalID: 3549051052243162680
+      spriteID: 505d44218dc3f4749b2b1a231c19ec74
+      internalID: 305543565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_49
+      name: quiver00_shootStraight_right01
       rect:
         serializedVersion: 2
-        x: 83
-        y: 91
-        width: 14
-        height: 13
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f9e0efeb2dc724620800000000000000
-      internalID: 2756903166493462175
+      spriteID: 16ab9de7d6c60154d88076f67cc957a1
+      internalID: 799529582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_50
+      name: quiver00_shootStraight_right02
       rect:
         serializedVersion: 2
-        x: 147
-        y: 91
-        width: 14
-        height: 13
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eec2b6115f6db5b90800000000000000
-      internalID: -7251966426902483730
+      spriteID: f4ea2a1fce98b684fa2fb427f939a4b7
+      internalID: 1831654275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_51
+      name: quiver00_shootStraight_right03
       rect:
         serializedVersion: 2
-        x: 210
-        y: 92
-        width: 14
-        height: 13
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86b48bf3f4adbf230800000000000000
-      internalID: 3673769954957085544
+      spriteID: 9ebb179e35dbebd42bc006a22e7e2b46
+      internalID: 1191445294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_52
+      name: quiver00_shootStraight_right04
       rect:
         serializedVersion: 2
-        x: 274
-        y: 93
-        width: 14
-        height: 13
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1db809066b7fb31c0800000000000000
-      internalID: -4522749038087337007
+      spriteID: 8ba833e3b710b8c4ab7525ee1b6d5c48
+      internalID: 321069544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_53
+      name: quiver00_shootStraight_right05
       rect:
         serializedVersion: 2
-        x: 339
-        y: 93
-        width: 14
-        height: 13
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5e76a7724b57dfc70800000000000000
-      internalID: 9006484246427756517
+      spriteID: 34ba6a5e122e6a34a89d07ad3fa80f71
+      internalID: -175454137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_54
+      name: quiver00_shootStraight_right06
       rect:
         serializedVersion: 2
-        x: 403
-        y: 93
-        width: 14
-        height: 13
+        x: 384
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd4197abc60176ec0800000000000000
-      internalID: -3573869720124189476
+      spriteID: 1798b501a65382342929b0c360bc1114
+      internalID: -234277981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_55
+      name: quiver00_shootStraight_right07
       rect:
         serializedVersion: 2
-        x: 467
-        y: 93
-        width: 14
-        height: 13
+        x: 448
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4530db324fdd42c10800000000000000
-      internalID: 2027989772864914260
+      spriteID: b45e083e274da4046a609b848d2a48d0
+      internalID: 522815595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_56
+      name: quiver00_shootStraight_left00
       rect:
         serializedVersion: 2
-        x: 32
-        y: 30
-        width: 14
-        height: 13
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf7212e6b9dc924e0800000000000000
-      internalID: -2005846091565553668
+      spriteID: c93cd753b36390d47940c28ef43537bd
+      internalID: -1206349181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_57
+      name: quiver00_shootStraight_left01
       rect:
         serializedVersion: 2
-        x: 95
-        y: 27
-        width: 14
-        height: 13
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5fb91a5a35972efa0800000000000000
-      internalID: -5772918372167476235
+      spriteID: 2880cdd8462a525459caf9669a7b6561
+      internalID: -1091806722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_58
+      name: quiver00_shootStraight_left02
       rect:
         serializedVersion: 2
-        x: 159
-        y: 27
-        width: 14
-        height: 13
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 777fe36e05622aa20800000000000000
-      internalID: 3072060024722225015
+      spriteID: 3f55ed8b85dd69e4eacbd2c7b9ec4b9b
+      internalID: -464147310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_59
+      name: quiver00_shootStraight_left03
       rect:
         serializedVersion: 2
-        x: 224
-        y: 28
-        width: 14
-        height: 13
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 20c3d82f989256ed0800000000000000
-      internalID: -2421483552185172990
+      spriteID: 475a68a8cc524ff4d9d75e200a9265f3
+      internalID: 58121393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_60
+      name: quiver00_shootStraight_left04
       rect:
         serializedVersion: 2
-        x: 288
-        y: 29
-        width: 14
-        height: 13
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 04c67db162029a2d0800000000000000
-      internalID: -3267044706632635328
+      spriteID: 306b3b8548f5f9345b1112b144812657
+      internalID: -537295602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_61
+      name: quiver00_shootStraight_left05
       rect:
         serializedVersion: 2
-        x: 351
-        y: 29
-        width: 14
-        height: 13
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6872d470bd9492f90800000000000000
-      internalID: -6977964942564710522
+      spriteID: 50b6a28139e4aba4abe5aa79c65aa22a
+      internalID: 665579836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_62
+      name: quiver00_shootStraight_left06
       rect:
         serializedVersion: 2
-        x: 415
-        y: 29
-        width: 14
-        height: 13
+        x: 384
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c37f3c1729e923e30800000000000000
-      internalID: 4481818930998146876
+      spriteID: c5b1939b132eb3e49bc4d03044e2899d
+      internalID: 1298134404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_pBOW3_7tlb_qv01_v01_63
+      name: quiver00_shootStraight_left07
       rect:
         serializedVersion: 2
-        x: 479
-        y: 29
-        width: 14
-        height: 13
+        x: 448
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f68c3d3db29eb6280800000000000000
-      internalID: -9048882651824142225
+      spriteID: 877791af216abe145844e2db4ba6487d
+      internalID: 1532386927
       vertices: []
       indices: 
       edges: []
@@ -1700,7 +1700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e0e92f77f8b77eb4ca5883a0e2149494
     internalID: 0
     vertices: []
     indices: 
@@ -1710,70 +1710,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      char_a_pBOW3_7tlb_qv01_v01_0: 6288992058760064941
-      char_a_pBOW3_7tlb_qv01_v01_1: 7391271376081967230
-      char_a_pBOW3_7tlb_qv01_v01_10: -3902343107277831487
-      char_a_pBOW3_7tlb_qv01_v01_11: 2888294371255699456
-      char_a_pBOW3_7tlb_qv01_v01_12: -8883791249256321266
-      char_a_pBOW3_7tlb_qv01_v01_13: 8771800194887000281
-      char_a_pBOW3_7tlb_qv01_v01_14: -5884926569453043605
-      char_a_pBOW3_7tlb_qv01_v01_15: 8042755297089630489
-      char_a_pBOW3_7tlb_qv01_v01_16: -7694900024618971982
-      char_a_pBOW3_7tlb_qv01_v01_17: -3200866928708963947
-      char_a_pBOW3_7tlb_qv01_v01_18: -6687454164580340259
-      char_a_pBOW3_7tlb_qv01_v01_19: 5080666147389853705
-      char_a_pBOW3_7tlb_qv01_v01_2: -3263651603119659076
-      char_a_pBOW3_7tlb_qv01_v01_20: -1091781502789045456
-      char_a_pBOW3_7tlb_qv01_v01_21: -5828926580366380208
-      char_a_pBOW3_7tlb_qv01_v01_22: -6583261613226409225
-      char_a_pBOW3_7tlb_qv01_v01_23: -4795662681219060878
-      char_a_pBOW3_7tlb_qv01_v01_24: -5825219383838792221
-      char_a_pBOW3_7tlb_qv01_v01_25: -3619020303171491034
-      char_a_pBOW3_7tlb_qv01_v01_26: 6152960799577156951
-      char_a_pBOW3_7tlb_qv01_v01_27: 8085341603755253919
-      char_a_pBOW3_7tlb_qv01_v01_28: 8463388117286700390
-      char_a_pBOW3_7tlb_qv01_v01_29: -3897057037647756161
-      char_a_pBOW3_7tlb_qv01_v01_3: 811859794781011793
-      char_a_pBOW3_7tlb_qv01_v01_30: -4511068749307608495
-      char_a_pBOW3_7tlb_qv01_v01_31: 9045318265632584465
-      char_a_pBOW3_7tlb_qv01_v01_32: 1904330276540260665
-      char_a_pBOW3_7tlb_qv01_v01_33: 234085919443376018
-      char_a_pBOW3_7tlb_qv01_v01_34: 277030516961649185
-      char_a_pBOW3_7tlb_qv01_v01_35: 3365974507814806483
-      char_a_pBOW3_7tlb_qv01_v01_36: -6764114218170029635
-      char_a_pBOW3_7tlb_qv01_v01_37: -6270253074499976703
-      char_a_pBOW3_7tlb_qv01_v01_38: 3096511630738723894
-      char_a_pBOW3_7tlb_qv01_v01_39: 2856865096809228763
-      char_a_pBOW3_7tlb_qv01_v01_4: -3096723229359559479
-      char_a_pBOW3_7tlb_qv01_v01_40: 7000452069079611182
-      char_a_pBOW3_7tlb_qv01_v01_41: -1299916828481146202
-      char_a_pBOW3_7tlb_qv01_v01_42: 584179275806883051
-      char_a_pBOW3_7tlb_qv01_v01_43: -2099996261299295866
-      char_a_pBOW3_7tlb_qv01_v01_44: 6260509349321223681
-      char_a_pBOW3_7tlb_qv01_v01_45: 7898371856930589659
-      char_a_pBOW3_7tlb_qv01_v01_46: 7146641836344349913
-      char_a_pBOW3_7tlb_qv01_v01_47: 9201853401892212161
-      char_a_pBOW3_7tlb_qv01_v01_48: 3549051052243162680
-      char_a_pBOW3_7tlb_qv01_v01_49: 2756903166493462175
-      char_a_pBOW3_7tlb_qv01_v01_5: 5016853638821293022
-      char_a_pBOW3_7tlb_qv01_v01_50: -7251966426902483730
-      char_a_pBOW3_7tlb_qv01_v01_51: 3673769954957085544
-      char_a_pBOW3_7tlb_qv01_v01_52: -4522749038087337007
-      char_a_pBOW3_7tlb_qv01_v01_53: 9006484246427756517
-      char_a_pBOW3_7tlb_qv01_v01_54: -3573869720124189476
-      char_a_pBOW3_7tlb_qv01_v01_55: 2027989772864914260
-      char_a_pBOW3_7tlb_qv01_v01_56: -2005846091565553668
-      char_a_pBOW3_7tlb_qv01_v01_57: -5772918372167476235
-      char_a_pBOW3_7tlb_qv01_v01_58: 3072060024722225015
-      char_a_pBOW3_7tlb_qv01_v01_59: -2421483552185172990
-      char_a_pBOW3_7tlb_qv01_v01_6: 5304070843374814909
-      char_a_pBOW3_7tlb_qv01_v01_60: -3267044706632635328
-      char_a_pBOW3_7tlb_qv01_v01_61: -6977964942564710522
-      char_a_pBOW3_7tlb_qv01_v01_62: 4481818930998146876
-      char_a_pBOW3_7tlb_qv01_v01_63: -9048882651824142225
-      char_a_pBOW3_7tlb_qv01_v01_7: 4730768577053608352
-      char_a_pBOW3_7tlb_qv01_v01_8: 3289265553474921283
-      char_a_pBOW3_7tlb_qv01_v01_9: 6222617232383554590
+      quiver00_shootStraight_down00: 888472561
+      quiver00_shootStraight_down01: -561759448
+      quiver00_shootStraight_down02: 814639143
+      quiver00_shootStraight_down03: 437964426
+      quiver00_shootStraight_down04: -1648257233
+      quiver00_shootStraight_down05: -68583985
+      quiver00_shootStraight_down06: 347102891
+      quiver00_shootStraight_down07: -1182278626
+      quiver00_shootStraight_left00: -1206349181
+      quiver00_shootStraight_left01: -1091806722
+      quiver00_shootStraight_left02: -464147310
+      quiver00_shootStraight_left03: 58121393
+      quiver00_shootStraight_left04: -537295602
+      quiver00_shootStraight_left05: 665579836
+      quiver00_shootStraight_left06: 1298134404
+      quiver00_shootStraight_left07: 1532386927
+      quiver00_shootStraight_right00: 305543565
+      quiver00_shootStraight_right01: 799529582
+      quiver00_shootStraight_right02: 1831654275
+      quiver00_shootStraight_right03: 1191445294
+      quiver00_shootStraight_right04: 321069544
+      quiver00_shootStraight_right05: -175454137
+      quiver00_shootStraight_right06: -234277981
+      quiver00_shootStraight_right07: 522815595
+      quiver00_shootStraight_up00: -1466753177
+      quiver00_shootStraight_up01: -1779870725
+      quiver00_shootStraight_up02: -1641918528
+      quiver00_shootStraight_up03: -1427730744
+      quiver00_shootStraight_up04: 1825483724
+      quiver00_shootStraight_up05: 1985189650
+      quiver00_shootStraight_up06: 513490686
+      quiver00_shootStraight_up07: 956483111
+      quiver00_shootUp_down00: 165615547
+      quiver00_shootUp_down01: -1108760184
+      quiver00_shootUp_down02: 569879207
+      quiver00_shootUp_down03: -57698234
+      quiver00_shootUp_down04: -1043823284
+      quiver00_shootUp_down05: -1608836621
+      quiver00_shootUp_down06: -69182700
+      quiver00_shootUp_down07: 2052562557
+      quiver00_shootUp_left00: 1544866855
+      quiver00_shootUp_left01: 116496558
+      quiver00_shootUp_left02: -726056076
+      quiver00_shootUp_left03: 1483738573
+      quiver00_shootUp_left04: -1396622717
+      quiver00_shootUp_left05: 564657843
+      quiver00_shootUp_left06: -915425999
+      quiver00_shootUp_left07: -820264762
+      quiver00_shootUp_right00: 2013296805
+      quiver00_shootUp_right01: -1964400518
+      quiver00_shootUp_right02: 1229685109
+      quiver00_shootUp_right03: 2103985581
+      quiver00_shootUp_right04: 373890478
+      quiver00_shootUp_right05: -1934208009
+      quiver00_shootUp_right06: 967091995
+      quiver00_shootUp_right07: -92853066
+      quiver00_shootUp_up00: 1136473939
+      quiver00_shootUp_up01: -1330072567
+      quiver00_shootUp_up02: -7343662
+      quiver00_shootUp_up03: -699643544
+      quiver00_shootUp_up04: -105399527
+      quiver00_shootUp_up05: 303966337
+      quiver00_shootUp_up06: -1561795626
+      quiver00_shootUp_up07: -578315639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

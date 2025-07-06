@@ -74,6 +74,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    public void ForceSheathedState()
+    {
+        isUnsheathed = false;
+    }
+
     private void ToggleInventory()
     {
         if (UIManager.Instance != null)
