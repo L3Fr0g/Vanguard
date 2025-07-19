@@ -12,22 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84c4257166f9fe9479e51cb751ed8bd4, type: 3}
   m_Name: Training Sword
   m_EditorClassIdentifier: 
-  itemName: 
+  pickupPrefab: {fileID: 6847411566944884934, guid: 26f87ae3ae6bde4448975268ff8fa37f, type: 3}
+  equippedPrefab: {fileID: 6847411566944884934, guid: 32b7c4a17d613b445be6beeea0066d6d, type: 3}
+  itemName: Training Sword
   itemDescription: 
-  icon: {fileID: 0}
-  prefab: {fileID: 0}
-  rarity: 0
-  itemLevel: 0
+  icon: {fileID: -2090879028, guid: 09bb91a644e2ddc4f9de16a72b38d8d5, type: 3}
+  rarity: 1
+  itemLevel: 1
   isStackable: 0
   maxStackSize: 1
-  equippableBy: 
+  equippableBy: 00000000
   strength: 0
   intellect: 0
   agility: 0
-  range: 0
+  range: 2
   attackSpeed: 1
-  minPhysicalDamage: 0
-  maxPhysicalDamage: 0
+  minPhysicalDamage: 2
+  maxPhysicalDamage: 4
   minMagicDamage: 0
   maxMagicDamage: 0
   critHitChance: 0

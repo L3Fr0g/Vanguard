@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 574a17f09a4e13d458decfa9e4d607a1, type: 3}
   m_Name: Practice Bow
   m_EditorClassIdentifier: 
-  pickupPrefab: {fileID: 3756041393466994866, guid: bfd6ad4edfe3e6c4b8a2ca55032bcbee, type: 3}
+  pickupPrefab: {fileID: 3765296622293128503, guid: bfd6ad4edfe3e6c4b8a2ca55032bcbee, type: 3}
   equippedPrefab: {fileID: 3756041393466994866, guid: c4b9256983b5c12499ff9b9e2c8e8649, type: 3}
   itemName: Practice Bow
   itemDescription: 

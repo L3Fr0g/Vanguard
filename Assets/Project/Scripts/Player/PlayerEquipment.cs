@@ -164,8 +164,8 @@ namespace InventoryNamespace
         {
             if (mainHandSlot != null && mainHandSlot.childCount > 0)
             {
-                Transform weapoVisual = mainHandSlot.GetChild(0);
-                return weapoVisual.GetComponentInChildren<MeleeHitboxController>();
+                Transform weaponVisual = mainHandSlot.GetChild(0);
+                return weaponVisual.GetComponentInChildren<MeleeHitboxController>();
             }
             return null;
         }
@@ -207,12 +207,14 @@ namespace InventoryNamespace
 
             if (item is WeaponData) 
             { 
-                animationController.SetWeaponType(null); 
+                animationController.SetWeaponType(null);
+
+                if (playerController != null)
+                {
+                    playerController.ForceSheathedState();
+                }
             } 
         }
-
-        /*private void SpawnWeaponVisual(WeaponData weapon) { ClearWeaponVisual(); if (weapon.equippedPrefab != null && mainHandSlot != null) { GameObject weaponGO = Instantiate(weapon.equippedPrefab, mainHandSlot); animationController.SetWeaponAnimator(weaponGO.GetComponent<Animator>()); } }
-        private void ClearWeaponVisual() { if (mainHandSlot != null) { foreach (Transform child in mainHandSlot) Destroy(child.gameObject); } animationController.ClearWeaponAnimator(); }*/
 
         private EquipmentSlot? GetSlotForItem(ItemData item)
         {

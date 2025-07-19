@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     private Movement movement;
     private PlayerAbilityManager playerAbilityManager;
     private PlayerControls playerControls;
+    private PlayerInteractor playerInteractor;
     private PlayerEquipment playerEquipment;
     private PlayerStats playerStats;
 
@@ -24,12 +25,14 @@ public class PlayerController : MonoBehaviour
         movement = GetComponent<Movement>();
         playerAbilityManager = GetComponent<PlayerAbilityManager>();
         playerControls = new PlayerControls();
+        playerInteractor = GetComponent<PlayerInteractor>();
         playerEquipment = GetComponent<PlayerEquipment>();
         playerStats = GetComponent<PlayerStats>();
 
-        playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
         playerControls.UIActions.Inventory.performed += _ => ToggleInventory();
 
+        playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
+        playerControls.Actions.Interact.performed += _ => playerInteractor.TryInteract();
         playerControls.Actions.Action1.performed += _ => PerformPrimaryAction();
     }
 

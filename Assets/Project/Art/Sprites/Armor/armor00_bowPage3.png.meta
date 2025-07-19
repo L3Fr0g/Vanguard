@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 7b94bb0db495551488ec54867a4016ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8383997286990749063
+    second: char_a_pBOW3_1out_pfpn_v01_0
+  - first:
+      213: 233204321424461751
+    second: char_a_pBOW3_1out_pfpn_v01_1
+  - first:
+      213: 6113239818176131206
+    second: char_a_pBOW3_1out_pfpn_v01_2
+  - first:
+      213: -9089686799113047017
+    second: char_a_pBOW3_1out_pfpn_v01_3
+  - first:
+      213: 4546766198450215550
+    second: char_a_pBOW3_1out_pfpn_v01_4
+  - first:
+      213: -1929167648831975598
+    second: char_a_pBOW3_1out_pfpn_v01_5
+  - first:
+      213: 4934073707746309575
+    second: char_a_pBOW3_1out_pfpn_v01_6
+  - first:
+      213: 4904683686426325564
+    second: char_a_pBOW3_1out_pfpn_v01_7
+  - first:
+      213: -1994202586142572905
+    second: char_a_pBOW3_1out_pfpn_v01_8
+  - first:
+      213: -9083388976950204819
+    second: char_a_pBOW3_1out_pfpn_v01_9
+  - first:
+      213: 6970904042486842565
+    second: char_a_pBOW3_1out_pfpn_v01_10
+  - first:
+      213: 4005049415567485919
+    second: char_a_pBOW3_1out_pfpn_v01_11
+  - first:
+      213: 5569099100895713115
+    second: char_a_pBOW3_1out_pfpn_v01_12
+  - first:
+      213: 672376962612617325
+    second: char_a_pBOW3_1out_pfpn_v01_13
+  - first:
+      213: 3098389658086087357
+    second: char_a_pBOW3_1out_pfpn_v01_14
+  - first:
+      213: -2577459500684559750
+    second: char_a_pBOW3_1out_pfpn_v01_15
+  - first:
+      213: 1221937437741373809
+    second: char_a_pBOW3_1out_pfpn_v01_16
+  - first:
+      213: 7172471425426522854
+    second: char_a_pBOW3_1out_pfpn_v01_17
+  - first:
+      213: -7809408688066721050
+    second: char_a_pBOW3_1out_pfpn_v01_18
+  - first:
+      213: -4901059626357370820
+    second: char_a_pBOW3_1out_pfpn_v01_19
+  - first:
+      213: 3176418147614955058
+    second: char_a_pBOW3_1out_pfpn_v01_20
+  - first:
+      213: -8657651718224093542
+    second: char_a_pBOW3_1out_pfpn_v01_21
+  - first:
+      213: 5584954438226333941
+    second: char_a_pBOW3_1out_pfpn_v01_22
+  - first:
+      213: -3964343884431091811
+    second: char_a_pBOW3_1out_pfpn_v01_23
+  - first:
+      213: -7607217751620690016
+    second: char_a_pBOW3_1out_pfpn_v01_24
+  - first:
+      213: 4426608691189899381
+    second: char_a_pBOW3_1out_pfpn_v01_25
+  - first:
+      213: -1772978592224872841
+    second: char_a_pBOW3_1out_pfpn_v01_26
+  - first:
+      213: 4943430280599128567
+    second: char_a_pBOW3_1out_pfpn_v01_27
+  - first:
+      213: -4656330394575202062
+    second: char_a_pBOW3_1out_pfpn_v01_28
+  - first:
+      213: 4074442591126001583
+    second: char_a_pBOW3_1out_pfpn_v01_29
+  - first:
+      213: 6243105959227845327
+    second: char_a_pBOW3_1out_pfpn_v01_30
+  - first:
+      213: 1068272300122785375
+    second: char_a_pBOW3_1out_pfpn_v01_31
+  - first:
+      213: 4898341549615195139
+    second: char_a_pBOW3_1out_pfpn_v01_32
+  - first:
+      213: -5883190268880126419
+    second: char_a_pBOW3_1out_pfpn_v01_33
+  - first:
+      213: 8303736461662186866
+    second: char_a_pBOW3_1out_pfpn_v01_34
+  - first:
+      213: 3103410920714797040
+    second: char_a_pBOW3_1out_pfpn_v01_35
+  - first:
+      213: 6276627920465225521
+    second: char_a_pBOW3_1out_pfpn_v01_36
+  - first:
+      213: 2450292690061829025
+    second: char_a_pBOW3_1out_pfpn_v01_37
+  - first:
+      213: 5103551109727096243
+    second: char_a_pBOW3_1out_pfpn_v01_38
+  - first:
+      213: 509389419324836989
+    second: char_a_pBOW3_1out_pfpn_v01_39
+  - first:
+      213: -5782857209723964857
+    second: char_a_pBOW3_1out_pfpn_v01_40
+  - first:
+      213: -8788430809889615027
+    second: char_a_pBOW3_1out_pfpn_v01_41
+  - first:
+      213: 5384567105104559796
+    second: char_a_pBOW3_1out_pfpn_v01_42
+  - first:
+      213: -709577901986122876
+    second: char_a_pBOW3_1out_pfpn_v01_43
+  - first:
+      213: 1131362418070344195
+    second: char_a_pBOW3_1out_pfpn_v01_44
+  - first:
+      213: -2980800003112725156
+    second: char_a_pBOW3_1out_pfpn_v01_45
+  - first:
+      213: -2003893354668230781
+    second: char_a_pBOW3_1out_pfpn_v01_46
+  - first:
+      213: -895274626648111630
+    second: char_a_pBOW3_1out_pfpn_v01_47
+  - first:
+      213: 1653233718379795249
+    second: char_a_pBOW3_1out_pfpn_v01_48
+  - first:
+      213: 4680163049393134432
+    second: char_a_pBOW3_1out_pfpn_v01_49
+  - first:
+      213: 241216813870859438
+    second: char_a_pBOW3_1out_pfpn_v01_50
+  - first:
+      213: -9111570328084772468
+    second: char_a_pBOW3_1out_pfpn_v01_51
+  - first:
+      213: 2546276706858566728
+    second: char_a_pBOW3_1out_pfpn_v01_52
+  - first:
+      213: 1400111430321572888
+    second: char_a_pBOW3_1out_pfpn_v01_53
+  - first:
+      213: 7520126060878358999
+    second: char_a_pBOW3_1out_pfpn_v01_54
+  - first:
+      213: 3720656013878046938
+    second: char_a_pBOW3_1out_pfpn_v01_55
+  - first:
+      213: 5754034119503786186
+    second: char_a_pBOW3_1out_pfpn_v01_56
+  - first:
+      213: -5289382508573691801
+    second: char_a_pBOW3_1out_pfpn_v01_57
+  - first:
+      213: -8026391718960057024
+    second: char_a_pBOW3_1out_pfpn_v01_58
+  - first:
+      213: -2482751217483960414
+    second: char_a_pBOW3_1out_pfpn_v01_59
+  - first:
+      213: -7436616941705411184
+    second: char_a_pBOW3_1out_pfpn_v01_60
+  - first:
+      213: 3146126678807838267
+    second: char_a_pBOW3_1out_pfpn_v01_61
+  - first:
+      213: -4009719519241101922
+    second: char_a_pBOW3_1out_pfpn_v01_62
+  - first:
+      213: -7860812362731206451
+    second: char_a_pBOW3_1out_pfpn_v01_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9765935e20c04ea18c404d67e1f4e
+      internalID: 947921261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181fccc15c84a9479c8a2dd46b0e671
+      internalID: 1152637377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd047a744992b429e61764ed63acd1
+      internalID: -273701285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed4214012b8df4ea99257c3c3560ba
+      internalID: -1535524654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_down04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d7d46d3ff4be6409d4c9b201a1f4b9
+      internalID: -1525819407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_down00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff2405919c70d54b947b03976b3347f
+      internalID: 739506013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_down01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa0ff922e7ef4439c2630647dbef79
+      internalID: -1468195984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_down02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2239295873e078e439c285a0e083ea27
+      internalID: 1614888188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f399c3b01fd24bb9115a0d8578f6e
+      internalID: -316533408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6d60eb9d09f414992519ab320b7cb0
+      internalID: -1461332591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acba93ab3b5cc142953c442ff3d1aa9
+      internalID: 1796273982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7533bf6a18d1bf46b8e25792f14906c
+      internalID: -482359744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_up04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d50aa1f5b6ef4f825334f085b0315
+      internalID: 1164299981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_up00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda47b0baf8142944a49321e292b3fdd
+      internalID: 607510938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_up01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6d043304b2fa45896839b38db8dd9
+      internalID: 1206799368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_up02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de908430994a7f94d8addf699b8388ac
+      internalID: -670068096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529b12cda347c14a998bd60f44cf428
+      internalID: -1192534722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64b5e2ad244e3b48bd9e1183dc90d96
+      internalID: 154169010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e53b92fcab1140aa8189de1efb38b
+      internalID: 1687889806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94141579fb5d2ab4a8af541ccb493d7e
+      internalID: -1501392556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_right04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039b46728f2c4842b75e46747673c09
+      internalID: -576047701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_right00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2755256e4f6ef204299cd6da99236f5f
+      internalID: -2098138179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_right01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb7cba2c101d99438c6d5c0dcfd9d8f
+      internalID: 1676813585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_right02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0084df041d00429871cbbcb523fb7
+      internalID: 1317216863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5179e4c5fc822eb42bb22bc1b24a97a7
+      internalID: 820276943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3b7e43dc861c489f710e38b4f72b0
+      internalID: 1481832572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288683d95ee3aa44ebbc14bbae7aa620
+      internalID: -952806269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b2816a30c5c664aae589ecd5a67fb1
+      internalID: 2050262952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawUp_left04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbf99c85749dd143ab6fa03f04b89d2
+      internalID: 1946174592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_left00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c5522d2dc98de43815eaaf2b6a52ba
+      internalID: 1906212942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_left01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa777cdd645fd9e46b46bc78ff176e9a
+      internalID: 1859468613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseUp_left02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136cd4bb0d4986b4f8a094a5ae9d4148
+      internalID: -1582065308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_down00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b5537538dffc4f9702be1037d6d09
+      internalID: -1761797760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_down01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7138dd0c508f41b52c2fa2c64407f
+      internalID: 2144103364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_down02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd2fd7d3b145d4aa897af5bbeee05b
+      internalID: -1317639744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_down03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733625cfaf82bbf41bd13b55d819ae35
+      internalID: -139609391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_down04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a0c966fdfc6d84abf16452a780e565
+      internalID: -1818287296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_down00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f22c9244f91dfb49b9547d24c0bb37a
+      internalID: 1988869340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_down01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc5759f6b7d4845a9b91b30a2107b0
+      internalID: 1600975257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_down02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae35a88c39d0746a2ded701d739251
+      internalID: -342333602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_up00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138b393196d5b1e468a2e3fdbb467e76
+      internalID: 1423217825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_up01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230ee7277cfbc149a5930341df0933e
+      internalID: 872201061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_up02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071125edd4a65e4f8efc0befde34032
+      internalID: -1879642235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_up03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b685cd3a7fedbc4297369a73e1d2319
+      internalID: 318796398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_up04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3234f3daa0dda409e3df3d29f5fc47
+      internalID: -1176723994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_up00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba6b99ff0a6ffc4ca817ae1cc769ab3
+      internalID: 391484386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_up01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92951756eefc9b439377aa77383c2fb
+      internalID: 2146963424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_up02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da1e9163489a564abaf01a0dd19c47a
+      internalID: -1256437615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_right00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3af6816434d844870783e70ef570a
+      internalID: 1099133814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_right01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa54ae7a8d85374384893c30ad08fe9
+      internalID: 1379080515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_right02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937292c86448ac409dbc837b1e58bed
+      internalID: 1070864626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_right03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64971efb547a93a4fa0b9944be22a5ac
+      internalID: 2094702091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_right04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f51e515c4214241b1ed551d2d241bf
+      internalID: -1947192564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_right00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b0eb16dee28b4eabd40c4e110e2d2
+      internalID: 1650092969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_right01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d04cb2e109466742a241f936940484d
+      internalID: -317209188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_right02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192386baffbafe84bb15a1251f5af35e
+      internalID: -843369348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_left00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49264cbb243de0546861d4803f73c88e
+      internalID: 1262313499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_left01
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62bb2b5e3825aa4c903bc9a3e3a4fc8
+      internalID: 422339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_left02
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e9fe264b95e743945006b86e7ae9a
+      internalID: 811027737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_left03
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff466b3938f25484ebb84a478915325c
+      internalID: 774057646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowDrawStraight_left04
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaecff9e1046b5d49aac73cc3f6e32d9
+      internalID: -407085015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_left00
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861efc0d92020cb429a1effee2af20f6
+      internalID: 256537437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_left01
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b35afb5f742e774e9f28bfccb032ebd
+      internalID: 658481928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armor00_bowReleaseStraight_left02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad7be5ac3297224ead805fda4e5b406
+      internalID: -643898992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 588d14ca701dd4446b5444a6f49eb852
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      armor00_bowDrawStraight_down00: -1761797760
+      armor00_bowDrawStraight_down01: 2144103364
+      armor00_bowDrawStraight_down02: -1317639744
+      armor00_bowDrawStraight_down03: -139609391
+      armor00_bowDrawStraight_down04: -1818287296
+      armor00_bowDrawStraight_left0: 1988869340
+      armor00_bowDrawStraight_left00: 1262313499
+      armor00_bowDrawStraight_left01: 422339987
+      armor00_bowDrawStraight_left02: 811027737
+      armor00_bowDrawStraight_left03: 774057646
+      armor00_bowDrawStraight_left04: -407085015
+      armor00_bowDrawStraight_right00: 1099133814
+      armor00_bowDrawStraight_right01: 1379080515
+      armor00_bowDrawStraight_right02: 1070864626
+      armor00_bowDrawStraight_right03: 2094702091
+      armor00_bowDrawStraight_right04: -1947192564
+      armor00_bowDrawStraight_up00: 1423217825
+      armor00_bowDrawStraight_up01: 872201061
+      armor00_bowDrawStraight_up02: -1879642235
+      armor00_bowDrawStraight_up03: 318796398
+      armor00_bowDrawStraight_up04: -1176723994
+      armor00_bowDrawUp_down00: 947921261
+      armor00_bowDrawUp_down01: 1152637377
+      armor00_bowDrawUp_down02: -273701285
+      armor00_bowDrawUp_down03: -1535524654
+      armor00_bowDrawUp_down04: -1525819407
+      armor00_bowDrawUp_left00: 820276943
+      armor00_bowDrawUp_left01: 1481832572
+      armor00_bowDrawUp_left02: -952806269
+      armor00_bowDrawUp_left03: 2050262952
+      armor00_bowDrawUp_left04: 1946174592
+      armor00_bowDrawUp_right00: -1192534722
+      armor00_bowDrawUp_right01: 154169010
+      armor00_bowDrawUp_right02: 1687889806
+      armor00_bowDrawUp_right03: -1501392556
+      armor00_bowDrawUp_right04: -576047701
+      armor00_bowDrawUp_up00: -316533408
+      armor00_bowDrawUp_up01: -1461332591
+      armor00_bowDrawUp_up02: 1796273982
+      armor00_bowDrawUp_up03: -482359744
+      armor00_bowDrawUp_up04: 1164299981
+      armor00_bowReleaseStraight_down01: 1600975257
+      armor00_bowReleaseStraight_down02: -342333602
+      armor00_bowReleaseStraight_left00: 256537437
+      armor00_bowReleaseStraight_left01: 658481928
+      armor00_bowReleaseStraight_left02: -643898992
+      armor00_bowReleaseStraight_right00: 1650092969
+      armor00_bowReleaseStraight_right01: -317209188
+      armor00_bowReleaseStraight_right02: -843369348
+      armor00_bowReleaseStraight_up00: 391484386
+      armor00_bowReleaseStraight_up01: 2146963424
+      armor00_bowReleaseStraight_up02: -1256437615
+      armor00_bowReleaseUp_down00: 739506013
+      armor00_bowReleaseUp_down01: -1468195984
+      armor00_bowReleaseUp_down02: 1614888188
+      armor00_bowReleaseUp_left00: 1906212942
+      armor00_bowReleaseUp_left01: 1859468613
+      armor00_bowReleaseUp_left02: -1582065308
+      armor00_bowReleaseUp_right00: -2098138179
+      armor00_bowReleaseUp_right01: 1676813585
+      armor00_bowReleaseUp_right02: 1317216863
+      armor00_bowReleaseUp_up00: 607510938
+      armor00_bowReleaseUp_up01: 1206799368
+      armor00_bowReleaseUp_up02: -670068096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

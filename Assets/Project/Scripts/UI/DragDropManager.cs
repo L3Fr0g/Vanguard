@@ -9,7 +9,6 @@ namespace InventoryNamespace
         public static DragDropManager Instance { get; private set; }
 
         [Header("UI References")]
-        [Tooltip("The UI Image component that will follow the mouse cursor.")]
         [SerializeField] public Image dragIcon;
 
         public bool IsDragging { get; private set; }
@@ -18,14 +17,8 @@ namespace InventoryNamespace
 
         private void Awake()
         {
-            if (Instance != null && Instance != this)
-            {
-                Destroy(gameObject);
-            }
-            else
-            {
-                Instance = this;
-            }
+            if (Instance != null && Instance != this) Destroy(gameObject);
+            else Instance = this;
         }
 
         private void Start()

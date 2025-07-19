@@ -5,7 +5,7 @@ using UnityEngine.EventSystems;
 
 namespace InventoryNamespace
 {
-    public class InventorySlotUI : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler
+    public class InventorySlotUI : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler, IBeginDragHandler , IDragHandler, IEndDragHandler
     {
         [Header("UI References")]
         [SerializeField] private Image itemIcon;
@@ -54,6 +54,35 @@ namespace InventoryNamespace
                 {
                     playerEquipment.TryEquipItem(SlotIndex);
                 }
+            }
+        }
+
+        public void OnBeginDrag(PointerEventData eventData)
+        {
+            if (HasItem)
+            {
+                DragDropManager.Instance.StartDragFromInventory(this, itemIcon.sprite);
+                filledSlotVisuals.SetActive(false);
+            }
+        }
+
+        public void OnDrag(PointerEventData eventData)
+        {
+            if (DragDropManager.Instance.IsDragging)
+            {
+                if (DragDropManager.Instance.IsDragging)
+                {
+                    DragDropManager.Instance.dragIcon.transform.position = eventData.position;
+                }
+            }
+        }
+
+        public void OnEndDrag(PointerEventData eventData)
+        {
+            if(DragDropManager.Instance.IsDragging && DragDropManager.Instance.SourceInventorySlot == this)
+            {
+                DragDropManager.Instance.StopDrag();
+                filledSlotVisuals.SetActive(true);
             }
         }
     }

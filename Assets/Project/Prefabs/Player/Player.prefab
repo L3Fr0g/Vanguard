@@ -53,6 +53,7 @@ GameObject:
   - component: {fileID: 3150096348487723728}
   - component: {fileID: 3372174653384034321}
   - component: {fileID: 4051408412159316496}
+  - component: {fileID: 195707054428776557}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -271,6 +272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventorySystem: {fileID: 3693443502252860326}
+  genericPickupPrefab: {fileID: 4526829865439147403, guid: 354b79854a40fd345869c29999eb250c, type: 3}
 --- !u!114 &3693443502252860326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -299,6 +301,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainHandSlot: {fileID: 7512479790379546463}
   offHandSlot: {fileID: 6275806596613311185}
+  headSlot: {fileID: 8012288078310890453}
+  chestSlot: {fileID: 2516669200720119303}
   playerInventorySystem: {fileID: 4617286694976074494}
 --- !u!114 &3150096348487723728
 MonoBehaviour:
@@ -361,6 +365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileSpawnPoint: {fileID: 3814365588572020886}
+  actionInputWasCancelled: 0
   useableAbilities: []
 --- !u!114 &4051408412159316496
 MonoBehaviour:
@@ -376,6 +381,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentClassData: {fileID: 0}
   playerAbilityManager: {fileID: 0}
+--- !u!114 &195707054428776557
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4748672499677687172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e033751564a103448bc74cdc7daa6e4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionRadius: 1.5
+  interactableLayer:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!1 &4756014050304621480
 GameObject:
   m_ObjectHideFlags: 0

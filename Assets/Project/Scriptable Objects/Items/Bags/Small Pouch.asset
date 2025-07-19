@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9131cfd68aee0f47868b10accf0d466, type: 3}
+  m_Name: Small Pouch
+  m_EditorClassIdentifier: 
+  pickupPrefab: {fileID: 5657180839802414477, guid: b9349b8551d564243ba10d66b1848e4b, type: 3}
+  equippedPrefab: {fileID: 5657180839802414477, guid: 1ab02dfe0dbc6274ba734ba015f40608, type: 3}
+  itemName: Small pouch
+  itemDescription: 
+  icon: {fileID: 8529321563372831706, guid: 48a9611a528c7af42af23d9b74e0dfc7, type: 3}
+  rarity: 1
+  itemLevel: 1
+  isStackable: 0
+  maxStackSize: 1
+  inventoryCapacityBonus: 5
