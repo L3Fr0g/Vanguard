@@ -100,16 +100,11 @@ namespace InventoryNamespace
             if (playerInventory != null)
             {
                 int remainingQuantity = playerInventory.PickUpItem(itemData, quantity);
-
                 if (remainingQuantity < quantity)
                 {
                     quantity = remainingQuantity;
                     InventoryPanelManager.Instance.RefreshInventoryUI();
-
-                    if (quantity <= 0)
-                    {
-                        Destroy(gameObject);
-                    }
+                    if (quantity <= 0) Destroy(gameObject); 
                     return true;
                 }
             }

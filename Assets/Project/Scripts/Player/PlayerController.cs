@@ -32,7 +32,7 @@ public class PlayerController : MonoBehaviour
         playerControls.UIActions.Inventory.performed += _ => ToggleInventory();
 
         playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
-        playerControls.Actions.Interact.performed += _ => playerInteractor.TryInteract();
+        //playerControls.Actions.Interact.performed += _ => playerInteractor.TryInteract();
         playerControls.Actions.Action1.performed += _ => PerformPrimaryAction();
     }
 

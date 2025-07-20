@@ -19,6 +19,14 @@ namespace CharacterNamespace
 
         private bool isDepleted = false;
 
+        private void Start()
+        {
+            if (genericPickupPrefab == null)
+            {
+                Debug.LogError($"ResourceNode'{gameObject.name}' is missing a reference to the Generic Prefab!", this);
+            }
+        }
+
         public string InteractionPrompt => prompt;
         public float InteractionDuration => interactionDuration;
 
@@ -28,9 +36,10 @@ namespace CharacterNamespace
 
             Debug.Log($"Successfully gathered from {gameObject.name}!");
 
-            if (possibleLoot.Count > 00 && genericPickupPrefab != null )
+            if (possibleLoot.Count > 0 && genericPickupPrefab != null )
             {
                 int randomIndex = Random.Range( 0, possibleLoot.Count );
+                ItemData droppedItem = possibleLoot[randomIndex];
 
                 GameObject pickupInstance = Instantiate(genericPickupPrefab, transform.position, Quaternion.identity);
                 if (pickupInstance.TryGetComponent<ItemPickup>(out var itemPickup))

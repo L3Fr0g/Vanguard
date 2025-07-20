@@ -2,6 +2,8 @@ using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
 using JetBrains.Annotations;
+using System.Collections;
+using Unity.VisualScripting;
 
 namespace CharacterNamespace
 {
@@ -11,49 +13,87 @@ namespace CharacterNamespace
         [SerializeField] private float interactionRadius = 1.5f;
         [SerializeField] private LayerMask interactableLayer;
 
+        private PlayerControls playerControls;
         private IInteractable currentInteractable;
-        private Collider2D[] colliders = new Collider2D[10];
+        private Coroutine interactionCoroutine;
+        private bool isInteracting;
 
-        private ContactFilter2D contactFilter;
-
-        private void Start()
+        private void Awake()
         {
-            contactFilter.SetLayerMask(interactableLayer);
-            contactFilter.useTriggers = true;
+            playerControls = new PlayerControls();
+            playerControls.Actions.Interact.started += _ => StartInteraction();
+            playerControls.Actions.Interact.canceled += _ => CancelInteraction();
         }
+
+        private void OnEnable() => playerControls.Enable();
+        private void OnDisable() => playerControls.Disable();
 
         private void Update()
         {
-            int count = Physics2D.OverlapCircle(transform.position, interactionRadius, contactFilter, colliders);
+            if (isInteracting) return;
 
-            IInteractable closestInteractable = null;
-            float  closestDistance = float.MaxValue;
-
-            if (count > 0)
-            {
-                for (int i = 0; i < count; i++)
-                {
-                    if (colliders[i].TryGetComponent<IInteractable>(out var interactable))
-                    {
-                        float distance = Vector2.Distance(transform.position, colliders[i].transform.position);
-                        if (distance < closestDistance)
-                        {
-                            closestDistance = distance;
-                            closestInteractable = interactable;
-                        }
-                    }
-                }
-            }
-
-            currentInteractable = closestInteractable;
+            Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, interactionRadius, interactableLayer);
+            currentInteractable = FindClosestInteractable(colliders);
         }
 
-        public void TryInteract()
+        private void StartInteraction()
         {
             if (currentInteractable != null)
             {
-                currentInteractable.Interact(this);
+                interactionCoroutine = StartCoroutine(InteractionProcess(currentInteractable));
             }
+        }
+
+        private void CancelInteraction()
+        {
+            if (currentInteractable != null)
+            {
+                StopCoroutine(interactionCoroutine);
+                interactionCoroutine = null;
+                Debug.Log("Interaction Cancelled");
+            }
+        }
+
+        private IEnumerator InteractionProcess(IInteractable interactable)
+        {
+            float timer = 0f;
+            float duration = interactable.InteractionDuration;
+
+            Debug.Log($"Starting interaction with '{interactable.InteractionPrompt}' which has a duration of {duration} seconds.");
+
+            if (duration <= 0f)
+            {
+                interactable.Interact(this);
+                yield break;
+            }
+
+            while (timer < duration)
+            {
+                timer += Time.deltaTime;
+                yield return null;
+            }
+
+            interactable.Interact(this);
+            interactionCoroutine = null;
+        }
+
+        private IInteractable FindClosestInteractable(Collider2D[] colliders)
+        {
+            IInteractable closest = null;
+            float minDistance = float.MaxValue;
+            foreach (var col in colliders)
+            {
+                if (col.TryGetComponent<IInteractable>(out var interactable))
+                {
+                    float dist = Vector2.Distance(transform.position, col.transform.position);
+                    if (dist < minDistance)
+                    {
+                        minDistance = dist;
+                        closest = interactable;
+                    }
+                }
+            }
+            return closest;
         }
 
         public void OnDrawGizmos()

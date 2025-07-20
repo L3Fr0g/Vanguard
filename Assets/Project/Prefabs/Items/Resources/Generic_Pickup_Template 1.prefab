@@ -4879,7 +4879,7 @@ GameObject:
   - component: {fileID: 2995819252035746439}
   - component: {fileID: 3595053080135646159}
   m_Layer: 3
-  m_Name: Generic_Pickup_Template
+  m_Name: Generic_Pickup_Template 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4913,7 +4913,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 132eb50ccca971142a90ffb047ad5ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemData: {fileID: 0}
+  itemData: {fileID: 11400000, guid: 77bc7b3330da0fe4d9b0b63d1ebb9ad1, type: 2}
   quantity: 1
   particles: {fileID: 1821128984724224518}
   itemSpriteRenderer: {fileID: 2330356590580372551}
