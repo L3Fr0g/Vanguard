@@ -5,6 +5,7 @@ using CharacterNamespace;
 using MovementNamespace;
 using UINamespace;
 using InventoryNamespace;
+using System.Collections;
 
 public class PlayerController : MonoBehaviour
 {
@@ -17,7 +18,9 @@ public class PlayerController : MonoBehaviour
     private PlayerStats playerStats;
 
     private Vector2 moveDirection;
+    private Vector2 lookDirection;
     private bool isUnsheathed = false;
+    private bool isInteracting = false;
 
     private void Awake()
     {
@@ -30,9 +33,7 @@ public class PlayerController : MonoBehaviour
         playerStats = GetComponent<PlayerStats>();
 
         playerControls.UIActions.Inventory.performed += _ => ToggleInventory();
-
         playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
-        //playerControls.Actions.Interact.performed += _ => playerInteractor.TryInteract();
         playerControls.Actions.Action1.performed += _ => PerformPrimaryAction();
     }
 
@@ -41,11 +42,16 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if(isInteracting)
+        {
+            movement.SetTargetVelocity(Vector2.zero);
+            return;
+        }
+
         moveDirection = playerControls.Movement.Move.ReadValue<Vector2>();
         float currentSpeed = playerStats.MovementSpeed;
         movement.SetTargetVelocity(moveDirection * currentSpeed);
 
-        Vector2 lookDirection;
         if (isUnsheathed)
         {
             Vector2 mouseWorldPos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
@@ -60,21 +66,58 @@ public class PlayerController : MonoBehaviour
         animationController.UpdateAnimations(moveDirection, lookDirection, isUnsheathed);
     }
 
-    private void ToggleSheathe()
+    public IEnumerator StartInteraction(Transform targetPoint)
     {
-        if (!playerEquipment.IsWeaponEquipped()) return;
-        if (!isUnsheathed)
+        isInteracting = true;
+
+        if (targetPoint != null)
         {
-            if (playerEquipment.IsWeaponEquipped())
+            Debug.Log("Moving to interaction point...");
+            while (Vector2.Distance(transform.position, targetPoint.position) > 0.1f)
             {
-                isUnsheathed = true;
+                Vector2 direction = (targetPoint.position - transform.position).normalized;
+                movement.SetTargetVelocity(direction * playerStats.MovementSpeed);
+                yield return null;
             }
         }
-        else
+
+        movement.SetTargetVelocity(Vector2.zero);
+        Debug.Log("Starting gathering animation.");
+        animationController.SetActionBool("isGatering", true);
+    }
+
+    public void StartInteractionAnimation(InteractionType type)
+    {
+        isInteracting = true;
+        ForceSheathedState();
+        animationController.UpdateAnimations(Vector2.zero, lookDirection, isUnsheathed);
+
+        switch (type)
         {
-            //playerAbilityManager.CancelAction(); currently set to private, will need to change this potentially
-            isUnsheathed = false;
+            case InteractionType.Mining:
+                animationController.SetActionBool("isMining", true);
+                break;
+            case InteractionType.Fishing:
+                animationController.SetActionBool("isFishing", true);
+                break;
+            case InteractionType.Pickup:
+                animationController.SetActionBool("isPickup", true);
+                break;
         }
+    }
+
+    public void EndInteraction()
+    {
+        isInteracting = false;
+        animationController.SetActionBool("isMining", false);
+        animationController.SetActionBool("isFishing", false);
+        animationController.SetActionBool("isPickup", false);
+    }
+
+    private void ToggleSheathe()
+    {
+        if (isInteracting || !playerEquipment.IsWeaponEquipped()) return;
+        isUnsheathed = !isUnsheathed;
     }
 
     public void ForceSheathedState()

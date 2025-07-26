@@ -331,7 +331,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: resourceNode_spring_stone
+      name: resourceNode_stone_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -353,7 +353,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stone
+      name: thumbnail_stone
       rect:
         serializedVersion: 2
         x: 16
@@ -375,7 +375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_2
+      name: thumbnail_brick
       rect:
         serializedVersion: 2
         x: 32
@@ -397,7 +397,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_coal
+      name: resourceNode_coal_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -419,7 +419,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_4
+      name: thumbnail_coalUnrefined
       rect:
         serializedVersion: 2
         x: 16
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_5
+      name: thumbnail_coalRefined
       rect:
         serializedVersion: 2
         x: 32
@@ -463,7 +463,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_Iron
+      name: resourceNode_iron_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -485,7 +485,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_7
+      name: thumbnail_ironOre
       rect:
         serializedVersion: 2
         x: 16
@@ -507,7 +507,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_8
+      name: thumbnail_ironIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -529,7 +529,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_copper
+      name: resourceNode_copper_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -551,7 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_10
+      name: thumbnail_copperOre
       rect:
         serializedVersion: 2
         x: 16
@@ -573,7 +573,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_11
+      name: thumbnail_copperIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -595,7 +595,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_silver
+      name: resourceNode_silver_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -617,7 +617,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_13
+      name: thumbnail_silverOre
       rect:
         serializedVersion: 2
         x: 16
@@ -639,7 +639,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_14
+      name: thumbnail_silverIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -661,7 +661,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_gold
+      name: resourceNode_gold_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -683,7 +683,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_16
+      name: thumbnail_goldOre
       rect:
         serializedVersion: 2
         x: 16
@@ -705,7 +705,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_17
+      name: thumbnail_goldIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -727,7 +727,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_platinum
+      name: resourceNode_platinum_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -749,7 +749,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_19
+      name: thumbnail_platinumOre
       rect:
         serializedVersion: 2
         x: 16
@@ -771,7 +771,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_20
+      name: thumbnail_platinumIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -793,7 +793,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_tin
+      name: resourceNode_tin_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -815,7 +815,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_22
+      name: thumbnail_tinOre
       rect:
         serializedVersion: 2
         x: 16
@@ -837,7 +837,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_23
+      name: thumbnail_tinIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -859,7 +859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_zinc
+      name: resourceNode_zinc_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -881,7 +881,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_25
+      name: thumbnail_zincOre
       rect:
         serializedVersion: 2
         x: 16
@@ -903,7 +903,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_26
+      name: thumbnail_zincIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -925,7 +925,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_lead
+      name: resourceNode_lead_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -991,7 +991,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_cobalt
+      name: resourceNode_cobalt_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -1057,7 +1057,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: resourceNode_spring_antimony
+      name: resourceNode_antimony_spring
       rect:
         serializedVersion: 2
         x: 0
@@ -1079,7 +1079,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_34
+      name: thumbnail_antimonyOre
       rect:
         serializedVersion: 2
         x: 16
@@ -1101,7 +1101,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mining icons (spring forest)_35
+      name: thumbnail_anitmonyIngot
       rect:
         serializedVersion: 2
         x: 32
@@ -2060,31 +2060,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Stone: 3621024637400458402
-      mining icons (spring forest)_10: 896509677511127502
-      mining icons (spring forest)_11: 3473826117606272197
-      mining icons (spring forest)_13: 4227239760933504182
-      mining icons (spring forest)_14: -4825830125519150029
-      mining icons (spring forest)_16: -7254112270153245702
-      mining icons (spring forest)_17: 8362037184976765498
-      mining icons (spring forest)_19: -1264542904803201780
-      mining icons (spring forest)_2: -4405438522064364844
-      mining icons (spring forest)_20: -2434467500710126709
-      mining icons (spring forest)_22: -6282081993015368151
-      mining icons (spring forest)_23: 8154440698866081343
-      mining icons (spring forest)_25: -1222727479421925285
-      mining icons (spring forest)_26: -150639039260616344
       mining icons (spring forest)_28: 1142408845225882003
       mining icons (spring forest)_29: 5069923697228399854
       mining icons (spring forest)_31: 1209342877542458609
       mining icons (spring forest)_32: 9151466915327942790
-      mining icons (spring forest)_34: -4024171286428013659
-      mining icons (spring forest)_35: 7913285819055185628
       mining icons (spring forest)_36: -7275484678599885652
       mining icons (spring forest)_37: 6565236098723337722
       mining icons (spring forest)_38: -1719555902501712608
       mining icons (spring forest)_39: 74487413409686532
-      mining icons (spring forest)_4: -8203870352416362980
       mining icons (spring forest)_40: 2542691720594704474
       mining icons (spring forest)_41: 5892272520531772044
       mining icons (spring forest)_42: -2996461342507318485
@@ -2095,7 +2078,6 @@ TextureImporter:
       mining icons (spring forest)_47: -949279378835670878
       mining icons (spring forest)_48: 1233787990613210235
       mining icons (spring forest)_49: -1060378011931557788
-      mining icons (spring forest)_5: -966556755348428146
       mining icons (spring forest)_50: -3737720749457251758
       mining icons (spring forest)_51: 490013578729032895
       mining icons (spring forest)_52: -6040509484873774588
@@ -2116,7 +2098,6 @@ TextureImporter:
       mining icons (spring forest)_67: 4982891356993145222
       mining icons (spring forest)_68: -1816952259135523614
       mining icons (spring forest)_69: 4174562648128677062
-      mining icons (spring forest)_7: -7968277707160369790
       mining icons (spring forest)_70: 6406927646153908482
       mining icons (spring forest)_71: 312165157438483392
       mining icons (spring forest)_72: 2389790416204798945
@@ -2125,19 +2106,39 @@ TextureImporter:
       mining icons (spring forest)_75: 5313174717552168619
       mining icons (spring forest)_76: 5230602800665412888
       mining icons (spring forest)_77: 4194618648444937261
-      mining icons (spring forest)_8: 6590150862772359662
-      resourceNode_spring_Iron: -1866071358868354011
-      resourceNode_spring_antimony: -9094974165251271643
-      resourceNode_spring_coal: -8297785796251098188
-      resourceNode_spring_cobalt: -2747614134468340807
-      resourceNode_spring_copper: -8797045316791420671
-      resourceNode_spring_gold: 7440110586303391226
-      resourceNode_spring_lead: -7468087204563428094
-      resourceNode_spring_platinum: -1501266200706669040
-      resourceNode_spring_silver: 7326865746676746390
-      resourceNode_spring_stone: -4204114784618466033
-      resourceNode_spring_tin: -425414563070201140
-      resourceNode_spring_zinc: -6419632404897749433
+      resourceNode_Iron_thumbnail_: -1866071358868354011
+      resourceNode_antimony_spring: -9094974165251271643
+      resourceNode_coal_spring: -8297785796251098188
+      resourceNode_cobalt_spring: -2747614134468340807
+      resourceNode_copper_spring: -8797045316791420671
+      resourceNode_gold_spring: 7440110586303391226
+      resourceNode_iron_spring: -1866071358868354011
+      resourceNode_lead_spring: -7468087204563428094
+      resourceNode_platinum_spring: -1501266200706669040
+      resourceNode_silver_spring: 7326865746676746390
+      resourceNode_stone_spring: -4204114784618466033
+      resourceNode_tin_spring: -425414563070201140
+      resourceNode_zinc_spring: -6419632404897749433
+      thumbnail_anitmonyIngot: 7913285819055185628
+      thumbnail_antimonyOre: -4024171286428013659
+      thumbnail_brick: -4405438522064364844
+      thumbnail_coalRefined: -966556755348428146
+      thumbnail_coalUnrefined: -8203870352416362980
+      thumbnail_copperIngot: 3473826117606272197
+      thumbnail_copperOre: 896509677511127502
+      thumbnail_goldIngot: 8362037184976765498
+      thumbnail_goldOre: -7254112270153245702
+      thumbnail_ironIngot: 6590150862772359662
+      thumbnail_ironOre: -7968277707160369790
+      thumbnail_platinumIngot: -2434467500710126709
+      thumbnail_platinumOre: -1264542904803201780
+      thumbnail_silverIngot: -4825830125519150029
+      thumbnail_silverOre: 4227239760933504182
+      thumbnail_stone: 3621024637400458402
+      thumbnail_tinIngot: 8154440698866081343
+      thumbnail_tinOre: -6282081993015368151
+      thumbnail_zincIngot: -150639039260616344
+      thumbnail_zincOre: -1222727479421925285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

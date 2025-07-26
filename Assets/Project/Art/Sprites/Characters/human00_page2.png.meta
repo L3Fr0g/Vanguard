@@ -289,7 +289,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: base char_v00 mineDown_00
+      name: human00_mine_down00
       rect:
         serializedVersion: 2
         x: 0
@@ -311,7 +311,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineDown_01
+      name: human00_mine_down01
       rect:
         serializedVersion: 2
         x: 64
@@ -333,7 +333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineDown_02
+      name: human00_mine_down02
       rect:
         serializedVersion: 2
         x: 128
@@ -355,7 +355,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineDown_03
+      name: human00_mine_down03
       rect:
         serializedVersion: 2
         x: 192
@@ -377,7 +377,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_00
+      name: human00_throw_down00
       rect:
         serializedVersion: 2
         x: 256
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_01
+      name: human00_throw_down01
       rect:
         serializedVersion: 2
         x: 320
@@ -421,7 +421,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_02
+      name: human00_throw_down02
       rect:
         serializedVersion: 2
         x: 384
@@ -443,7 +443,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_03
+      name: human00_throw_down03
       rect:
         serializedVersion: 2
         x: 448
@@ -465,7 +465,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineUp_00
+      name: human00_mine_up00
       rect:
         serializedVersion: 2
         x: 0
@@ -487,7 +487,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineUp_01
+      name: human00_mine_up01
       rect:
         serializedVersion: 2
         x: 64
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineUp_02
+      name: human00_mine_up02
       rect:
         serializedVersion: 2
         x: 128
@@ -531,7 +531,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineUp_03
+      name: human00_mine_up03
       rect:
         serializedVersion: 2
         x: 192
@@ -553,7 +553,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_04
+      name: human00_throw_up00
       rect:
         serializedVersion: 2
         x: 256
@@ -575,7 +575,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_05
+      name: human00_throw_up01
       rect:
         serializedVersion: 2
         x: 320
@@ -597,7 +597,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_06
+      name: human00_throw_up02
       rect:
         serializedVersion: 2
         x: 384
@@ -619,7 +619,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwDown_07
+      name: human00_throw_up03
       rect:
         serializedVersion: 2
         x: 448
@@ -641,7 +641,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineRight_00
+      name: human00_mine_right00
       rect:
         serializedVersion: 2
         x: 0
@@ -663,7 +663,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineUp_0
+      name: human00_mine_right01
       rect:
         serializedVersion: 2
         x: 64
@@ -685,7 +685,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base character_v00 p2_18
+      name: human00_mine_right02
       rect:
         serializedVersion: 2
         x: 128
@@ -707,7 +707,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base character_v00 p2_19
+      name: human00_mine_right03
       rect:
         serializedVersion: 2
         x: 192
@@ -729,7 +729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwRight_00
+      name: human00_throw_right00
       rect:
         serializedVersion: 2
         x: 256
@@ -751,7 +751,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwRight_01
+      name: human00_throw_right01
       rect:
         serializedVersion: 2
         x: 320
@@ -773,7 +773,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwRight_02
+      name: human00_throw_right02
       rect:
         serializedVersion: 2
         x: 384
@@ -795,7 +795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwRight_03
+      name: human00_throw_right03
       rect:
         serializedVersion: 2
         x: 448
@@ -817,7 +817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineLeft_00
+      name: human00_mine_left00
       rect:
         serializedVersion: 2
         x: 0
@@ -839,7 +839,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineLeft_01
+      name: human00_mine_left01
       rect:
         serializedVersion: 2
         x: 64
@@ -861,7 +861,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineLeft_02
+      name: human00_mine_left02
       rect:
         serializedVersion: 2
         x: 128
@@ -883,7 +883,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 mineLeft_03
+      name: human00_mine_left03
       rect:
         serializedVersion: 2
         x: 192
@@ -905,7 +905,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwLeft_00
+      name: human00_throw_left00
       rect:
         serializedVersion: 2
         x: 256
@@ -927,7 +927,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwLeft_01
+      name: human00_throw_left01
       rect:
         serializedVersion: 2
         x: 320
@@ -949,7 +949,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwLeft_02
+      name: human00_throw_left02
       rect:
         serializedVersion: 2
         x: 384
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 throwLeft_03
+      name: human00_throw_left03
       rect:
         serializedVersion: 2
         x: 448
@@ -993,7 +993,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterDown_00
+      name: human00_water_down00
       rect:
         serializedVersion: 2
         x: 0
@@ -1015,7 +1015,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterDown_01
+      name: human00_water_down01
       rect:
         serializedVersion: 2
         x: 64
@@ -1037,7 +1037,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterDown_02
+      name: human00_water_down02
       rect:
         serializedVersion: 2
         x: 128
@@ -1059,7 +1059,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterDown_03
+      name: human00_water_down03
       rect:
         serializedVersion: 2
         x: 192
@@ -1081,7 +1081,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftDown_00
+      name: human00_lift_down00
       rect:
         serializedVersion: 2
         x: 256
@@ -1103,7 +1103,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftDown_01
+      name: human00_lift_down01
       rect:
         serializedVersion: 2
         x: 320
@@ -1125,7 +1125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftDown_02
+      name: human00_lift_down02
       rect:
         serializedVersion: 2
         x: 384
@@ -1147,7 +1147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftDown_03
+      name: human00_lift_down03
       rect:
         serializedVersion: 2
         x: 448
@@ -1169,7 +1169,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterUp_00
+      name: human00_water_up00
       rect:
         serializedVersion: 2
         x: 0
@@ -1191,7 +1191,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterUp_01
+      name: human00_water_up01
       rect:
         serializedVersion: 2
         x: 64
@@ -1213,7 +1213,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterUp_02
+      name: human00_water_up02
       rect:
         serializedVersion: 2
         x: 128
@@ -1235,7 +1235,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterUp_03
+      name: human00_water_up03
       rect:
         serializedVersion: 2
         x: 192
@@ -1257,7 +1257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftUp_00
+      name: human00_lift_up00
       rect:
         serializedVersion: 2
         x: 256
@@ -1279,7 +1279,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftUp_01
+      name: human00_lift_up01
       rect:
         serializedVersion: 2
         x: 320
@@ -1301,7 +1301,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftUp_02
+      name: human00_lift_up02
       rect:
         serializedVersion: 2
         x: 384
@@ -1323,7 +1323,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftUp_03
+      name: human00_lift_up03
       rect:
         serializedVersion: 2
         x: 448
@@ -1345,7 +1345,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterRight_00
+      name: human00_water_right00
       rect:
         serializedVersion: 2
         x: 0
@@ -1367,7 +1367,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterRight_01
+      name: human00_water_right01
       rect:
         serializedVersion: 2
         x: 64
@@ -1389,7 +1389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterRight_02
+      name: human00_water_right02
       rect:
         serializedVersion: 2
         x: 128
@@ -1411,7 +1411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterRight_03
+      name: human00_water_right03
       rect:
         serializedVersion: 2
         x: 192
@@ -1433,7 +1433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftRight_00
+      name: human00_lift_right00
       rect:
         serializedVersion: 2
         x: 256
@@ -1455,7 +1455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftRight_01
+      name: human00_lift_right01
       rect:
         serializedVersion: 2
         x: 320
@@ -1477,7 +1477,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftRight_02
+      name: human00_lift_right02
       rect:
         serializedVersion: 2
         x: 384
@@ -1499,7 +1499,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftRight_03
+      name: human00_lift_right03
       rect:
         serializedVersion: 2
         x: 448
@@ -1521,7 +1521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterLeft_00
+      name: human00_water_left00
       rect:
         serializedVersion: 2
         x: 0
@@ -1543,7 +1543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterLeft_01
+      name: human00_water_left01
       rect:
         serializedVersion: 2
         x: 64
@@ -1565,7 +1565,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterLeft_02
+      name: human00_water_left02
       rect:
         serializedVersion: 2
         x: 128
@@ -1587,7 +1587,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 waterLeft_03
+      name: human00_water_left03
       rect:
         serializedVersion: 2
         x: 192
@@ -1609,7 +1609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftLeft_00
+      name: human00_lift_left00
       rect:
         serializedVersion: 2
         x: 256
@@ -1631,7 +1631,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftLeft_01
+      name: human00_lift_left01
       rect:
         serializedVersion: 2
         x: 320
@@ -1653,7 +1653,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftLeft_02
+      name: human00_lift_left02
       rect:
         serializedVersion: 2
         x: 384
@@ -1675,7 +1675,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: base char_v00 liftLeft_03
+      name: human00_lift_left03
       rect:
         serializedVersion: 2
         x: 448
@@ -1710,70 +1710,70 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      base char_v00 liftDown_00: -921571681
-      base char_v00 liftDown_01: 31398271
-      base char_v00 liftDown_02: -1549172971
-      base char_v00 liftDown_03: 167424010
-      base char_v00 liftLeft_00: 1474770723
-      base char_v00 liftLeft_01: -986327233
-      base char_v00 liftLeft_02: 1132024130
-      base char_v00 liftLeft_03: -154413156
-      base char_v00 liftRight_00: 1706677206
-      base char_v00 liftRight_01: 63027267
-      base char_v00 liftRight_02: -482520821
-      base char_v00 liftRight_03: -1323814336
-      base char_v00 liftUp_00: 698018218
-      base char_v00 liftUp_01: -1374309058
-      base char_v00 liftUp_02: 547336237
-      base char_v00 liftUp_03: -57738275
-      base char_v00 mineDown_00: 231863367
-      base char_v00 mineDown_01: 656572430
-      base char_v00 mineDown_02: 976437035
-      base char_v00 mineDown_03: -1258481405
-      base char_v00 mineLeft_00: -483780052
-      base char_v00 mineLeft_01: -603227255
-      base char_v00 mineLeft_02: -1621819458
-      base char_v00 mineLeft_03: 937288963
-      base char_v00 mineRight_00: -1266270107
-      base char_v00 mineUp_0: -950169457
-      base char_v00 mineUp_00: -286650981
-      base char_v00 mineUp_01: -1018435339
-      base char_v00 mineUp_02: 1994916388
-      base char_v00 mineUp_03: 599041799
-      base char_v00 throwDown_00: -506109612
-      base char_v00 throwDown_01: 1511011540
-      base char_v00 throwDown_02: -385928726
-      base char_v00 throwDown_03: 1384685634
-      base char_v00 throwDown_04: -1113451535
-      base char_v00 throwDown_05: -2054982634
-      base char_v00 throwDown_06: -1707088167
-      base char_v00 throwDown_07: 1089458786
-      base char_v00 throwLeft_00: 1393991407
-      base char_v00 throwLeft_01: -121284554
-      base char_v00 throwLeft_02: 766049762
-      base char_v00 throwLeft_03: 1398232309
-      base char_v00 throwRight_00: 1287549948
-      base char_v00 throwRight_01: 893074796
-      base char_v00 throwRight_02: 847602713
-      base char_v00 throwRight_03: 1177147483
-      base char_v00 waterDown_00: 1117495382
-      base char_v00 waterDown_01: 454107286
-      base char_v00 waterDown_02: -195337254
-      base char_v00 waterDown_03: -1015864495
-      base char_v00 waterLeft_00: 1559239810
-      base char_v00 waterLeft_01: 636458283
-      base char_v00 waterLeft_02: -850396919
-      base char_v00 waterLeft_03: 980864576
-      base char_v00 waterRight_00: 786663774
-      base char_v00 waterRight_01: 1248311297
-      base char_v00 waterRight_02: 1214708655
-      base char_v00 waterRight_03: 438539835
-      base char_v00 waterUp_00: 231524622
-      base char_v00 waterUp_01: 999361237
-      base char_v00 waterUp_02: 851536498
-      base char_v00 waterUp_03: -708631006
-      base character_v00 p2_18: -1244065915
-      base character_v00 p2_19: -925556249
+      human00_lift_down00: -921571681
+      human00_lift_down01: 31398271
+      human00_lift_down02: -1549172971
+      human00_lift_down03: 167424010
+      human00_lift_left00: 1474770723
+      human00_lift_left01: -986327233
+      human00_lift_left02: 1132024130
+      human00_lift_left03: -154413156
+      human00_lift_right00: 1706677206
+      human00_lift_right01: 63027267
+      human00_lift_right02: -482520821
+      human00_lift_right03: -1323814336
+      human00_lift_up00: 698018218
+      human00_lift_up01: -1374309058
+      human00_lift_up02: 547336237
+      human00_lift_up03: -57738275
+      human00_mine_down00: 231863367
+      human00_mine_down01: 656572430
+      human00_mine_down02: 976437035
+      human00_mine_down03: -1258481405
+      human00_mine_left00: -483780052
+      human00_mine_left01: -603227255
+      human00_mine_left02: -1621819458
+      human00_mine_left03: 937288963
+      human00_mine_right00: -1266270107
+      human00_mine_right01: -950169457
+      human00_mine_right02: -1244065915
+      human00_mine_right03: -925556249
+      human00_mine_up00: -286650981
+      human00_mine_up01: -1018435339
+      human00_mine_up02: 1994916388
+      human00_mine_up03: 599041799
+      human00_throw_down00: -506109612
+      human00_throw_down01: 1511011540
+      human00_throw_down02: -385928726
+      human00_throw_down03: 1384685634
+      human00_throw_left00: 1393991407
+      human00_throw_left01: -121284554
+      human00_throw_left02: 766049762
+      human00_throw_left03: 1398232309
+      human00_throw_right00: 1287549948
+      human00_throw_right01: 893074796
+      human00_throw_right02: 847602713
+      human00_throw_right03: 1177147483
+      human00_throw_up00: -1113451535
+      human00_throw_up01: -2054982634
+      human00_throw_up02: -1707088167
+      human00_throw_up03: 1089458786
+      human00_water_down00: 1117495382
+      human00_water_down01: 454107286
+      human00_water_down02: -195337254
+      human00_water_down03: -1015864495
+      human00_water_left00: 1559239810
+      human00_water_left01: 636458283
+      human00_water_left02: -850396919
+      human00_water_left03: 980864576
+      human00_water_right00: 786663774
+      human00_water_right01: 1248311297
+      human00_water_right02: 1214708655
+      human00_water_right03: 438539835
+      human00_water_up00: 231524622
+      human00_water_up01: 999361237
+      human00_water_up02: 851536498
+      human00_water_up03: -708631006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

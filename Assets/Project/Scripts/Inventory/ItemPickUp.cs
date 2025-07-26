@@ -1,9 +1,8 @@
 using CharacterNamespace;
 using System.Collections.Generic;
-using Unity.Burst.Intrinsics;
 using UnityEngine;
 
-namespace InventoryNamespace 
+namespace InventoryNamespace
 {
     public class ItemPickup : MonoBehaviour, IInteractable
     {
@@ -12,10 +11,10 @@ namespace InventoryNamespace
         public int quantity = 1;
         public string InteractionPrompt => $"Pick up {itemData.itemName}";
         public float InteractionDuration => 0f;
+        public InteractionType Type => InteractionType.Instant;
 
         [Header("Visuals")]
-        [SerializeField] private ParticleSystem particles;
-        [SerializeField] private SpriteRenderer itemSpriteRenderer;
+        [SerializeField] private GameObject visualsParent;
 
         [Header("Rarity Colors")]
         [SerializeField] private Color junkColor = Color.gray;
@@ -26,6 +25,8 @@ namespace InventoryNamespace
         [SerializeField] private Color legendaryColor = new Color(1f, 0.8f, 0.2f);
         
         private Dictionary<ItemRarity, Color> rarityColors;
+        private SpriteRenderer spriteRenderer;
+        private ParticleSystem particleSystem;
 
         private void Awake()
         {
@@ -38,6 +39,12 @@ namespace InventoryNamespace
                 { ItemRarity.Unique, uniqueColor },
                 { ItemRarity.Legendary, legendaryColor }
             };
+
+            if (visualsParent != null)
+            {
+                spriteRenderer = visualsParent.GetComponentInChildren<SpriteRenderer>();
+                particleSystem = visualsParent.GetComponentInChildren<ParticleSystem>();
+            }
         }
 
         public void Initialize(ItemData data, int qty)
@@ -52,47 +59,19 @@ namespace InventoryNamespace
                 return;
             }
 
-            if (itemSpriteRenderer != null)
+            if (spriteRenderer != null)
             {
-                itemSpriteRenderer.sprite = itemData.icon;
+                spriteRenderer.sprite = itemData.icon;
             }
 
-            if (particles != null)
+            if (particleSystem != null)
             {
-                var main = particles.main;
+                var main = particleSystem.main;
                 Color currentColor = rarityColors.ContainsKey(itemData.rarity) ? rarityColors[itemData.rarity] : commonColor;
                 main.startColor = new ParticleSystem.MinMaxGradient(currentColor);
-                particles.Play();
+                particleSystem.Play();
             }
         }
-
-        /*private void Start()
-        {
-            if (itemData == null)
-            {
-                Debug.LogError("ItemPickup has no ItemData assigned!", this);
-                Destroy(gameObject);
-                return;
-            }
-
-            if (itemSpriteRenderer != null)
-            {
-                itemSpriteRenderer.sprite = itemData.icon;
-            }
-
-            Color currentColor = commonColor;
-            if (rarityColors.ContainsKey(itemData.rarity))
-            {
-                currentColor = rarityColors[itemData.rarity];
-            }
-
-            if (particles != null)
-            {
-                var main = particles.main;
-                main.startColor = new ParticleSystem.MinMaxGradient(currentColor);
-                particles.Play();
-            }
-        }*/
 
         public bool Interact(PlayerInteractor interactor)
         {

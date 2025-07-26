@@ -4879,7 +4879,7 @@ GameObject:
   - component: {fileID: 2995819252035746439}
   - component: {fileID: 3595053080135646159}
   m_Layer: 3
-  m_Name: Generic_Pickup_Template 1
+  m_Name: Stone Pickup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4913,10 +4913,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 132eb50ccca971142a90ffb047ad5ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemData: {fileID: 11400000, guid: 77bc7b3330da0fe4d9b0b63d1ebb9ad1, type: 2}
+  itemData: {fileID: 11400000, guid: 44ed29b6c6050ac478b3b4192082fcad, type: 2}
   quantity: 1
-  particles: {fileID: 1821128984724224518}
-  itemSpriteRenderer: {fileID: 2330356590580372551}
+  visualsParent: {fileID: 3262258831385367026}
   junkColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   commonColor: {r: 1, g: 1, b: 1, a: 1}
   uncommonColor: {r: 0.1, g: 1, b: 0.1, a: 1}
@@ -5062,7 +5061,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 3621024637400458402, guid: f9b34a4cd52461047962cb1cf7ab7e8e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5070,6 +5069,6 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0

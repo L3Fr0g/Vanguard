@@ -397,6 +397,7 @@ MonoBehaviour:
   interactableLayer:
     serializedVersion: 2
     m_Bits: 8
+  playerController: {fileID: 7862743891707683184}
 --- !u!1 &4756014050304621480
 GameObject:
   m_ObjectHideFlags: 0

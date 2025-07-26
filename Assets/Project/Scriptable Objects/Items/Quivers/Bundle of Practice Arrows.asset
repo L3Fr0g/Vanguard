@@ -18,7 +18,7 @@ MonoBehaviour:
   itemDescription: 
   icon: {fileID: 2783843586776455131, guid: 21c0302b1db713642b8aa42c97f31f79, type: 3}
   rarity: 1
-  itemLevel: 10
+  itemLevel: 1
   isStackable: 0
   maxStackSize: 1
   equippableBy: 03000000

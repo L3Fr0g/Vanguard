@@ -4915,8 +4915,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemData: {fileID: 0}
   quantity: 1
-  particles: {fileID: 1821128984724224518}
-  itemSpriteRenderer: {fileID: 2330356590580372551}
+  visualsParent: {fileID: 3262258831385367026}
   junkColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   commonColor: {r: 1, g: 1, b: 1, a: 1}
   uncommonColor: {r: 0.1, g: 1, b: 0.1, a: 1}

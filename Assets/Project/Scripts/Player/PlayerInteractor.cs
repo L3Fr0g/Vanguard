@@ -1,9 +1,6 @@
 using UnityEngine;
-using System.Collections.Generic;
-using System.Linq;
-using JetBrains.Annotations;
+using UnityEngine.InputSystem;
 using System.Collections;
-using Unity.VisualScripting;
 
 namespace CharacterNamespace
 {
@@ -12,6 +9,9 @@ namespace CharacterNamespace
         [Header("Interaction Settings")]
         [SerializeField] private float interactionRadius = 1.5f;
         [SerializeField] private LayerMask interactableLayer;
+
+        [Header("Component References")]
+        [SerializeField] private PlayerController playerController;
 
         private PlayerControls playerControls;
         private IInteractable currentInteractable;
@@ -33,12 +33,26 @@ namespace CharacterNamespace
             if (isInteracting) return;
 
             Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, interactionRadius, interactableLayer);
-            currentInteractable = FindClosestInteractable(colliders);
+            IInteractable newInteractable = FindClosestInteractable(colliders);
+
+            if (newInteractable != currentInteractable)
+            {
+                currentInteractable = newInteractable;
+
+                if (currentInteractable != null)
+                {
+                    InteractionUI.Instance.Show(currentInteractable);
+                }
+                else
+                {
+                    InteractionUI.Instance.Hide();
+                }
+            }
         }
 
         private void StartInteraction()
         {
-            if (currentInteractable != null)
+            if (currentInteractable != null && !isInteracting)
             {
                 interactionCoroutine = StartCoroutine(InteractionProcess(currentInteractable));
             }
@@ -46,34 +60,45 @@ namespace CharacterNamespace
 
         private void CancelInteraction()
         {
-            if (currentInteractable != null)
+            if (isInteracting && interactionCoroutine != null)
             {
                 StopCoroutine(interactionCoroutine);
                 interactionCoroutine = null;
-                Debug.Log("Interaction Cancelled");
+                isInteracting = false;
+                playerController.EndInteraction();
+                InteractionUI.Instance.UpdateProgress(0);
+
+                Debug.Log("Interaction Canceled (button released).");
             }
         }
 
         private IEnumerator InteractionProcess(IInteractable interactable)
         {
+            isInteracting = true;
+            playerController.StartInteractionAnimation(interactable.Type);
             float timer = 0f;
             float duration = interactable.InteractionDuration;
-
-            Debug.Log($"Starting interaction with '{interactable.InteractionPrompt}' which has a duration of {duration} seconds.");
 
             if (duration <= 0f)
             {
                 interactable.Interact(this);
+                isInteracting = false;
+                playerController.EndInteraction();
                 yield break;
             }
 
             while (timer < duration)
             {
+                InteractionUI.Instance.UpdateProgress(timer / duration);
                 timer += Time.deltaTime;
                 yield return null;
             }
 
             interactable.Interact(this);
+
+            InteractionUI.Instance.Hide();
+            isInteracting = false;
+            playerController.EndInteraction();
             interactionCoroutine = null;
         }
 
