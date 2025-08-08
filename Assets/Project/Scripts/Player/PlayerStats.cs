@@ -5,7 +5,7 @@ using Unity.Collections;
 
 namespace CharacterNamespace
 {
-    public class PlayerStats : MonoBehaviour
+    public class PlayerStats : CharacterStats
     {
         [Header("Player Class")]
         public PlayerClass playerClass;
@@ -30,7 +30,7 @@ namespace CharacterNamespace
         public int baseArmorPenetration = 0;
         public int baseMagicPenetration = 0;
         public float baseAttackSpeed = 1f;
-        public float baseMovementSpeed = 5.0f;
+        public float baseMovementSpeed = 4.0f;
 
         [Header("Final Calculated Stats")]
         [ReadOnly] public int MaxHealth;
@@ -49,18 +49,15 @@ namespace CharacterNamespace
         [ReadOnly] public int ArmorPenetration;
         [ReadOnly] public int MagicPenetration;
         [ReadOnly] public float AttackSpeed;
-        [ReadOnly] public float MovementSpeed;
 
         private void Awake()
         {
             if (playerEquipment == null) playerEquipment = GetComponent<PlayerEquipment>();
-            // Initial calculation
             RecalculateStats();
         }
 
         public void RecalculateStats()
         {
-            // 1. Reset all stats to their base values
             MaxHealth = baseHealth;
             MaxMana = baseMana;
             MaxStamina = baseStamina;
@@ -81,7 +78,6 @@ namespace CharacterNamespace
 
             if (playerEquipment == null || playerEquipment.equippedItems == null) return;
 
-            // 2. Iterate through all equipped items and add their stats
             foreach (InventorySlot slot in playerEquipment.equippedItems.Values)
             {
                 if (slot == null || slot.IsEmpty()) continue;

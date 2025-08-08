@@ -15,9 +15,10 @@ namespace CharacterNamespace
         [SerializeField] private string environmentTag = "Environment";
         [SerializeField] private string enemyTag = "Enemy";
 
+        private Transform owner;
         private Rigidbody2D rb;
-        private float currentDamage;
         private Vector3 spawnPosition;
+        private float currentDamage;
         private float maxTravelDistance;
 
         private void Awake()
@@ -25,7 +26,7 @@ namespace CharacterNamespace
             rb = GetComponent<Rigidbody2D>();
         }
 
-        void Start()
+        private void Start()
         {
             spawnPosition = transform.position;
             if (rb != null)
@@ -42,20 +43,22 @@ namespace CharacterNamespace
             }
         }
 
-        public void Initialize(float damageAmount, float range)
+        public void Initialize(float damageAmount, float range, Transform projectileOwner)
         {
             currentDamage = damageAmount;
+            Debug.Log($"Damage = {damageAmount}");
             maxTravelDistance = range;
+            owner = projectileOwner;
         }
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.CompareTag("Player")) return;
+            if (other.transform == owner) return;
 
-            if (other.CompareTag(enemyTag))
+            if (other.TryGetComponent<EnemyNamespace.EnemyHealth>(out var enemyHealth))
             {
-                Debug.Log($"<color=redProjectile hit an enemy: {other.name}!</color>");
-
+                enemyHealth.TakeDamage(currentDamage, owner);
+                Debug.Log($"<color=red>Projectile hit an enemy: {other.name}!</color>");
                 Destroy(gameObject);
                 return;
             }

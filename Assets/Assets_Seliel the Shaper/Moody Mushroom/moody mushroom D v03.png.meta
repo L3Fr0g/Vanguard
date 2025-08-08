@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 64e59affbd625584c92295e41cb4bb93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2704130183381157727
+    second: moody mushroom D v03_0
+  - first:
+      213: -236783008790452643
+    second: moody mushroom D v03_1
+  - first:
+      213: -898704817658246130
+    second: moody mushroom D v03_2
+  - first:
+      213: 3951276703303793212
+    second: moody mushroom D v03_3
+  - first:
+      213: 3679624108327010110
+    second: moody mushroom D v03_4
+  - first:
+      213: 4397891738291492544
+    second: moody mushroom D v03_5
+  - first:
+      213: -7606927332207722910
+    second: moody mushroom D v03_6
+  - first:
+      213: 8016313173996720598
+    second: moody mushroom D v03_7
+  - first:
+      213: 5138619473512517912
+    second: moody mushroom D v03_8
+  - first:
+      213: -7391555815653376018
+    second: moody mushroom D v03_9
+  - first:
+      213: -7827149298946272984
+    second: moody mushroom D v03_10
+  - first:
+      213: -9194538066306396096
+    second: moody mushroom D v03_11
+  - first:
+      213: -8124866912354490568
+    second: moody mushroom D v03_12
+  - first:
+      213: -7658032215890936625
+    second: moody mushroom D v03_13
+  - first:
+      213: 4480268858914527082
+    second: moody mushroom D v03_14
+  - first:
+      213: -395492593233041713
+    second: moody mushroom D v03_15
+  - first:
+      213: -1402340666295548759
+    second: moody mushroom D v03_16
+  - first:
+      213: 2191538783407568739
+    second: moody mushroom D v03_17
+  - first:
+      213: 3957323979339072333
+    second: moody mushroom D v03_18
+  - first:
+      213: 7743363519719246122
+    second: moody mushroom D v03_19
+  - first:
+      213: 1342950483181730929
+    second: moody mushroom D v03_20
+  - first:
+      213: -8985740426469338976
+    second: moody mushroom D v03_21
+  - first:
+      213: -7710272003698408819
+    second: moody mushroom D v03_22
+  - first:
+      213: 3767427160555735444
+    second: moody mushroom D v03_23
+  - first:
+      213: -944625878506969667
+    second: moody mushroom D v03_24
+  - first:
+      213: -1458952333307491938
+    second: moody mushroom D v03_25
+  - first:
+      213: 5420184268843758670
+    second: moody mushroom D v03_26
+  - first:
+      213: -7258162555001203150
+    second: moody mushroom D v03_27
+  - first:
+      213: -4537698039930443354
+    second: moody mushroom D v03_28
+  - first:
+      213: 39724679018776581
+    second: moody mushroom D v03_29
+  - first:
+      213: -6393759860723184415
+    second: moody mushroom D v03_30
+  - first:
+      213: -7093527939003694575
+    second: moody mushroom D v03_31
+  - first:
+      213: -6033169208270111098
+    second: moody mushroom D v03_32
+  - first:
+      213: -5801053912489947787
+    second: moody mushroom D v03_33
+  - first:
+      213: -840328373650747462
+    second: moody mushroom D v03_34
+  - first:
+      213: -5294947160578995799
+    second: moody mushroom D v03_35
+  - first:
+      213: -4741372539664749504
+    second: moody mushroom D v03_36
+  - first:
+      213: 2987417400796367187
+    second: moody mushroom D v03_37
+  - first:
+      213: 2707285936832648169
+    second: moody mushroom D v03_38
+  - first:
+      213: 201072022882782709
+    second: moody mushroom D v03_39
+  - first:
+      213: 6619093165470902738
+    second: moody mushroom D v03_40
+  - first:
+      213: 3528161029176290893
+    second: moody mushroom D v03_41
+  - first:
+      213: -8155876294316210639
+    second: moody mushroom D v03_42
+  - first:
+      213: -8302193127070189207
+    second: moody mushroom D v03_43
+  - first:
+      213: 1501265430345998162
+    second: moody mushroom D v03_44
+  - first:
+      213: 5343080939233287167
+    second: moody mushroom D v03_45
+  - first:
+      213: -1893243765464927456
+    second: moody mushroom D v03_46
+  - first:
+      213: -7060162357755378793
+    second: moody mushroom D v03_47
+  - first:
+      213: 4744088797310988418
+    second: moody mushroom D v03_48
+  - first:
+      213: 2237364981240754509
+    second: moody mushroom D v03_49
+  - first:
+      213: 1268287816764154284
+    second: moody mushroom D v03_50
+  - first:
+      213: -4181277494994073835
+    second: moody mushroom D v03_51
+  - first:
+      213: 3964727200532801930
+    second: moody mushroom D v03_52
+  - first:
+      213: 6874588569329526264
+    second: moody mushroom D v03_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moody mushroom D v03_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5788de1310078520800000000000000
+      internalID: 2704130183381157727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d566238ab17c6bcf0800000000000000
+      internalID: -236783008790452643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c4c89dab82783f0800000000000000
+      internalID: -898704817658246130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af2b51a31c5d630800000000000000
+      internalID: 3951276703303793212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 226
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f7bcb81a6a01330800000000000000
+      internalID: 3679624108327010110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c65d752c33780d30800000000000000
+      internalID: 4397891738291492544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 226
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7c8305e3ce6690800000000000000
+      internalID: -7606927332207722910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1db580c5aaf3f60800000000000000
+      internalID: 8016313173996720598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115e928f2b005740800000000000000
+      internalID: 5138619473512517912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeff186d52beb6990800000000000000
+      internalID: -7391555815653376018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 193
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8211c50ce21606390800000000000000
+      internalID: -7827149298946272984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 193
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040100ce750766080800000000000000
+      internalID: -9194538066306396096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83729c1379cae3f80800000000000000
+      internalID: -8124866912354490568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 194
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb25d064439b590800000000000000
+      internalID: -7658032215890936625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6758d92acc1d2e30800000000000000
+      internalID: 4480268858914527082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6eb05f49de28af0800000000000000
+      internalID: -395492593233041713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48e5b0892e98ce0800000000000000
+      internalID: -1402340666295548759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ff7889e8e96e10800000000000000
+      internalID: 2191538783407568739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4304a1413d3be630800000000000000
+      internalID: 3957323979339072333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2985975814f57b60800000000000000
+      internalID: 7743363519719246122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c7cf4695e13a210800000000000000
+      internalID: 1342950483181730929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09d6cc0bc3c4380800000000000000
+      internalID: -8985740426469338976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 162
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82cae1a67c9ff490800000000000000
+      internalID: -7710272003698408819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994516ba07984430800000000000000
+      internalID: 3767427160555735444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db563f1b4c304e2f0800000000000000
+      internalID: -944625878506969667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 97
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99cafc2592c0cbe0800000000000000
+      internalID: -1458952333307491938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 119
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b79900ec583b40800000000000000
+      internalID: 5420184268843758670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 134
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369c139c93d54b90800000000000000
+      internalID: -7258162555001203150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 134
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9a5f7acabd601c0800000000000000
+      internalID: -4537698039930443354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080bb592612d8000800000000000000
+      internalID: 39724679018776581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec8172484dc447a0800000000000000
+      internalID: -6393759860723184415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112406f2ce9be8d90800000000000000
+      internalID: -7093527939003694575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3c37f190e54ca0800000000000000
+      internalID: -6033169208270111098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 97
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d852fa3348e7fa0800000000000000
+      internalID: -5801053912489947787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_34
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf8dd1ebcd8654f0800000000000000
+      internalID: -840328373650747462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c93d7c919486b0800000000000000
+      internalID: -5294947160578995799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cad79cbc2433eb0800000000000000
+      internalID: -4741372539664749504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c94a4c40757920800000000000000
+      internalID: 2987417400796367187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3125a3736329520800000000000000
+      internalID: 2707285936832648169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd823280f95ac200800000000000000
+      internalID: 201072022882782709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9eb1f1a2ebbdb50800000000000000
+      internalID: 6619093165470902738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 39
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eed6653cb86f030800000000000000
+      internalID: 3528161029176290893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c045d8b180de80800000000000000
+      internalID: -8155876294316210639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ba4c765fa8cc80800000000000000
+      internalID: -8302193127070189207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd85174f095d410800000000000000
+      internalID: 1501265430345998162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb192d2ecf662a40800000000000000
+      internalID: 5343080939233287167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0237d3e73d8d9b5e0800000000000000
+      internalID: -1893243765464927456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930861fdb3450e90800000000000000
+      internalID: -7060162357755378793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280b1aa30a366d140800000000000000
+      internalID: 4744088797310988418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41f0cba897bc0f10800000000000000
+      internalID: 2237364981240754509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1ee27bc0dd99110800000000000000
+      internalID: 1268287816764154284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5170b8b854e19f5c0800000000000000
+      internalID: -4181277494994073835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892613026a850730800000000000000
+      internalID: 3964727200532801930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moody mushroom D v03_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 12
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e8d371e1776f50800000000000000
+      internalID: 6874588569329526264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

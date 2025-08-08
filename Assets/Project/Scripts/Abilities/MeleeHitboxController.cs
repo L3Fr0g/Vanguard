@@ -12,10 +12,10 @@ namespace CharacterNamespace
         [SerializeField] private float activeDuration = 0.15f;
         [SerializeField] private float hitboxWidth = 1f;
 
+        private Transform owner;
         private BoxCollider2D hitboxCollider;
-        private float currentDamage;
-
         private List<Collider2D> alreadyHitTargets = new List<Collider2D>();
+        private float currentDamage;
 
         private void Awake()
         {
@@ -23,17 +23,15 @@ namespace CharacterNamespace
             hitboxCollider.enabled = false;
         }
 
-        public void PerformAttack(float damage, Vector2 direction, float range)
+        public void PerformAttack(int damage, Vector2 direction, float range, Transform attackOwner)
         {
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
             transform.rotation = Quaternion.Euler(0f, 0f, angle);
-            if (hitboxCollider != null )
-            {
-                hitboxCollider.size = new Vector2(range, hitboxWidth);
-                hitboxCollider.offset = new Vector2(range / 2f, 0);
-            }
+            hitboxCollider.size = new Vector2(range, hitboxWidth);
+            hitboxCollider.offset = new Vector2(range / 2f, 0);
 
             currentDamage = damage;
+            owner = attackOwner;
             StartCoroutine(AttackSequence());
         }
 
@@ -47,14 +45,18 @@ namespace CharacterNamespace
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.CompareTag("Player") || alreadyHitTargets.Contains(other))
+            if (other.transform == owner || alreadyHitTargets.Contains(other)) return;
+
+            if (other.TryGetComponent<EnemyNamespace.EnemyHealth>(out var enemyHealth))
             {
-                return;
+                enemyHealth.TakeDamage(currentDamage, owner);
+                alreadyHitTargets.Add(other);
             }
 
-            if (other.CompareTag("Enemy"))
+            if (other.TryGetComponent<PlayerHealth>(out var playerHealth))
             {
-                Debug.Log($"Polearm hit {other.name} for {currentDamage}");
+                playerHealth.TakeDamage(currentDamage);
+                Debug.Log($"<color=orange>{this.name} hit {other.name} for {currentDamage} damage!</color>");
                 alreadyHitTargets.Add(other);
             }
         }

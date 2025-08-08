@@ -1,11 +1,10 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using AnimationNamespace;
 using CharacterNamespace;
-using MovementNamespace;
-using UINamespace;
 using InventoryNamespace;
-using System.Collections;
+using UINamespace;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,9 +12,8 @@ public class PlayerController : MonoBehaviour
     private Movement movement;
     private PlayerAbilityManager playerAbilityManager;
     private PlayerControls playerControls;
-    private PlayerInteractor playerInteractor;
     private PlayerEquipment playerEquipment;
-    private PlayerStats playerStats;
+    private CharacterStats stats;
 
     private Vector2 moveDirection;
     private Vector2 lookDirection;
@@ -28,9 +26,8 @@ public class PlayerController : MonoBehaviour
         movement = GetComponent<Movement>();
         playerAbilityManager = GetComponent<PlayerAbilityManager>();
         playerControls = new PlayerControls();
-        playerInteractor = GetComponent<PlayerInteractor>();
         playerEquipment = GetComponent<PlayerEquipment>();
-        playerStats = GetComponent<PlayerStats>();
+        stats = GetComponent<CharacterStats>();
 
         playerControls.UIActions.Inventory.performed += _ => ToggleInventory();
         playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
@@ -44,13 +41,13 @@ public class PlayerController : MonoBehaviour
     {
         if(isInteracting)
         {
-            movement.SetTargetVelocity(Vector2.zero);
+            movement.SetMoveDirection(Vector2.zero);
             return;
         }
 
         moveDirection = playerControls.Movement.Move.ReadValue<Vector2>();
-        float currentSpeed = playerStats.MovementSpeed;
-        movement.SetTargetVelocity(moveDirection * currentSpeed);
+
+        float currentSpeed = stats.MovementSpeed;
 
         if (isUnsheathed)
         {
@@ -61,7 +58,9 @@ public class PlayerController : MonoBehaviour
         else
         {
             lookDirection = moveDirection;
+            currentSpeed = stats.MovementSpeed;
         }
+        movement.SetMoveDirection(moveDirection);
         playerAbilityManager.UpdateAimDirection(lookDirection);
         animationController.UpdateAnimations(moveDirection, lookDirection, isUnsheathed);
     }
@@ -72,16 +71,15 @@ public class PlayerController : MonoBehaviour
 
         if (targetPoint != null)
         {
-            Debug.Log("Moving to interaction point...");
             while (Vector2.Distance(transform.position, targetPoint.position) > 0.1f)
             {
                 Vector2 direction = (targetPoint.position - transform.position).normalized;
-                movement.SetTargetVelocity(direction * playerStats.MovementSpeed);
+                movement.SetMoveDirection(direction * stats.MovementSpeed);
                 yield return null;
             }
         }
 
-        movement.SetTargetVelocity(Vector2.zero);
+        movement.SetMoveDirection(Vector2.zero);
         Debug.Log("Starting gathering animation.");
         animationController.SetActionBool("isGatering", true);
     }
@@ -118,6 +116,7 @@ public class PlayerController : MonoBehaviour
     {
         if (isInteracting || !playerEquipment.IsWeaponEquipped()) return;
         isUnsheathed = !isUnsheathed;
+        movement.SetMovementState(isUnsheathed ? Movement.MovementState.Unsheathed : Movement.MovementState.Sheathed);
     }
 
     public void ForceSheathedState()
@@ -139,7 +138,7 @@ public class PlayerController : MonoBehaviour
         {
             if (playerEquipment.IsWeaponEquipped())
             {
-                isUnsheathed = true;
+                ToggleSheathe();
             }
             else
             {

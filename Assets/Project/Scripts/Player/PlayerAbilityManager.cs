@@ -19,18 +19,20 @@ namespace CharacterNamespace
 
         public bool actionInputWasCancelled = false;
 
+        private AnimationController animationController;
+        private PlayerControls playerControls;
         private PlayerEquipment playerEquipment;
         private PlayerStats playerStats;
-        private PlayerControls playerControls;
-        private AnimationController animationController;
+        private Movement movement;
         public List<Ability> useableAbilities = new List<Ability>();
 
         private void Awake()
         {
-            playerEquipment = GetComponent<PlayerEquipment>();
-            playerStats = GetComponent<PlayerStats>();
             animationController = GetComponent<AnimationController>();
             playerControls = new PlayerControls();
+            playerEquipment = GetComponent<PlayerEquipment>();
+            playerStats = GetComponent<PlayerStats>();
+            movement = GetComponent<Movement>();
 
             playerControls.Actions.Action1.started += _ => UsePrimaryAbility();
             playerControls.Actions.CancelAction.performed += _ => CancelAction();
@@ -99,6 +101,7 @@ namespace CharacterNamespace
         {
             isCasting = true;
             Debug.Log($"Casting '{ability.abilityName}'... waiting {ability.castTime}s");
+            movement.SetMovementState(Movement.MovementState.Attacking);
             yield return new WaitForSeconds(ability.castTime);
             Cast(ability);
             isCasting = false;
@@ -110,7 +113,7 @@ namespace CharacterNamespace
             animationController.SetActionBool("action1", true);
             float currentChargeTime = 0f;
             float minRequiredCharge = ability.castTime * playerStats.AttackSpeed;
-
+            movement.SetMovementState(Movement.MovementState.Attacking);
             Debug.Log($"Drawing arrow... Must hold for at least {minRequiredCharge:F2}s");
 
             while (currentChargeTime < minRequiredCharge)
@@ -142,6 +145,7 @@ namespace CharacterNamespace
             isCasting = false;
             animationController.SetActionBool("action1", false);
             abilityCooldowns[ability] = Time.time + ability.cooldown;
+            movement.SetMovementState(Movement.MovementState.Unsheathed);
 
             switch (ability.attackType)
             {
@@ -178,14 +182,14 @@ namespace CharacterNamespace
 
                 if (projectile.TryGetComponent<ProjectileController>(out var controller))
                 {
-                    float damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
+                    int damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
                     float range = 0f;
                     var mainHandSlot = playerEquipment.equippedItems[PlayerEquipment.EquipmentSlot.MainHand];
                     if (mainHandSlot.itemData is WeaponData weapon)
                     {
                         range = weapon.range;
                     }
-                    controller.Initialize(damage, range);
+                    controller.Initialize(damage, range, transform);
                     Debug.Log($"Calculated Damage: {damage}");
                 }
             }
@@ -197,7 +201,7 @@ namespace CharacterNamespace
 
             if (hitbox != null)
             {
-                float damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
+                int damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
                 float range = 0f;
                 var mainHandSlot = playerEquipment.equippedItems[PlayerEquipment.EquipmentSlot.MainHand];
                 if (mainHandSlot?.itemData is WeaponData weapon) 
@@ -207,7 +211,7 @@ namespace CharacterNamespace
 
                 if (range <= 0) range = 1.5f;
 
-                hitbox.PerformAttack(damage, currentAimDirection, range);
+                hitbox.PerformAttack(damage, currentAimDirection, range, transform);
             }
             else
             {

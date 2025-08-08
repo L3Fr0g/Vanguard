@@ -54,6 +54,7 @@ GameObject:
   - component: {fileID: 3372174653384034321}
   - component: {fileID: 4051408412159316496}
   - component: {fileID: 195707054428776557}
+  - component: {fileID: 6363475651779713197}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -233,8 +234,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27a2fd8a072ecf54a812dce265a185dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  acceleration: 50
-  deceleration: 100
+  unsheathedSpeedMultiplier: 0.75
+  attackingSpeedMultiplier: 0.5
+  stats: {fileID: 0}
 --- !u!114 &4074467008405777598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -259,6 +261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a87a1306d7a1fd7479433bd1c5093524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  unsheathedSpeedMultiplier: 0.9
 --- !u!114 &4617286694976074494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -334,7 +337,7 @@ MonoBehaviour:
   baseArmorPenetration: 0
   baseMagicPenetration: 0
   baseAttackSpeed: 1
-  baseMovementSpeed: 1
+  baseMovementSpeed: 4
   MaxHealth: 0
   MaxMana: 0
   MaxStamina: 0
@@ -351,7 +354,6 @@ MonoBehaviour:
   ArmorPenetration: 0
   MagicPenetration: 0
   AttackSpeed: 0
-  MovementSpeed: 0
 --- !u!114 &3372174653384034321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -398,6 +400,22 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   playerController: {fileID: 7862743891707683184}
+--- !u!114 &6363475651779713197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4748672499677687172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0dfc6c8240c114bb6f7b491066fdfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameplatePrefab: {fileID: 278501723234901050, guid: e85f4e9f3411636448b71c88f9e4d3ec, type: 3}
+  OnHealthChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4756014050304621480
 GameObject:
   m_ObjectHideFlags: 0
