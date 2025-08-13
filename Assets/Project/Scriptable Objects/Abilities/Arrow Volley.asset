@@ -10,18 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1b6fb97cf19a74e4ca1f7c3d2dfb89d7, type: 3}
-  m_Name: Rain of Arrows
+  m_Name: Arrow Volley
   m_EditorClassIdentifier: 
-  abilityName: Rain of Arrows
-  abilityDescription: 
+  abilityName: Arrow Volley
+  abilityDescription: Deals damage over time to all enemies in a targeted area.
+  animationAction: action2
   abilityType: 0
   attackType: 1
-  castType: 0
-  cooldown: 30
-  castDuration: 0
-  castTime: 1
-  manaCost: 0
-  stamingCost: 0
+  castType: 2
+  abilitySlot: 1
+  abilityPrefab: {fileID: 5981393412090917511, guid: e11faccb8de90ba4e906d138d9d27f41, type: 3}
   icon: {fileID: 0}
-  abilityPrefab: {fileID: 0}
-  methodName: 
+  isPressed: 0
+  range: 20
+  cooldown: 2
+  castDuration: 0
+  minChargeTime: 0.1
+  manaCost: 0
+  staminaCost: 0
+  isAreaOfEffect: 1
+  areaDuration: 3
+  areaTickRate: 0.5

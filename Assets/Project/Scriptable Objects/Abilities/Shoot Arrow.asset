@@ -14,14 +14,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   abilityName: Shoot Arrow
   abilityDescription: 
+  animationAction: action1
   abilityType: 0
   attackType: 1
   castType: 2
+  abilitySlot: 0
+  abilityPrefab: {fileID: 2647999094275984984, guid: ab218fc78e597cf45b5386e1ea7903c7, type: 3}
+  icon: {fileID: 0}
+  isPressed: 0
+  range: 20
   cooldown: 0
   castDuration: 0
-  castTime: 1
+  minChargeTime: 1
   manaCost: 0
-  stamingCost: 30
-  icon: {fileID: 0}
-  abilityPrefab: {fileID: 2647999094275984984, guid: ab218fc78e597cf45b5386e1ea7903c7, type: 3}
-  methodName: 
+  staminaCost: 0
+  isAreaOfEffect: 0
+  areaDuration: 3
+  areaTickRate: 0.5

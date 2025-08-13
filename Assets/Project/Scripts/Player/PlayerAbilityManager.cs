@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using InventoryNamespace;
 using AnimationNamespace;
-using UnityEditor.Rendering;
 
 namespace CharacterNamespace
 {
@@ -13,13 +12,14 @@ namespace CharacterNamespace
         [SerializeField] private Transform projectileSpawnPoint;
 
         private bool isCasting = false;
-        private Coroutine activeCastCoroutine;
         private Dictionary<Ability, float> abilityCooldowns = new Dictionary<Ability, float>();
+
         private Vector2 currentAimDirection;
 
         public bool actionInputWasCancelled = false;
 
         private AnimationController animationController;
+        private Coroutine activeCastCoroutine;
         private PlayerControls playerControls;
         private PlayerEquipment playerEquipment;
         private PlayerStats playerStats;
@@ -33,10 +33,6 @@ namespace CharacterNamespace
             playerEquipment = GetComponent<PlayerEquipment>();
             playerStats = GetComponent<PlayerStats>();
             movement = GetComponent<Movement>();
-
-            playerControls.Actions.Action1.started += _ => UsePrimaryAbility();
-            playerControls.Actions.CancelAction.performed += _ => CancelAction();
-            playerControls.Actions.Action1.canceled += _ => actionInputWasCancelled = false;
         }
 
         private void OnEnable() => playerControls.Enable();
@@ -44,21 +40,11 @@ namespace CharacterNamespace
 
         public void UpdateAimDirection(Vector2 direction) => currentAimDirection = direction;
 
-        public void UsePrimaryAbility()
+        public void UseAbility(Ability ability)
         {
-            if (actionInputWasCancelled) return;
-
-            if (useableAbilities.Count > 0 && playerEquipment.IsWeaponEquipped())
-            {
-                OnAbilityButtonPressed(0);
-            }
-        }
-
-        private void OnAbilityButtonPressed(int abilityIndex)
-        {
-            if (isCasting || abilityIndex >= useableAbilities.Count) return;
-            Ability ability = useableAbilities[abilityIndex];
+            if (isCasting) return;
             if (abilityCooldowns.ContainsKey(ability) && Time.time < abilityCooldowns[ability]) return;
+            if ((ability.abilitySlot == AbilitySlot.Primary || ability.abilitySlot == AbilitySlot.Secondary) && !playerEquipment.IsWeaponEquipped()) return;
 
             switch (ability.castType)
             {
@@ -74,13 +60,14 @@ namespace CharacterNamespace
             }
         }
 
-        private void CancelAction()
+        public void CancelAbility()
         {
             if (isCasting)
             {
                 actionInputWasCancelled = true;
                 animationController.PlayCancelAnimation();
                 animationController.SetActionBool("action1", false);
+                animationController.SetActionBool("action2", false);
                 if (activeCastCoroutine != null) StopCoroutine(activeCastCoroutine);
                 isCasting = false;
                 Debug.Log("<color=orange>Cast Cancelled by Player!</color>");
@@ -90,19 +77,17 @@ namespace CharacterNamespace
         private IEnumerator PerformInstantCast(Ability ability)
         {
             isCasting = true;
-            animationController.SetActionBool("action1", true);
-
+            animationController.SetActionBool(ability.animationAction, true);
             yield return new WaitForSeconds(0.1f);
-
             Cast(ability);
         }
 
         private IEnumerator PerformCastWithDelay(Ability ability)
         {
             isCasting = true;
-            Debug.Log($"Casting '{ability.abilityName}'... waiting {ability.castTime}s");
+            Debug.Log($"Casting '{ability.abilityName}'... waiting {ability.minChargeTime}s");
             movement.SetMovementState(Movement.MovementState.Attacking);
-            yield return new WaitForSeconds(ability.castTime);
+            yield return new WaitForSeconds(ability.minChargeTime);
             Cast(ability);
             isCasting = false;
         }
@@ -110,22 +95,22 @@ namespace CharacterNamespace
         private IEnumerator PerformCharge(Ability ability)
         {
             isCasting = true;
-            animationController.SetActionBool("action1", true);
+            animationController.SetActionBool(ability.animationAction, true);
             float currentChargeTime = 0f;
-            float minRequiredCharge = ability.castTime * playerStats.AttackSpeed;
+            float minRequiredCharge = ability.minChargeTime * playerStats.AttackSpeed;
             movement.SetMovementState(Movement.MovementState.Attacking);
             Debug.Log($"Drawing arrow... Must hold for at least {minRequiredCharge:F2}s");
 
             while (currentChargeTime < minRequiredCharge)
             {
-                if (!isCasting) { animationController.SetActionBool("action1", false); yield break; }
+                if (!isCasting) { animationController.SetActionBool(ability.animationAction, false); yield break; }
                 currentChargeTime += Time.deltaTime;
                 yield return null;
             }
 
-            Debug.Log("<color=lime>Arrow is drawn. Witing for release...</color>");
+            Debug.Log("<color=lime>Arrow is drawn. Waiting for release...</color>");
 
-            while (playerControls.Actions.Action1.IsPressed())
+            while (ability.isPressed)
             {
                 if (!isCasting){ yield break; }
                 currentChargeTime += Time.deltaTime;
@@ -143,14 +128,14 @@ namespace CharacterNamespace
         {
             if (ability == null) return;
             isCasting = false;
-            animationController.SetActionBool("action1", false);
+            animationController.SetActionBool(ability.animationAction, false);
             abilityCooldowns[ability] = Time.time + ability.cooldown;
             movement.SetMovementState(Movement.MovementState.Unsheathed);
 
             switch (ability.attackType)
             {
                 case AttackType.Ranged:
-                    HandleProjectileCast(ability);
+                    HandleRangedCast(ability);
                     break;
                 case AttackType.Melee:
                     HandleMeleeCast(ability);
@@ -158,9 +143,15 @@ namespace CharacterNamespace
             }
         }
 
-        private void HandleProjectileCast(Ability ability)
+        private void HandleRangedCast(Ability ability)
         {
             GameObject projectileToSpawn = playerEquipment.GetEquippedProjectilePrefab();
+
+            if (ability.isAreaOfEffect)
+            {
+                HandleAreaOfEffectCast(ability);
+                return;
+            }
 
             if (projectileToSpawn == null)
             {
@@ -183,15 +174,29 @@ namespace CharacterNamespace
                 if (projectile.TryGetComponent<ProjectileController>(out var controller))
                 {
                     int damage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
-                    float range = 0f;
-                    var mainHandSlot = playerEquipment.equippedItems[PlayerEquipment.EquipmentSlot.MainHand];
-                    if (mainHandSlot.itemData is WeaponData weapon)
-                    {
-                        range = weapon.range;
-                    }
-                    controller.Initialize(damage, range, transform);
-                    Debug.Log($"Calculated Damage: {damage}");
+                    controller.Initialize(damage, ability.range, transform);
                 }
+            }
+        }
+
+        private void HandleAreaOfEffectCast(Ability ability)
+        {
+            Vector2 playerPosition = transform.position;
+            Vector2 targetPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            float distance = Vector2.Distance(playerPosition, targetPosition);
+            Vector2 direction = (targetPosition - playerPosition).normalized;
+
+            if (distance > ability.range) //if cursor is > maxRange targetPosition = maxRange
+            {
+                targetPosition = playerPosition + (direction * ability.range);
+            }
+
+            GameObject AOEInstance = Instantiate(ability.abilityPrefab, targetPosition, Quaternion.identity);
+
+            if (AOEInstance.TryGetComponent<AreaOfEffectController>(out var AOEController))
+            {
+                float totalDamage = Random.Range(playerStats.MinPhysicalDamage, playerStats.MaxPhysicalDamage + 1);
+                AOEController.Initialize(totalDamage, ability.areaDuration, ability.areaTickRate, transform);
             }
         }
 

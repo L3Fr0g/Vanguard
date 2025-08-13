@@ -1,19 +1,22 @@
-using System.Collections;
-using UnityEngine;
-using UnityEngine.InputSystem;
 using AnimationNamespace;
 using CharacterNamespace;
 using InventoryNamespace;
+using System.Collections;
+using System.Collections.Generic;
 using UINamespace;
+using Unity.VisualScripting;
+using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
     private AnimationController animationController;
+    private CharacterStats stats;
+    private Dictionary<AbilitySlot, Ability> slottedAbilities = new Dictionary<AbilitySlot, Ability>();
     private Movement movement;
     private PlayerAbilityManager playerAbilityManager;
     private PlayerControls playerControls;
     private PlayerEquipment playerEquipment;
-    private CharacterStats stats;
 
     private Vector2 moveDirection;
     private Vector2 lookDirection;
@@ -31,7 +34,11 @@ public class PlayerController : MonoBehaviour
 
         playerControls.UIActions.Inventory.performed += _ => ToggleInventory();
         playerControls.Actions.Unsheath.performed += _ => ToggleSheathe();
-        playerControls.Actions.Action1.performed += _ => PerformPrimaryAction();
+        playerControls.Actions.CancelAction.performed += _ => CancelAction();
+        playerControls.Actions.Action1.started += _ => OnActionPressed(AbilitySlot.Primary);
+        playerControls.Actions.Action1.canceled += _ => OnActionReleased(AbilitySlot.Primary);
+        playerControls.Actions.Action2.started += _ => OnActionPressed(AbilitySlot.Secondary);
+        playerControls.Actions.Action2.canceled += _ => OnActionReleased(AbilitySlot.Secondary);
     }
 
     private void OnEnable() => playerControls.Enable();
@@ -65,6 +72,12 @@ public class PlayerController : MonoBehaviour
         animationController.UpdateAnimations(moveDirection, lookDirection, isUnsheathed);
     }
 
+    public void AssignAbilityToSlot(Ability ability, AbilitySlot slot)
+    {
+        slottedAbilities[slot] = ability;
+        Debug.Log($"Assigned '{ability.abilityName}' to slot {slot}");
+    }
+
     public IEnumerator StartInteraction(Transform targetPoint)
     {
         isInteracting = true;
@@ -80,7 +93,6 @@ public class PlayerController : MonoBehaviour
         }
 
         movement.SetMoveDirection(Vector2.zero);
-        Debug.Log("Starting gathering animation.");
         animationController.SetActionBool("isGatering", true);
     }
 
@@ -92,15 +104,9 @@ public class PlayerController : MonoBehaviour
 
         switch (type)
         {
-            case InteractionType.Mining:
-                animationController.SetActionBool("isMining", true);
-                break;
-            case InteractionType.Fishing:
-                animationController.SetActionBool("isFishing", true);
-                break;
-            case InteractionType.Pickup:
-                animationController.SetActionBool("isPickup", true);
-                break;
+            case InteractionType.Mining: animationController.SetActionBool("isMining", true); break;
+            case InteractionType.Fishing: animationController.SetActionBool("isFishing", true); break;
+            case InteractionType.Pickup: animationController.SetActionBool("isPickup", true); break;
         }
     }
 
@@ -116,6 +122,7 @@ public class PlayerController : MonoBehaviour
     {
         if (isInteracting || !playerEquipment.IsWeaponEquipped()) return;
         isUnsheathed = !isUnsheathed;
+        CancelAction();
         movement.SetMovementState(isUnsheathed ? Movement.MovementState.Unsheathed : Movement.MovementState.Sheathed);
     }
 
@@ -132,9 +139,15 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void PerformPrimaryAction()
+    private void CancelAction()
     {
-        if (!isUnsheathed)
+        playerAbilityManager.CancelAbility();
+        movement.SetMovementState(isUnsheathed ? Movement.MovementState.Unsheathed : Movement.MovementState.Sheathed);
+    }
+
+    private void OnActionPressed(AbilitySlot slot)
+    {
+        if ((slot == AbilitySlot.Primary || slot == AbilitySlot.Secondary) && !isUnsheathed)
         {
             if (playerEquipment.IsWeaponEquipped())
             {
@@ -146,9 +159,16 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (playerAbilityManager != null)
+        if (slottedAbilities.TryGetValue(slot, out Ability ability))
         {
-            playerAbilityManager.UsePrimaryAbility();
+            playerAbilityManager.UseAbility(ability);
+            ability.isPressed = true;
         }
+    }
+
+    private void OnActionReleased(AbilitySlot slot)
+    {
+        slottedAbilities.TryGetValue(slot, out Ability ability);
+        ability.isPressed = false;
     }
 }

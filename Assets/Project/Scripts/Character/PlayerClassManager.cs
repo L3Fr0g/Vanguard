@@ -9,15 +9,11 @@ namespace InventoryNamespace
         [Header("Class")]
         [SerializeField] private ClassData currentClassData;
 
-        [Header("Component References")]
-        [SerializeField] private PlayerAbilityManager playerAbilityManager;
+        private PlayerController playerController;
 
         private void Awake()
-        {
-            if (playerAbilityManager == null)
-            {
-                playerAbilityManager = GetComponent<PlayerAbilityManager>();
-            }
+        {   
+            playerController = GetComponent<PlayerController>();
         }
 
         private void Start()
@@ -33,10 +29,9 @@ namespace InventoryNamespace
                 return;
             }
 
-            if (playerAbilityManager != null)
+            foreach (var ability in currentClassData.startingAbilities)
             {
-                playerAbilityManager.ClearAllAbilities();
-                playerAbilityManager.AddAbilities(currentClassData.startingAbilities);
+                playerController.AssignAbilityToSlot(ability, ability.abilitySlot);
             }
         }
     }
